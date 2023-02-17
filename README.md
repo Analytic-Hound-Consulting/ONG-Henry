@@ -1,2 +1,2 @@
 # ONG-Henry
-Repositorio con el entrgable para el cliente ONG Henry.
+Repositorio con el entregable para el cliente ONG Henry.
