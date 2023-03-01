@@ -46,11 +46,11 @@ Cliqueando ➡️[aqui](http://107.21.7.155:8501/)⬅️ podrás ingresar a la p
 Conocé a nuestros miembros!!
 
 ![TEAM](https://github.com/Analytic-Hound-Consulting/ONG-Henry/blob/main/graph/team.png)
-|ALAN MYSLER   |   |   |   |   |
+|ALAN MYSLER   | BELEN ZAPATA  | LUCAS RODRIGUEZ   | EUGENIA BALL  |  MAURO G. PINI |
 |---|---|---|---|---|
-|   DATA SCIENTIST|   |   |   |   |
+|   DATA SCIENTIST| DATA ANALYST  |  DATA ENGINEER |   DATA ENGINEER |  FUNCTIONAL ANALYST |
 |---|---|---|---|---|
-|  [LINKEDIN](https://www.linkedin.com/in/amysler/) |   |   |   |   |
+|  [LINKEDIN](https://www.linkedin.com/in/amysler/) | [LINKEDIN](https://www.linkedin.com/in/amysler/) |[LINKEDIN](https://www.linkedin.com/in/amysler/) |[LINKEDIN](https://www.linkedin.com/in/amysler/)    | [LINKEDIN](https://www.linkedin.com/in/amysler/)   |
 
 FOTO LINKEDIN MAIL --> no se como mierda hacerlo de forma estética 
 ...acá poner una tabla con nuestros datos
