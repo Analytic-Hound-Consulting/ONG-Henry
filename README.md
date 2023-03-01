@@ -45,6 +45,7 @@ Cliqueando ➡️[aqui](http://107.21.7.155:8501/)⬅️ podrás ingresar a la p
 
 Conocé a nuestros miembros!!
 
+![TEAM](https://github.com/Analytic-Hound-Consulting/ONG-Henry/blob/main/graph/team.png)
 FOTO LINKEDIN MAIL --> no se como mierda hacerlo de forma estética 
 ...acá poner una tabla con nuestros datos
 
