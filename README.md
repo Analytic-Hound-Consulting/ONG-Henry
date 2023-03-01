@@ -49,7 +49,6 @@ Conocé a nuestros miembros!!
 |ALAN MYSLER   | BELEN ZAPATA  | LUCAS RODRIGUEZ   | EUGENIA BALL  |  MAURO G. PINI |
 |---|---|---|---|---|
 |   DATA SCIENTIST| DATA ANALYST  |  DATA ENGINEER |   DATA ENGINEER |  FUNCTIONAL ANALYST |
-|---|---|---|---|---|
 |  [LINKEDIN](https://www.linkedin.com/in/amysler/) | [LINKEDIN](https://www.linkedin.com/in/amysler/) |[LINKEDIN](https://www.linkedin.com/in/amysler/) |[LINKEDIN](https://www.linkedin.com/in/amysler/)    | [LINKEDIN](https://www.linkedin.com/in/amysler/)   |
 
 FOTO LINKEDIN MAIL --> no se como mierda hacerlo de forma estética 
