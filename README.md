@@ -50,7 +50,7 @@ Conocé a nuestros miembros!!
 |---|---|---|---|---|
 |   DATA SCIENTIST|   |   |   |   |
 |---|---|---|---|---|
-|  [LINKEDIN]([http://107.21.7.155:8501/](https://www.linkedin.com/in/amysler/)) |   |   |   |   |
+|  [LINKEDIN]([https://www.linkedin.com/in/amysler/]) |   |   |   |   |
 
 FOTO LINKEDIN MAIL --> no se como mierda hacerlo de forma estética 
 ...acá poner una tabla con nuestros datos
