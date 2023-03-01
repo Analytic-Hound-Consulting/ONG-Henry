@@ -1,0 +1,5955 @@
+,Country Name,Country Code,Year,Value
+0,Arab World,ARB,1990,289
+1,Arab World,ARB,1991,285
+2,Arab World,ARB,1992,281
+3,Arab World,ARB,1993,278
+4,Arab World,ARB,1994,274
+5,Arab World,ARB,1995,269
+6,Arab World,ARB,1996,264
+7,Arab World,ARB,1997,258
+8,Arab World,ARB,1998,251
+9,Arab World,ARB,1999,245
+10,Arab World,ARB,2000,238
+11,Arab World,ARB,2001,233
+12,Arab World,ARB,2002,226
+13,Arab World,ARB,2003,221
+14,Arab World,ARB,2004,214
+15,Arab World,ARB,2005,207
+16,Arab World,ARB,2006,200
+17,Arab World,ARB,2007,193
+18,Arab World,ARB,2008,186
+19,Arab World,ARB,2009,180
+20,Arab World,ARB,2010,174
+21,Arab World,ARB,2011,170
+22,Arab World,ARB,2012,166
+23,Arab World,ARB,2013,163
+24,Arab World,ARB,2014,159
+25,Arab World,ARB,2015,156
+26,Caribbean small states,CSS,1990,94
+27,Caribbean small states,CSS,1991,93
+28,Caribbean small states,CSS,1992,94
+29,Caribbean small states,CSS,1993,95
+30,Caribbean small states,CSS,1994,100
+31,Caribbean small states,CSS,1995,102
+32,Caribbean small states,CSS,1996,105
+33,Caribbean small states,CSS,1997,106
+34,Caribbean small states,CSS,1998,107
+35,Caribbean small states,CSS,1999,109
+36,Caribbean small states,CSS,2000,111
+37,Caribbean small states,CSS,2001,111
+38,Caribbean small states,CSS,2002,111
+39,Caribbean small states,CSS,2003,110
+40,Caribbean small states,CSS,2004,110
+41,Caribbean small states,CSS,2005,110
+42,Caribbean small states,CSS,2006,107
+43,Caribbean small states,CSS,2007,106
+44,Caribbean small states,CSS,2008,101
+45,Caribbean small states,CSS,2009,97
+46,Caribbean small states,CSS,2010,104
+47,Caribbean small states,CSS,2011,102
+48,Caribbean small states,CSS,2012,101
+49,Caribbean small states,CSS,2013,101
+50,Caribbean small states,CSS,2014,100
+51,Caribbean small states,CSS,2015,99
+52,Central Europe and the Baltics,CEB,1990,41
+53,Central Europe and the Baltics,CEB,1991,37
+54,Central Europe and the Baltics,CEB,1992,34
+55,Central Europe and the Baltics,CEB,1993,32
+56,Central Europe and the Baltics,CEB,1994,30
+57,Central Europe and the Baltics,CEB,1995,28
+58,Central Europe and the Baltics,CEB,1996,26
+59,Central Europe and the Baltics,CEB,1997,25
+60,Central Europe and the Baltics,CEB,1998,23
+61,Central Europe and the Baltics,CEB,1999,22
+62,Central Europe and the Baltics,CEB,2000,20
+63,Central Europe and the Baltics,CEB,2001,18
+64,Central Europe and the Baltics,CEB,2002,17
+65,Central Europe and the Baltics,CEB,2003,16
+66,Central Europe and the Baltics,CEB,2004,15
+67,Central Europe and the Baltics,CEB,2005,14
+68,Central Europe and the Baltics,CEB,2006,13
+69,Central Europe and the Baltics,CEB,2007,12
+70,Central Europe and the Baltics,CEB,2008,12
+71,Central Europe and the Baltics,CEB,2009,12
+72,Central Europe and the Baltics,CEB,2010,11
+73,Central Europe and the Baltics,CEB,2011,11
+74,Central Europe and the Baltics,CEB,2012,11
+75,Central Europe and the Baltics,CEB,2013,11
+76,Central Europe and the Baltics,CEB,2014,11
+77,Central Europe and the Baltics,CEB,2015,11
+78,Early-demographic dividend,EAR,1990,456
+79,Early-demographic dividend,EAR,1991,442
+80,Early-demographic dividend,EAR,1992,428
+81,Early-demographic dividend,EAR,1993,415
+82,Early-demographic dividend,EAR,1994,401
+83,Early-demographic dividend,EAR,1995,388
+84,Early-demographic dividend,EAR,1996,375
+85,Early-demographic dividend,EAR,1997,362
+86,Early-demographic dividend,EAR,1998,349
+87,Early-demographic dividend,EAR,1999,335
+88,Early-demographic dividend,EAR,2000,321
+89,Early-demographic dividend,EAR,2001,308
+90,Early-demographic dividend,EAR,2002,294
+91,Early-demographic dividend,EAR,2003,280
+92,Early-demographic dividend,EAR,2004,267
+93,Early-demographic dividend,EAR,2005,253
+94,Early-demographic dividend,EAR,2006,240
+95,Early-demographic dividend,EAR,2007,228
+96,Early-demographic dividend,EAR,2008,217
+97,Early-demographic dividend,EAR,2009,207
+98,Early-demographic dividend,EAR,2010,197
+99,Early-demographic dividend,EAR,2011,188
+100,Early-demographic dividend,EAR,2012,180
+101,Early-demographic dividend,EAR,2013,172
+102,Early-demographic dividend,EAR,2014,165
+103,Early-demographic dividend,EAR,2015,159
+104,East Asia & Pacific,EAS,1990,159
+105,East Asia & Pacific,EAS,1991,151
+106,East Asia & Pacific,EAS,1992,146
+107,East Asia & Pacific,EAS,1993,140
+108,East Asia & Pacific,EAS,1994,133
+109,East Asia & Pacific,EAS,1995,129
+110,East Asia & Pacific,EAS,1996,125
+111,East Asia & Pacific,EAS,1997,122
+112,East Asia & Pacific,EAS,1998,119
+113,East Asia & Pacific,EAS,1999,116
+114,East Asia & Pacific,EAS,2000,113
+115,East Asia & Pacific,EAS,2001,110
+116,East Asia & Pacific,EAS,2002,106
+117,East Asia & Pacific,EAS,2003,102
+118,East Asia & Pacific,EAS,2004,98
+119,East Asia & Pacific,EAS,2005,94
+120,East Asia & Pacific,EAS,2006,89
+121,East Asia & Pacific,EAS,2007,85
+122,East Asia & Pacific,EAS,2008,81
+123,East Asia & Pacific,EAS,2009,78
+124,East Asia & Pacific,EAS,2010,74
+125,East Asia & Pacific,EAS,2011,71
+126,East Asia & Pacific,EAS,2012,67
+127,East Asia & Pacific,EAS,2013,64
+128,East Asia & Pacific,EAS,2014,62
+129,East Asia & Pacific,EAS,2015,59
+130,East Asia & Pacific (excluding high income),EAP,1990,168
+131,East Asia & Pacific (excluding high income),EAP,1991,160
+132,East Asia & Pacific (excluding high income),EAP,1992,154
+133,East Asia & Pacific (excluding high income),EAP,1993,148
+134,East Asia & Pacific (excluding high income),EAP,1994,142
+135,East Asia & Pacific (excluding high income),EAP,1995,137
+136,East Asia & Pacific (excluding high income),EAP,1996,133
+137,East Asia & Pacific (excluding high income),EAP,1997,130
+138,East Asia & Pacific (excluding high income),EAP,1998,127
+139,East Asia & Pacific (excluding high income),EAP,1999,123
+140,East Asia & Pacific (excluding high income),EAP,2000,120
+141,East Asia & Pacific (excluding high income),EAP,2001,117
+142,East Asia & Pacific (excluding high income),EAP,2002,113
+143,East Asia & Pacific (excluding high income),EAP,2003,108
+144,East Asia & Pacific (excluding high income),EAP,2004,104
+145,East Asia & Pacific (excluding high income),EAP,2005,100
+146,East Asia & Pacific (excluding high income),EAP,2006,95
+147,East Asia & Pacific (excluding high income),EAP,2007,91
+148,East Asia & Pacific (excluding high income),EAP,2008,86
+149,East Asia & Pacific (excluding high income),EAP,2009,83
+150,East Asia & Pacific (excluding high income),EAP,2010,79
+151,East Asia & Pacific (excluding high income),EAP,2011,75
+152,East Asia & Pacific (excluding high income),EAP,2012,71
+153,East Asia & Pacific (excluding high income),EAP,2013,68
+154,East Asia & Pacific (excluding high income),EAP,2014,65
+155,East Asia & Pacific (excluding high income),EAP,2015,63
+156,East Asia & Pacific (IDA & IBRD countries),TEA,1990,169
+157,East Asia & Pacific (IDA & IBRD countries),TEA,1991,161
+158,East Asia & Pacific (IDA & IBRD countries),TEA,1992,155
+159,East Asia & Pacific (IDA & IBRD countries),TEA,1993,149
+160,East Asia & Pacific (IDA & IBRD countries),TEA,1994,143
+161,East Asia & Pacific (IDA & IBRD countries),TEA,1995,138
+162,East Asia & Pacific (IDA & IBRD countries),TEA,1996,133
+163,East Asia & Pacific (IDA & IBRD countries),TEA,1997,130
+164,East Asia & Pacific (IDA & IBRD countries),TEA,1998,127
+165,East Asia & Pacific (IDA & IBRD countries),TEA,1999,123
+166,East Asia & Pacific (IDA & IBRD countries),TEA,2000,120
+167,East Asia & Pacific (IDA & IBRD countries),TEA,2001,117
+168,East Asia & Pacific (IDA & IBRD countries),TEA,2002,113
+169,East Asia & Pacific (IDA & IBRD countries),TEA,2003,108
+170,East Asia & Pacific (IDA & IBRD countries),TEA,2004,104
+171,East Asia & Pacific (IDA & IBRD countries),TEA,2005,100
+172,East Asia & Pacific (IDA & IBRD countries),TEA,2006,95
+173,East Asia & Pacific (IDA & IBRD countries),TEA,2007,90
+174,East Asia & Pacific (IDA & IBRD countries),TEA,2008,86
+175,East Asia & Pacific (IDA & IBRD countries),TEA,2009,82
+176,East Asia & Pacific (IDA & IBRD countries),TEA,2010,79
+177,East Asia & Pacific (IDA & IBRD countries),TEA,2011,74
+178,East Asia & Pacific (IDA & IBRD countries),TEA,2012,71
+179,East Asia & Pacific (IDA & IBRD countries),TEA,2013,68
+180,East Asia & Pacific (IDA & IBRD countries),TEA,2014,65
+181,East Asia & Pacific (IDA & IBRD countries),TEA,2015,63
+182,Euro area,EMU,1990,11
+183,Euro area,EMU,1991,11
+184,Euro area,EMU,1992,11
+185,Euro area,EMU,1993,11
+186,Euro area,EMU,1994,11
+187,Euro area,EMU,1995,11
+188,Euro area,EMU,1996,10
+189,Euro area,EMU,1997,9
+190,Euro area,EMU,1998,9
+191,Euro area,EMU,1999,9
+192,Euro area,EMU,2000,9
+193,Euro area,EMU,2001,9
+194,Euro area,EMU,2002,8
+195,Euro area,EMU,2003,8
+196,Euro area,EMU,2004,8
+197,Euro area,EMU,2005,8
+198,Euro area,EMU,2006,7
+199,Euro area,EMU,2007,7
+200,Euro area,EMU,2008,7
+201,Euro area,EMU,2009,7
+202,Euro area,EMU,2010,7
+203,Euro area,EMU,2011,7
+204,Euro area,EMU,2012,7
+205,Euro area,EMU,2013,7
+206,Euro area,EMU,2014,6
+207,Euro area,EMU,2015,6
+208,Europe & Central Asia,ECS,1990,44
+209,Europe & Central Asia,ECS,1991,43
+210,Europe & Central Asia,ECS,1992,43
+211,Europe & Central Asia,ECS,1993,45
+212,Europe & Central Asia,ECS,1994,45
+213,Europe & Central Asia,ECS,1995,43
+214,Europe & Central Asia,ECS,1996,40
+215,Europe & Central Asia,ECS,1997,37
+216,Europe & Central Asia,ECS,1998,35
+217,Europe & Central Asia,ECS,1999,34
+218,Europe & Central Asia,ECS,2000,33
+219,Europe & Central Asia,ECS,2001,32
+220,Europe & Central Asia,ECS,2002,31
+221,Europe & Central Asia,ECS,2003,30
+222,Europe & Central Asia,ECS,2004,28
+223,Europe & Central Asia,ECS,2005,27
+224,Europe & Central Asia,ECS,2006,24
+225,Europe & Central Asia,ECS,2007,22
+226,Europe & Central Asia,ECS,2008,21
+227,Europe & Central Asia,ECS,2009,20
+228,Europe & Central Asia,ECS,2010,19
+229,Europe & Central Asia,ECS,2011,18
+230,Europe & Central Asia,ECS,2012,17
+231,Europe & Central Asia,ECS,2013,17
+232,Europe & Central Asia,ECS,2014,17
+233,Europe & Central Asia,ECS,2015,16
+234,Europe & Central Asia (excluding high income),ECA,1990,69
+235,Europe & Central Asia (excluding high income),ECA,1991,68
+236,Europe & Central Asia (excluding high income),ECA,1992,68
+237,Europe & Central Asia (excluding high income),ECA,1993,73
+238,Europe & Central Asia (excluding high income),ECA,1994,73
+239,Europe & Central Asia (excluding high income),ECA,1995,71
+240,Europe & Central Asia (excluding high income),ECA,1996,66
+241,Europe & Central Asia (excluding high income),ECA,1997,62
+242,Europe & Central Asia (excluding high income),ECA,1998,59
+243,Europe & Central Asia (excluding high income),ECA,1999,57
+244,Europe & Central Asia (excluding high income),ECA,2000,56
+245,Europe & Central Asia (excluding high income),ECA,2001,54
+246,Europe & Central Asia (excluding high income),ECA,2002,52
+247,Europe & Central Asia (excluding high income),ECA,2003,49
+248,Europe & Central Asia (excluding high income),ECA,2004,46
+249,Europe & Central Asia (excluding high income),ECA,2005,43
+250,Europe & Central Asia (excluding high income),ECA,2006,39
+251,Europe & Central Asia (excluding high income),ECA,2007,36
+252,Europe & Central Asia (excluding high income),ECA,2008,33
+253,Europe & Central Asia (excluding high income),ECA,2009,30
+254,Europe & Central Asia (excluding high income),ECA,2010,29
+255,Europe & Central Asia (excluding high income),ECA,2011,27
+256,Europe & Central Asia (excluding high income),ECA,2012,26
+257,Europe & Central Asia (excluding high income),ECA,2013,26
+258,Europe & Central Asia (excluding high income),ECA,2014,25
+259,Europe & Central Asia (excluding high income),ECA,2015,25
+260,Europe & Central Asia (IDA & IBRD countries),TEC,1990,66
+261,Europe & Central Asia (IDA & IBRD countries),TEC,1991,64
+262,Europe & Central Asia (IDA & IBRD countries),TEC,1992,64
+263,Europe & Central Asia (IDA & IBRD countries),TEC,1993,68
+264,Europe & Central Asia (IDA & IBRD countries),TEC,1994,69
+265,Europe & Central Asia (IDA & IBRD countries),TEC,1995,66
+266,Europe & Central Asia (IDA & IBRD countries),TEC,1996,62
+267,Europe & Central Asia (IDA & IBRD countries),TEC,1997,58
+268,Europe & Central Asia (IDA & IBRD countries),TEC,1998,55
+269,Europe & Central Asia (IDA & IBRD countries),TEC,1999,54
+270,Europe & Central Asia (IDA & IBRD countries),TEC,2000,53
+271,Europe & Central Asia (IDA & IBRD countries),TEC,2001,51
+272,Europe & Central Asia (IDA & IBRD countries),TEC,2002,49
+273,Europe & Central Asia (IDA & IBRD countries),TEC,2003,47
+274,Europe & Central Asia (IDA & IBRD countries),TEC,2004,43
+275,Europe & Central Asia (IDA & IBRD countries),TEC,2005,41
+276,Europe & Central Asia (IDA & IBRD countries),TEC,2006,37
+277,Europe & Central Asia (IDA & IBRD countries),TEC,2007,34
+278,Europe & Central Asia (IDA & IBRD countries),TEC,2008,31
+279,Europe & Central Asia (IDA & IBRD countries),TEC,2009,29
+280,Europe & Central Asia (IDA & IBRD countries),TEC,2010,27
+281,Europe & Central Asia (IDA & IBRD countries),TEC,2011,26
+282,Europe & Central Asia (IDA & IBRD countries),TEC,2012,25
+283,Europe & Central Asia (IDA & IBRD countries),TEC,2013,24
+284,Europe & Central Asia (IDA & IBRD countries),TEC,2014,24
+285,Europe & Central Asia (IDA & IBRD countries),TEC,2015,23
+286,European Union,EUU,1990,18
+287,European Union,EUU,1991,17
+288,European Union,EUU,1992,16
+289,European Union,EUU,1993,15
+290,European Union,EUU,1994,15
+291,European Union,EUU,1995,14
+292,European Union,EUU,1996,13
+293,European Union,EUU,1997,13
+294,European Union,EUU,1998,12
+295,European Union,EUU,1999,12
+296,European Union,EUU,2000,11
+297,European Union,EUU,2001,11
+298,European Union,EUU,2002,10
+299,European Union,EUU,2003,10
+300,European Union,EUU,2004,9
+301,European Union,EUU,2005,9
+302,European Union,EUU,2006,9
+303,European Union,EUU,2007,9
+304,European Union,EUU,2008,9
+305,European Union,EUU,2009,8
+306,European Union,EUU,2010,8
+307,European Union,EUU,2011,8
+308,European Union,EUU,2012,8
+309,European Union,EUU,2013,8
+310,European Union,EUU,2014,8
+311,European Union,EUU,2015,8
+312,Fragile and conflict affected situations,FCS,1990,825
+313,Fragile and conflict affected situations,FCS,1991,817
+314,Fragile and conflict affected situations,FCS,1992,812
+315,Fragile and conflict affected situations,FCS,1993,807
+316,Fragile and conflict affected situations,FCS,1994,798
+317,Fragile and conflict affected situations,FCS,1995,785
+318,Fragile and conflict affected situations,FCS,1996,771
+319,Fragile and conflict affected situations,FCS,1997,755
+320,Fragile and conflict affected situations,FCS,1998,740
+321,Fragile and conflict affected situations,FCS,1999,726
+322,Fragile and conflict affected situations,FCS,2000,709
+323,Fragile and conflict affected situations,FCS,2001,693
+324,Fragile and conflict affected situations,FCS,2002,675
+325,Fragile and conflict affected situations,FCS,2003,657
+326,Fragile and conflict affected situations,FCS,2004,639
+327,Fragile and conflict affected situations,FCS,2005,622
+328,Fragile and conflict affected situations,FCS,2006,608
+329,Fragile and conflict affected situations,FCS,2007,596
+330,Fragile and conflict affected situations,FCS,2008,580
+331,Fragile and conflict affected situations,FCS,2009,567
+332,Fragile and conflict affected situations,FCS,2010,554
+333,Fragile and conflict affected situations,FCS,2011,540
+334,Fragile and conflict affected situations,FCS,2012,529
+335,Fragile and conflict affected situations,FCS,2013,514
+336,Fragile and conflict affected situations,FCS,2014,501
+337,Fragile and conflict affected situations,FCS,2015,488
+338,Heavily indebted poor countries (HIPC),HPC,1990,957
+339,Heavily indebted poor countries (HIPC),HPC,1991,946
+340,Heavily indebted poor countries (HIPC),HPC,1992,940
+341,Heavily indebted poor countries (HIPC),HPC,1993,931
+342,Heavily indebted poor countries (HIPC),HPC,1994,916
+343,Heavily indebted poor countries (HIPC),HPC,1995,897
+344,Heavily indebted poor countries (HIPC),HPC,1996,881
+345,Heavily indebted poor countries (HIPC),HPC,1997,860
+346,Heavily indebted poor countries (HIPC),HPC,1998,840
+347,Heavily indebted poor countries (HIPC),HPC,1999,820
+348,Heavily indebted poor countries (HIPC),HPC,2000,799
+349,Heavily indebted poor countries (HIPC),HPC,2001,778
+350,Heavily indebted poor countries (HIPC),HPC,2002,754
+351,Heavily indebted poor countries (HIPC),HPC,2003,729
+352,Heavily indebted poor countries (HIPC),HPC,2004,702
+353,Heavily indebted poor countries (HIPC),HPC,2005,676
+354,Heavily indebted poor countries (HIPC),HPC,2006,654
+355,Heavily indebted poor countries (HIPC),HPC,2007,634
+356,Heavily indebted poor countries (HIPC),HPC,2008,611
+357,Heavily indebted poor countries (HIPC),HPC,2009,593
+358,Heavily indebted poor countries (HIPC),HPC,2010,574
+359,Heavily indebted poor countries (HIPC),HPC,2011,553
+360,Heavily indebted poor countries (HIPC),HPC,2012,537
+361,Heavily indebted poor countries (HIPC),HPC,2013,517
+362,Heavily indebted poor countries (HIPC),HPC,2014,499
+363,Heavily indebted poor countries (HIPC),HPC,2015,482
+364,High income,HIC,1990,15
+365,High income,HIC,1991,15
+366,High income,HIC,1992,14
+367,High income,HIC,1993,14
+368,High income,HIC,1994,14
+369,High income,HIC,1995,14
+370,High income,HIC,1996,13
+371,High income,HIC,1997,12
+372,High income,HIC,1998,12
+373,High income,HIC,1999,12
+374,High income,HIC,2000,12
+375,High income,HIC,2001,12
+376,High income,HIC,2002,12
+377,High income,HIC,2003,11
+378,High income,HIC,2004,11
+379,High income,HIC,2005,11
+380,High income,HIC,2006,11
+381,High income,HIC,2007,11
+382,High income,HIC,2008,11
+383,High income,HIC,2009,11
+384,High income,HIC,2010,10
+385,High income,HIC,2011,10
+386,High income,HIC,2012,10
+387,High income,HIC,2013,10
+388,High income,HIC,2014,10
+389,High income,HIC,2015,10
+390,IBRD only,IBD,1990,269
+391,IBRD only,IBD,1991,262
+392,IBRD only,IBD,1992,257
+393,IBRD only,IBD,1993,251
+394,IBRD only,IBD,1994,246
+395,IBRD only,IBD,1995,241
+396,IBRD only,IBD,1996,235
+397,IBRD only,IBD,1997,228
+398,IBRD only,IBD,1998,221
+399,IBRD only,IBD,1999,213
+400,IBRD only,IBD,2000,203
+401,IBRD only,IBD,2001,194
+402,IBRD only,IBD,2002,185
+403,IBRD only,IBD,2003,176
+404,IBRD only,IBD,2004,167
+405,IBRD only,IBD,2005,159
+406,IBRD only,IBD,2006,150
+407,IBRD only,IBD,2007,142
+408,IBRD only,IBD,2008,135
+409,IBRD only,IBD,2009,129
+410,IBRD only,IBD,2010,123
+411,IBRD only,IBD,2011,118
+412,IBRD only,IBD,2012,113
+413,IBRD only,IBD,2013,108
+414,IBRD only,IBD,2014,104
+415,IBRD only,IBD,2015,100
+416,IDA & IBRD total,IBT,1990,424
+417,IDA & IBRD total,IBT,1991,419
+418,IDA & IBRD total,IBT,1992,416
+419,IDA & IBRD total,IBT,1993,414
+420,IDA & IBRD total,IBT,1994,411
+421,IDA & IBRD total,IBT,1995,407
+422,IDA & IBRD total,IBT,1996,403
+423,IDA & IBRD total,IBT,1997,398
+424,IDA & IBRD total,IBT,1998,392
+425,IDA & IBRD total,IBT,1999,385
+426,IDA & IBRD total,IBT,2000,375
+427,IDA & IBRD total,IBT,2001,366
+428,IDA & IBRD total,IBT,2002,354
+429,IDA & IBRD total,IBT,2003,342
+430,IDA & IBRD total,IBT,2004,329
+431,IDA & IBRD total,IBT,2005,316
+432,IDA & IBRD total,IBT,2006,304
+433,IDA & IBRD total,IBT,2007,295
+434,IDA & IBRD total,IBT,2008,283
+435,IDA & IBRD total,IBT,2009,278
+436,IDA & IBRD total,IBT,2010,270
+437,IDA & IBRD total,IBT,2011,260
+438,IDA & IBRD total,IBT,2012,254
+439,IDA & IBRD total,IBT,2013,247
+440,IDA & IBRD total,IBT,2014,242
+441,IDA & IBRD total,IBT,2015,236
+442,IDA blend,IDB,1990,776
+443,IDA blend,IDB,1991,764
+444,IDA blend,IDB,1992,753
+445,IDA blend,IDB,1993,745
+446,IDA blend,IDB,1994,743
+447,IDA blend,IDB,1995,739
+448,IDA blend,IDB,1996,741
+449,IDA blend,IDB,1997,741
+450,IDA blend,IDB,1998,738
+451,IDA blend,IDB,1999,733
+452,IDA blend,IDB,2000,724
+453,IDA blend,IDB,2001,715
+454,IDA blend,IDB,2002,693
+455,IDA blend,IDB,2003,668
+456,IDA blend,IDB,2004,642
+457,IDA blend,IDB,2005,619
+458,IDA blend,IDB,2006,588
+459,IDA blend,IDB,2007,578
+460,IDA blend,IDB,2008,549
+461,IDA blend,IDB,2009,564
+462,IDA blend,IDB,2010,549
+463,IDA blend,IDB,2011,525
+464,IDA blend,IDB,2012,516
+465,IDA blend,IDB,2013,513
+466,IDA blend,IDB,2014,510
+467,IDA blend,IDB,2015,506
+468,IDA only,IDX,1990,848
+469,IDA only,IDX,1991,835
+470,IDA only,IDX,1992,824
+471,IDA only,IDX,1993,813
+472,IDA only,IDX,1994,798
+473,IDA only,IDX,1995,780
+474,IDA only,IDX,1996,764
+475,IDA only,IDX,1997,746
+476,IDA only,IDX,1998,729
+477,IDA only,IDX,1999,711
+478,IDA only,IDX,2000,692
+479,IDA only,IDX,2001,674
+480,IDA only,IDX,2002,654
+481,IDA only,IDX,2003,632
+482,IDA only,IDX,2004,610
+483,IDA only,IDX,2005,588
+484,IDA only,IDX,2006,569
+485,IDA only,IDX,2007,552
+486,IDA only,IDX,2008,532
+487,IDA only,IDX,2009,516
+488,IDA only,IDX,2010,501
+489,IDA only,IDX,2011,484
+490,IDA only,IDX,2012,470
+491,IDA only,IDX,2013,454
+492,IDA only,IDX,2014,438
+493,IDA only,IDX,2015,424
+494,IDA total,IDA,1990,824
+495,IDA total,IDA,1991,812
+496,IDA total,IDA,1992,801
+497,IDA total,IDA,1993,791
+498,IDA total,IDA,1994,780
+499,IDA total,IDA,1995,767
+500,IDA total,IDA,1996,757
+501,IDA total,IDA,1997,745
+502,IDA total,IDA,1998,732
+503,IDA total,IDA,1999,718
+504,IDA total,IDA,2000,702
+505,IDA total,IDA,2001,687
+506,IDA total,IDA,2002,666
+507,IDA total,IDA,2003,644
+508,IDA total,IDA,2004,620
+509,IDA total,IDA,2005,598
+510,IDA total,IDA,2006,575
+511,IDA total,IDA,2007,560
+512,IDA total,IDA,2008,538
+513,IDA total,IDA,2009,532
+514,IDA total,IDA,2010,517
+515,IDA total,IDA,2011,498
+516,IDA total,IDA,2012,486
+517,IDA total,IDA,2013,474
+518,IDA total,IDA,2014,463
+519,IDA total,IDA,2015,452
+520,Late-demographic dividend,LTE,1990,97
+521,Late-demographic dividend,LTE,1991,93
+522,Late-demographic dividend,LTE,1992,89
+523,Late-demographic dividend,LTE,1993,85
+524,Late-demographic dividend,LTE,1994,81
+525,Late-demographic dividend,LTE,1995,77
+526,Late-demographic dividend,LTE,1996,74
+527,Late-demographic dividend,LTE,1997,72
+528,Late-demographic dividend,LTE,1998,70
+529,Late-demographic dividend,LTE,1999,67
+530,Late-demographic dividend,LTE,2000,63
+531,Late-demographic dividend,LTE,2001,61
+532,Late-demographic dividend,LTE,2002,59
+533,Late-demographic dividend,LTE,2003,57
+534,Late-demographic dividend,LTE,2004,55
+535,Late-demographic dividend,LTE,2005,53
+536,Late-demographic dividend,LTE,2006,51
+537,Late-demographic dividend,LTE,2007,49
+538,Late-demographic dividend,LTE,2008,47
+539,Late-demographic dividend,LTE,2009,45
+540,Late-demographic dividend,LTE,2010,43
+541,Late-demographic dividend,LTE,2011,40
+542,Late-demographic dividend,LTE,2012,39
+543,Late-demographic dividend,LTE,2013,36
+544,Late-demographic dividend,LTE,2014,35
+545,Late-demographic dividend,LTE,2015,34
+546,Latin America & Caribbean,LCN,1990,135
+547,Latin America & Caribbean,LCN,1991,131
+548,Latin America & Caribbean,LCN,1992,127
+549,Latin America & Caribbean,LCN,1993,124
+550,Latin America & Caribbean,LCN,1994,120
+551,Latin America & Caribbean,LCN,1995,117
+552,Latin America & Caribbean,LCN,1996,115
+553,Latin America & Caribbean,LCN,1997,114
+554,Latin America & Caribbean,LCN,1998,114
+555,Latin America & Caribbean,LCN,1999,107
+556,Latin America & Caribbean,LCN,2000,99
+557,Latin America & Caribbean,LCN,2001,95
+558,Latin America & Caribbean,LCN,2002,92
+559,Latin America & Caribbean,LCN,2003,90
+560,Latin America & Caribbean,LCN,2004,90
+561,Latin America & Caribbean,LCN,2005,88
+562,Latin America & Caribbean,LCN,2006,87
+563,Latin America & Caribbean,LCN,2007,85
+564,Latin America & Caribbean,LCN,2008,84
+565,Latin America & Caribbean,LCN,2009,85
+566,Latin America & Caribbean,LCN,2010,81
+567,Latin America & Caribbean,LCN,2011,78
+568,Latin America & Caribbean,LCN,2012,75
+569,Latin America & Caribbean,LCN,2013,72
+570,Latin America & Caribbean,LCN,2014,69
+571,Latin America & Caribbean,LCN,2015,67
+572,Latin America & Caribbean (excluding high income),LAC,1990,138
+573,Latin America & Caribbean (excluding high income),LAC,1991,135
+574,Latin America & Caribbean (excluding high income),LAC,1992,130
+575,Latin America & Caribbean (excluding high income),LAC,1993,127
+576,Latin America & Caribbean (excluding high income),LAC,1994,123
+577,Latin America & Caribbean (excluding high income),LAC,1995,120
+578,Latin America & Caribbean (excluding high income),LAC,1996,118
+579,Latin America & Caribbean (excluding high income),LAC,1997,117
+580,Latin America & Caribbean (excluding high income),LAC,1998,117
+581,Latin America & Caribbean (excluding high income),LAC,1999,109
+582,Latin America & Caribbean (excluding high income),LAC,2000,101
+583,Latin America & Caribbean (excluding high income),LAC,2001,97
+584,Latin America & Caribbean (excluding high income),LAC,2002,94
+585,Latin America & Caribbean (excluding high income),LAC,2003,92
+586,Latin America & Caribbean (excluding high income),LAC,2004,92
+587,Latin America & Caribbean (excluding high income),LAC,2005,90
+588,Latin America & Caribbean (excluding high income),LAC,2006,89
+589,Latin America & Caribbean (excluding high income),LAC,2007,87
+590,Latin America & Caribbean (excluding high income),LAC,2008,86
+591,Latin America & Caribbean (excluding high income),LAC,2009,87
+592,Latin America & Caribbean (excluding high income),LAC,2010,83
+593,Latin America & Caribbean (excluding high income),LAC,2011,79
+594,Latin America & Caribbean (excluding high income),LAC,2012,77
+595,Latin America & Caribbean (excluding high income),LAC,2013,74
+596,Latin America & Caribbean (excluding high income),LAC,2014,71
+597,Latin America & Caribbean (excluding high income),LAC,2015,69
+598,Latin America & the Caribbean (IDA & IBRD countries),TLA,1990,136
+599,Latin America & the Caribbean (IDA & IBRD countries),TLA,1991,133
+600,Latin America & the Caribbean (IDA & IBRD countries),TLA,1992,129
+601,Latin America & the Caribbean (IDA & IBRD countries),TLA,1993,126
+602,Latin America & the Caribbean (IDA & IBRD countries),TLA,1994,122
+603,Latin America & the Caribbean (IDA & IBRD countries),TLA,1995,118
+604,Latin America & the Caribbean (IDA & IBRD countries),TLA,1996,117
+605,Latin America & the Caribbean (IDA & IBRD countries),TLA,1997,115
+606,Latin America & the Caribbean (IDA & IBRD countries),TLA,1998,115
+607,Latin America & the Caribbean (IDA & IBRD countries),TLA,1999,108
+608,Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,100
+609,Latin America & the Caribbean (IDA & IBRD countries),TLA,2001,96
+610,Latin America & the Caribbean (IDA & IBRD countries),TLA,2002,93
+611,Latin America & the Caribbean (IDA & IBRD countries),TLA,2003,91
+612,Latin America & the Caribbean (IDA & IBRD countries),TLA,2004,91
+613,Latin America & the Caribbean (IDA & IBRD countries),TLA,2005,89
+614,Latin America & the Caribbean (IDA & IBRD countries),TLA,2006,88
+615,Latin America & the Caribbean (IDA & IBRD countries),TLA,2007,86
+616,Latin America & the Caribbean (IDA & IBRD countries),TLA,2008,85
+617,Latin America & the Caribbean (IDA & IBRD countries),TLA,2009,85
+618,Latin America & the Caribbean (IDA & IBRD countries),TLA,2010,81
+619,Latin America & the Caribbean (IDA & IBRD countries),TLA,2011,78
+620,Latin America & the Caribbean (IDA & IBRD countries),TLA,2012,76
+621,Latin America & the Caribbean (IDA & IBRD countries),TLA,2013,72
+622,Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,70
+623,Latin America & the Caribbean (IDA & IBRD countries),TLA,2015,68
+624,Least developed countries: UN classification,LDC,1990,903
+625,Least developed countries: UN classification,LDC,1991,889
+626,Least developed countries: UN classification,LDC,1992,879
+627,Least developed countries: UN classification,LDC,1993,867
+628,Least developed countries: UN classification,LDC,1994,851
+629,Least developed countries: UN classification,LDC,1995,832
+630,Least developed countries: UN classification,LDC,1996,814
+631,Least developed countries: UN classification,LDC,1997,794
+632,Least developed countries: UN classification,LDC,1998,774
+633,Least developed countries: UN classification,LDC,1999,753
+634,Least developed countries: UN classification,LDC,2000,732
+635,Least developed countries: UN classification,LDC,2001,711
+636,Least developed countries: UN classification,LDC,2002,688
+637,Least developed countries: UN classification,LDC,2003,664
+638,Least developed countries: UN classification,LDC,2004,639
+639,Least developed countries: UN classification,LDC,2005,614
+640,Least developed countries: UN classification,LDC,2006,593
+641,Least developed countries: UN classification,LDC,2007,575
+642,Least developed countries: UN classification,LDC,2008,553
+643,Least developed countries: UN classification,LDC,2009,536
+644,Least developed countries: UN classification,LDC,2010,519
+645,Least developed countries: UN classification,LDC,2011,501
+646,Least developed countries: UN classification,LDC,2012,485
+647,Least developed countries: UN classification,LDC,2013,468
+648,Least developed countries: UN classification,LDC,2014,451
+649,Least developed countries: UN classification,LDC,2015,436
+650,Low & middle income,LMY,1990,425
+651,Low & middle income,LMY,1991,420
+652,Low & middle income,LMY,1992,417
+653,Low & middle income,LMY,1993,415
+654,Low & middle income,LMY,1994,412
+655,Low & middle income,LMY,1995,408
+656,Low & middle income,LMY,1996,404
+657,Low & middle income,LMY,1997,399
+658,Low & middle income,LMY,1998,393
+659,Low & middle income,LMY,1999,385
+660,Low & middle income,LMY,2000,376
+661,Low & middle income,LMY,2001,366
+662,Low & middle income,LMY,2002,354
+663,Low & middle income,LMY,2003,342
+664,Low & middle income,LMY,2004,329
+665,Low & middle income,LMY,2005,317
+666,Low & middle income,LMY,2006,305
+667,Low & middle income,LMY,2007,295
+668,Low & middle income,LMY,2008,284
+669,Low & middle income,LMY,2009,279
+670,Low & middle income,LMY,2010,270
+671,Low & middle income,LMY,2011,261
+672,Low & middle income,LMY,2012,254
+673,Low & middle income,LMY,2013,248
+674,Low & middle income,LMY,2014,242
+675,Low & middle income,LMY,2015,237
+676,Low income,LIC,1990,1010
+677,Low income,LIC,1991,997
+678,Low income,LIC,1992,988
+679,Low income,LIC,1993,976
+680,Low income,LIC,1994,959
+681,Low income,LIC,1995,939
+682,Low income,LIC,1996,922
+683,Low income,LIC,1997,901
+684,Low income,LIC,1998,880
+685,Low income,LIC,1999,860
+686,Low income,LIC,2000,838
+687,Low income,LIC,2001,816
+688,Low income,LIC,2002,791
+689,Low income,LIC,2003,764
+690,Low income,LIC,2004,735
+691,Low income,LIC,2005,706
+692,Low income,LIC,2006,682
+693,Low income,LIC,2007,661
+694,Low income,LIC,2008,635
+695,Low income,LIC,2009,614
+696,Low income,LIC,2010,594
+697,Low income,LIC,2011,571
+698,Low income,LIC,2012,552
+699,Low income,LIC,2013,531
+700,Low income,LIC,2014,513
+701,Low income,LIC,2015,496
+702,Lower middle income,LMC,1990,538
+703,Lower middle income,LMC,1991,523
+704,Lower middle income,LMC,1992,510
+705,Lower middle income,LMC,1993,498
+706,Lower middle income,LMC,1994,487
+707,Lower middle income,LMC,1995,476
+708,Lower middle income,LMC,1996,465
+709,Lower middle income,LMC,1997,454
+710,Lower middle income,LMC,1998,442
+711,Lower middle income,LMC,1999,429
+712,Lower middle income,LMC,2000,415
+713,Lower middle income,LMC,2001,402
+714,Lower middle income,LMC,2002,385
+715,Lower middle income,LMC,2003,369
+716,Lower middle income,LMC,2004,354
+717,Lower middle income,LMC,2005,339
+718,Lower middle income,LMC,2006,324
+719,Lower middle income,LMC,2007,313
+720,Lower middle income,LMC,2008,299
+721,Lower middle income,LMC,2009,297
+722,Lower middle income,LMC,2010,288
+723,Lower middle income,LMC,2011,277
+724,Lower middle income,LMC,2012,271
+725,Lower middle income,LMC,2013,265
+726,Lower middle income,LMC,2014,260
+727,Lower middle income,LMC,2015,254
+728,Middle East & North Africa,MEA,1990,166
+729,Middle East & North Africa,MEA,1991,159
+730,Middle East & North Africa,MEA,1992,154
+731,Middle East & North Africa,MEA,1993,149
+732,Middle East & North Africa,MEA,1994,144
+733,Middle East & North Africa,MEA,1995,138
+734,Middle East & North Africa,MEA,1996,133
+735,Middle East & North Africa,MEA,1997,128
+736,Middle East & North Africa,MEA,1998,122
+737,Middle East & North Africa,MEA,1999,117
+738,Middle East & North Africa,MEA,2000,113
+739,Middle East & North Africa,MEA,2001,110
+740,Middle East & North Africa,MEA,2002,107
+741,Middle East & North Africa,MEA,2003,104
+742,Middle East & North Africa,MEA,2004,102
+743,Middle East & North Africa,MEA,2005,100
+744,Middle East & North Africa,MEA,2006,98
+745,Middle East & North Africa,MEA,2007,95
+746,Middle East & North Africa,MEA,2008,93
+747,Middle East & North Africa,MEA,2009,91
+748,Middle East & North Africa,MEA,2010,89
+749,Middle East & North Africa,MEA,2011,87
+750,Middle East & North Africa,MEA,2012,86
+751,Middle East & North Africa,MEA,2013,84
+752,Middle East & North Africa,MEA,2014,83
+753,Middle East & North Africa,MEA,2015,81
+754,Middle East & North Africa (excluding high income),MNA,1990,181
+755,Middle East & North Africa (excluding high income),MNA,1991,174
+756,Middle East & North Africa (excluding high income),MNA,1992,168
+757,Middle East & North Africa (excluding high income),MNA,1993,163
+758,Middle East & North Africa (excluding high income),MNA,1994,157
+759,Middle East & North Africa (excluding high income),MNA,1995,152
+760,Middle East & North Africa (excluding high income),MNA,1996,146
+761,Middle East & North Africa (excluding high income),MNA,1997,141
+762,Middle East & North Africa (excluding high income),MNA,1998,135
+763,Middle East & North Africa (excluding high income),MNA,1999,130
+764,Middle East & North Africa (excluding high income),MNA,2000,125
+765,Middle East & North Africa (excluding high income),MNA,2001,121
+766,Middle East & North Africa (excluding high income),MNA,2002,118
+767,Middle East & North Africa (excluding high income),MNA,2003,115
+768,Middle East & North Africa (excluding high income),MNA,2004,113
+769,Middle East & North Africa (excluding high income),MNA,2005,110
+770,Middle East & North Africa (excluding high income),MNA,2006,108
+771,Middle East & North Africa (excluding high income),MNA,2007,106
+772,Middle East & North Africa (excluding high income),MNA,2008,103
+773,Middle East & North Africa (excluding high income),MNA,2009,101
+774,Middle East & North Africa (excluding high income),MNA,2010,99
+775,Middle East & North Africa (excluding high income),MNA,2011,97
+776,Middle East & North Africa (excluding high income),MNA,2012,95
+777,Middle East & North Africa (excluding high income),MNA,2013,94
+778,Middle East & North Africa (excluding high income),MNA,2014,92
+779,Middle East & North Africa (excluding high income),MNA,2015,90
+780,Middle East & North Africa (IDA & IBRD countries),TMN,1990,182
+781,Middle East & North Africa (IDA & IBRD countries),TMN,1991,175
+782,Middle East & North Africa (IDA & IBRD countries),TMN,1992,169
+783,Middle East & North Africa (IDA & IBRD countries),TMN,1993,164
+784,Middle East & North Africa (IDA & IBRD countries),TMN,1994,158
+785,Middle East & North Africa (IDA & IBRD countries),TMN,1995,153
+786,Middle East & North Africa (IDA & IBRD countries),TMN,1996,147
+787,Middle East & North Africa (IDA & IBRD countries),TMN,1997,142
+788,Middle East & North Africa (IDA & IBRD countries),TMN,1998,136
+789,Middle East & North Africa (IDA & IBRD countries),TMN,1999,131
+790,Middle East & North Africa (IDA & IBRD countries),TMN,2000,126
+791,Middle East & North Africa (IDA & IBRD countries),TMN,2001,122
+792,Middle East & North Africa (IDA & IBRD countries),TMN,2002,119
+793,Middle East & North Africa (IDA & IBRD countries),TMN,2003,116
+794,Middle East & North Africa (IDA & IBRD countries),TMN,2004,114
+795,Middle East & North Africa (IDA & IBRD countries),TMN,2005,111
+796,Middle East & North Africa (IDA & IBRD countries),TMN,2006,109
+797,Middle East & North Africa (IDA & IBRD countries),TMN,2007,107
+798,Middle East & North Africa (IDA & IBRD countries),TMN,2008,104
+799,Middle East & North Africa (IDA & IBRD countries),TMN,2009,102
+800,Middle East & North Africa (IDA & IBRD countries),TMN,2010,99
+801,Middle East & North Africa (IDA & IBRD countries),TMN,2011,97
+802,Middle East & North Africa (IDA & IBRD countries),TMN,2012,96
+803,Middle East & North Africa (IDA & IBRD countries),TMN,2013,94
+804,Middle East & North Africa (IDA & IBRD countries),TMN,2014,93
+805,Middle East & North Africa (IDA & IBRD countries),TMN,2015,91
+806,Middle income,MIC,1990,349
+807,Middle income,MIC,1991,342
+808,Middle income,MIC,1992,337
+809,Middle income,MIC,1993,333
+810,Middle income,MIC,1994,329
+811,Middle income,MIC,1995,324
+812,Middle income,MIC,1996,320
+813,Middle income,MIC,1997,315
+814,Middle income,MIC,1998,309
+815,Middle income,MIC,1999,301
+816,Middle income,MIC,2000,292
+817,Middle income,MIC,2001,284
+818,Middle income,MIC,2002,273
+819,Middle income,MIC,2003,262
+820,Middle income,MIC,2004,252
+821,Middle income,MIC,2005,241
+822,Middle income,MIC,2006,231
+823,Middle income,MIC,2007,223
+824,Middle income,MIC,2008,213
+825,Middle income,MIC,2009,211
+826,Middle income,MIC,2010,204
+827,Middle income,MIC,2011,196
+828,Middle income,MIC,2012,192
+829,Middle income,MIC,2013,187
+830,Middle income,MIC,2014,184
+831,Middle income,MIC,2015,180
+832,North America,NAC,1990,11
+833,North America,NAC,1991,11
+834,North America,NAC,1992,11
+835,North America,NAC,1993,11
+836,North America,NAC,1994,11
+837,North America,NAC,1995,11
+838,North America,NAC,1996,11
+839,North America,NAC,1997,11
+840,North America,NAC,1998,11
+841,North America,NAC,1999,11
+842,North America,NAC,2000,12
+843,North America,NAC,2001,12
+844,North America,NAC,2002,13
+845,North America,NAC,2003,13
+846,North America,NAC,2004,13
+847,North America,NAC,2005,13
+848,North America,NAC,2006,13
+849,North America,NAC,2007,13
+850,North America,NAC,2008,14
+851,North America,NAC,2009,14
+852,North America,NAC,2010,14
+853,North America,NAC,2011,14
+854,North America,NAC,2012,14
+855,North America,NAC,2013,14
+856,North America,NAC,2014,13
+857,North America,NAC,2015,13
+858,OECD members,OED,1990,32
+859,OECD members,OED,1991,31
+860,OECD members,OED,1992,31
+861,OECD members,OED,1993,31
+862,OECD members,OED,1994,30
+863,OECD members,OED,1995,30
+864,OECD members,OED,1996,29
+865,OECD members,OED,1997,29
+866,OECD members,OED,1998,29
+867,OECD members,OED,1999,29
+868,OECD members,OED,2000,28
+869,OECD members,OED,2001,26
+870,OECD members,OED,2002,24
+871,OECD members,OED,2003,23
+872,OECD members,OED,2004,22
+873,OECD members,OED,2005,21
+874,OECD members,OED,2006,20
+875,OECD members,OED,2007,19
+876,OECD members,OED,2008,18
+877,OECD members,OED,2009,18
+878,OECD members,OED,2010,17
+879,OECD members,OED,2011,16
+880,OECD members,OED,2012,16
+881,OECD members,OED,2013,15
+882,OECD members,OED,2014,15
+883,OECD members,OED,2015,14
+884,Other small states,OSS,1990,538
+885,Other small states,OSS,1991,524
+886,Other small states,OSS,1992,510
+887,Other small states,OSS,1993,499
+888,Other small states,OSS,1994,490
+889,Other small states,OSS,1995,479
+890,Other small states,OSS,1996,473
+891,Other small states,OSS,1997,470
+892,Other small states,OSS,1998,470
+893,Other small states,OSS,1999,469
+894,Other small states,OSS,2000,469
+895,Other small states,OSS,2001,468
+896,Other small states,OSS,2002,465
+897,Other small states,OSS,2003,458
+898,Other small states,OSS,2004,448
+899,Other small states,OSS,2005,436
+900,Other small states,OSS,2006,418
+901,Other small states,OSS,2007,399
+902,Other small states,OSS,2008,382
+903,Other small states,OSS,2009,368
+904,Other small states,OSS,2010,354
+905,Other small states,OSS,2011,345
+906,Other small states,OSS,2012,337
+907,Other small states,OSS,2013,331
+908,Other small states,OSS,2014,324
+909,Other small states,OSS,2015,316
+910,Pacific island small states,PSS,1990,176
+911,Pacific island small states,PSS,1991,170
+912,Pacific island small states,PSS,1992,163
+913,Pacific island small states,PSS,1993,156
+914,Pacific island small states,PSS,1994,150
+915,Pacific island small states,PSS,1995,144
+916,Pacific island small states,PSS,1996,139
+917,Pacific island small states,PSS,1997,134
+918,Pacific island small states,PSS,1998,129
+919,Pacific island small states,PSS,1999,125
+920,Pacific island small states,PSS,2000,120
+921,Pacific island small states,PSS,2001,115
+922,Pacific island small states,PSS,2002,112
+923,Pacific island small states,PSS,2003,108
+924,Pacific island small states,PSS,2004,104
+925,Pacific island small states,PSS,2005,101
+926,Pacific island small states,PSS,2006,99
+927,Pacific island small states,PSS,2007,96
+928,Pacific island small states,PSS,2008,93
+929,Pacific island small states,PSS,2009,91
+930,Pacific island small states,PSS,2010,88
+931,Pacific island small states,PSS,2011,85
+932,Pacific island small states,PSS,2012,83
+933,Pacific island small states,PSS,2013,80
+934,Pacific island small states,PSS,2014,78
+935,Pacific island small states,PSS,2015,75
+936,Post-demographic dividend,PST,1990,15
+937,Post-demographic dividend,PST,1991,15
+938,Post-demographic dividend,PST,1992,14
+939,Post-demographic dividend,PST,1993,14
+940,Post-demographic dividend,PST,1994,14
+941,Post-demographic dividend,PST,1995,14
+942,Post-demographic dividend,PST,1996,13
+943,Post-demographic dividend,PST,1997,13
+944,Post-demographic dividend,PST,1998,12
+945,Post-demographic dividend,PST,1999,12
+946,Post-demographic dividend,PST,2000,12
+947,Post-demographic dividend,PST,2001,12
+948,Post-demographic dividend,PST,2002,12
+949,Post-demographic dividend,PST,2003,12
+950,Post-demographic dividend,PST,2004,11
+951,Post-demographic dividend,PST,2005,12
+952,Post-demographic dividend,PST,2006,11
+953,Post-demographic dividend,PST,2007,11
+954,Post-demographic dividend,PST,2008,11
+955,Post-demographic dividend,PST,2009,11
+956,Post-demographic dividend,PST,2010,11
+957,Post-demographic dividend,PST,2011,11
+958,Post-demographic dividend,PST,2012,11
+959,Post-demographic dividend,PST,2013,11
+960,Post-demographic dividend,PST,2014,11
+961,Post-demographic dividend,PST,2015,10
+962,Pre-demographic dividend,PRE,1990,1010
+963,Pre-demographic dividend,PRE,1991,1000
+964,Pre-demographic dividend,PRE,1992,991
+965,Pre-demographic dividend,PRE,1993,983
+966,Pre-demographic dividend,PRE,1994,974
+967,Pre-demographic dividend,PRE,1995,959
+968,Pre-demographic dividend,PRE,1996,946
+969,Pre-demographic dividend,PRE,1997,932
+970,Pre-demographic dividend,PRE,1998,915
+971,Pre-demographic dividend,PRE,1999,897
+972,Pre-demographic dividend,PRE,2000,875
+973,Pre-demographic dividend,PRE,2001,854
+974,Pre-demographic dividend,PRE,2002,825
+975,Pre-demographic dividend,PRE,2003,794
+976,Pre-demographic dividend,PRE,2004,764
+977,Pre-demographic dividend,PRE,2005,736
+978,Pre-demographic dividend,PRE,2006,707
+979,Pre-demographic dividend,PRE,2007,692
+980,Pre-demographic dividend,PRE,2008,664
+981,Pre-demographic dividend,PRE,2009,663
+982,Pre-demographic dividend,PRE,2010,646
+983,Pre-demographic dividend,PRE,2011,623
+984,Pre-demographic dividend,PRE,2012,610
+985,Pre-demographic dividend,PRE,2013,596
+986,Pre-demographic dividend,PRE,2014,582
+987,Pre-demographic dividend,PRE,2015,568
+988,Small states,SST,1990,428
+989,Small states,SST,1991,418
+990,Small states,SST,1992,409
+991,Small states,SST,1993,401
+992,Small states,SST,1994,396
+993,Small states,SST,1995,389
+994,Small states,SST,1996,385
+995,Small states,SST,1997,383
+996,Small states,SST,1998,384
+997,Small states,SST,1999,384
+998,Small states,SST,2000,384
+999,Small states,SST,2001,384
+1000,Small states,SST,2002,383
+1001,Small states,SST,2003,378
+1002,Small states,SST,2004,371
+1003,Small states,SST,2005,362
+1004,Small states,SST,2006,349
+1005,Small states,SST,2007,335
+1006,Small states,SST,2008,322
+1007,Small states,SST,2009,310
+1008,Small states,SST,2010,301
+1009,Small states,SST,2011,294
+1010,Small states,SST,2012,288
+1011,Small states,SST,2013,283
+1012,Small states,SST,2014,278
+1013,Small states,SST,2015,272
+1014,South Asia,SAS,1990,558
+1015,South Asia,SAS,1991,541
+1016,South Asia,SAS,1992,525
+1017,South Asia,SAS,1993,508
+1018,South Asia,SAS,1994,492
+1019,South Asia,SAS,1995,476
+1020,South Asia,SAS,1996,460
+1021,South Asia,SAS,1997,442
+1022,South Asia,SAS,1998,424
+1023,South Asia,SAS,1999,406
+1024,South Asia,SAS,2000,388
+1025,South Asia,SAS,2001,369
+1026,South Asia,SAS,2002,350
+1027,South Asia,SAS,2003,331
+1028,South Asia,SAS,2004,314
+1029,South Asia,SAS,2005,296
+1030,South Asia,SAS,2006,281
+1031,South Asia,SAS,2007,265
+1032,South Asia,SAS,2008,252
+1033,South Asia,SAS,2009,239
+1034,South Asia,SAS,2010,228
+1035,South Asia,SAS,2011,218
+1036,South Asia,SAS,2012,208
+1037,South Asia,SAS,2013,198
+1038,South Asia,SAS,2014,189
+1039,South Asia,SAS,2015,182
+1040,South Asia (IDA & IBRD),TSA,1990,558
+1041,South Asia (IDA & IBRD),TSA,1991,541
+1042,South Asia (IDA & IBRD),TSA,1992,525
+1043,South Asia (IDA & IBRD),TSA,1993,508
+1044,South Asia (IDA & IBRD),TSA,1994,492
+1045,South Asia (IDA & IBRD),TSA,1995,476
+1046,South Asia (IDA & IBRD),TSA,1996,460
+1047,South Asia (IDA & IBRD),TSA,1997,442
+1048,South Asia (IDA & IBRD),TSA,1998,424
+1049,South Asia (IDA & IBRD),TSA,1999,406
+1050,South Asia (IDA & IBRD),TSA,2000,388
+1051,South Asia (IDA & IBRD),TSA,2001,369
+1052,South Asia (IDA & IBRD),TSA,2002,350
+1053,South Asia (IDA & IBRD),TSA,2003,331
+1054,South Asia (IDA & IBRD),TSA,2004,314
+1055,South Asia (IDA & IBRD),TSA,2005,296
+1056,South Asia (IDA & IBRD),TSA,2006,281
+1057,South Asia (IDA & IBRD),TSA,2007,265
+1058,South Asia (IDA & IBRD),TSA,2008,252
+1059,South Asia (IDA & IBRD),TSA,2009,239
+1060,South Asia (IDA & IBRD),TSA,2010,228
+1061,South Asia (IDA & IBRD),TSA,2011,218
+1062,South Asia (IDA & IBRD),TSA,2012,208
+1063,South Asia (IDA & IBRD),TSA,2013,198
+1064,South Asia (IDA & IBRD),TSA,2014,189
+1065,South Asia (IDA & IBRD),TSA,2015,182
+1066,Sub-Saharan Africa,SSF,1990,987
+1067,Sub-Saharan Africa,SSF,1991,975
+1068,Sub-Saharan Africa,SSF,1992,965
+1069,Sub-Saharan Africa,SSF,1993,956
+1070,Sub-Saharan Africa,SSF,1994,944
+1071,Sub-Saharan Africa,SSF,1995,928
+1072,Sub-Saharan Africa,SSF,1996,916
+1073,Sub-Saharan Africa,SSF,1997,901
+1074,Sub-Saharan Africa,SSF,1998,884
+1075,Sub-Saharan Africa,SSF,1999,867
+1076,Sub-Saharan Africa,SSF,2000,846
+1077,Sub-Saharan Africa,SSF,2001,827
+1078,Sub-Saharan Africa,SSF,2002,801
+1079,Sub-Saharan Africa,SSF,2003,773
+1080,Sub-Saharan Africa,SSF,2004,744
+1081,Sub-Saharan Africa,SSF,2005,717
+1082,Sub-Saharan Africa,SSF,2006,689
+1083,Sub-Saharan Africa,SSF,2007,673
+1084,Sub-Saharan Africa,SSF,2008,646
+1085,Sub-Saharan Africa,SSF,2009,642
+1086,Sub-Saharan Africa,SSF,2010,625
+1087,Sub-Saharan Africa,SSF,2011,601
+1088,Sub-Saharan Africa,SSF,2012,587
+1089,Sub-Saharan Africa,SSF,2013,573
+1090,Sub-Saharan Africa,SSF,2014,560
+1091,Sub-Saharan Africa,SSF,2015,547
+1092,Sub-Saharan Africa (excluding high income),SSA,1990,987
+1093,Sub-Saharan Africa (excluding high income),SSA,1991,975
+1094,Sub-Saharan Africa (excluding high income),SSA,1992,965
+1095,Sub-Saharan Africa (excluding high income),SSA,1993,956
+1096,Sub-Saharan Africa (excluding high income),SSA,1994,944
+1097,Sub-Saharan Africa (excluding high income),SSA,1995,928
+1098,Sub-Saharan Africa (excluding high income),SSA,1996,916
+1099,Sub-Saharan Africa (excluding high income),SSA,1997,901
+1100,Sub-Saharan Africa (excluding high income),SSA,1998,884
+1101,Sub-Saharan Africa (excluding high income),SSA,1999,867
+1102,Sub-Saharan Africa (excluding high income),SSA,2000,846
+1103,Sub-Saharan Africa (excluding high income),SSA,2001,827
+1104,Sub-Saharan Africa (excluding high income),SSA,2002,801
+1105,Sub-Saharan Africa (excluding high income),SSA,2003,773
+1106,Sub-Saharan Africa (excluding high income),SSA,2004,744
+1107,Sub-Saharan Africa (excluding high income),SSA,2005,717
+1108,Sub-Saharan Africa (excluding high income),SSA,2006,689
+1109,Sub-Saharan Africa (excluding high income),SSA,2007,673
+1110,Sub-Saharan Africa (excluding high income),SSA,2008,646
+1111,Sub-Saharan Africa (excluding high income),SSA,2009,642
+1112,Sub-Saharan Africa (excluding high income),SSA,2010,625
+1113,Sub-Saharan Africa (excluding high income),SSA,2011,601
+1114,Sub-Saharan Africa (excluding high income),SSA,2012,587
+1115,Sub-Saharan Africa (excluding high income),SSA,2013,573
+1116,Sub-Saharan Africa (excluding high income),SSA,2014,560
+1117,Sub-Saharan Africa (excluding high income),SSA,2015,547
+1118,Sub-Saharan Africa (IDA & IBRD countries),TSS,1990,987
+1119,Sub-Saharan Africa (IDA & IBRD countries),TSS,1991,975
+1120,Sub-Saharan Africa (IDA & IBRD countries),TSS,1992,965
+1121,Sub-Saharan Africa (IDA & IBRD countries),TSS,1993,956
+1122,Sub-Saharan Africa (IDA & IBRD countries),TSS,1994,944
+1123,Sub-Saharan Africa (IDA & IBRD countries),TSS,1995,928
+1124,Sub-Saharan Africa (IDA & IBRD countries),TSS,1996,916
+1125,Sub-Saharan Africa (IDA & IBRD countries),TSS,1997,901
+1126,Sub-Saharan Africa (IDA & IBRD countries),TSS,1998,884
+1127,Sub-Saharan Africa (IDA & IBRD countries),TSS,1999,867
+1128,Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,846
+1129,Sub-Saharan Africa (IDA & IBRD countries),TSS,2001,827
+1130,Sub-Saharan Africa (IDA & IBRD countries),TSS,2002,801
+1131,Sub-Saharan Africa (IDA & IBRD countries),TSS,2003,773
+1132,Sub-Saharan Africa (IDA & IBRD countries),TSS,2004,744
+1133,Sub-Saharan Africa (IDA & IBRD countries),TSS,2005,717
+1134,Sub-Saharan Africa (IDA & IBRD countries),TSS,2006,689
+1135,Sub-Saharan Africa (IDA & IBRD countries),TSS,2007,673
+1136,Sub-Saharan Africa (IDA & IBRD countries),TSS,2008,646
+1137,Sub-Saharan Africa (IDA & IBRD countries),TSS,2009,642
+1138,Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,625
+1139,Sub-Saharan Africa (IDA & IBRD countries),TSS,2011,601
+1140,Sub-Saharan Africa (IDA & IBRD countries),TSS,2012,587
+1141,Sub-Saharan Africa (IDA & IBRD countries),TSS,2013,573
+1142,Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,560
+1143,Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,547
+1144,Upper middle income,UMC,1990,101
+1145,Upper middle income,UMC,1991,97
+1146,Upper middle income,UMC,1992,93
+1147,Upper middle income,UMC,1993,89
+1148,Upper middle income,UMC,1994,85
+1149,Upper middle income,UMC,1995,81
+1150,Upper middle income,UMC,1996,78
+1151,Upper middle income,UMC,1997,76
+1152,Upper middle income,UMC,1998,74
+1153,Upper middle income,UMC,1999,71
+1154,Upper middle income,UMC,2000,68
+1155,Upper middle income,UMC,2001,65
+1156,Upper middle income,UMC,2002,64
+1157,Upper middle income,UMC,2003,62
+1158,Upper middle income,UMC,2004,60
+1159,Upper middle income,UMC,2005,58
+1160,Upper middle income,UMC,2006,56
+1161,Upper middle income,UMC,2007,54
+1162,Upper middle income,UMC,2008,53
+1163,Upper middle income,UMC,2009,52
+1164,Upper middle income,UMC,2010,49
+1165,Upper middle income,UMC,2011,47
+1166,Upper middle income,UMC,2012,46
+1167,Upper middle income,UMC,2013,44
+1168,Upper middle income,UMC,2014,42
+1169,Upper middle income,UMC,2015,41
+1170,World,WLD,1990,385
+1171,World,WLD,1991,381
+1172,World,WLD,1992,378
+1173,World,WLD,1993,375
+1174,World,WLD,1994,372
+1175,World,WLD,1995,369
+1176,World,WLD,1996,366
+1177,World,WLD,1997,361
+1178,World,WLD,1998,356
+1179,World,WLD,1999,349
+1180,World,WLD,2000,341
+1181,World,WLD,2001,332
+1182,World,WLD,2002,322
+1183,World,WLD,2003,310
+1184,World,WLD,2004,299
+1185,World,WLD,2005,288
+1186,World,WLD,2006,277
+1187,World,WLD,2007,268
+1188,World,WLD,2008,258
+1189,World,WLD,2009,254
+1190,World,WLD,2010,246
+1191,World,WLD,2011,237
+1192,World,WLD,2012,232
+1193,World,WLD,2013,226
+1194,World,WLD,2014,221
+1195,World,WLD,2015,216
+1196,Afghanistan,AFG,1990,1340
+1197,Afghanistan,AFG,1991,1330
+1198,Afghanistan,AFG,1992,1330
+1199,Afghanistan,AFG,1993,1320
+1200,Afghanistan,AFG,1994,1300
+1201,Afghanistan,AFG,1995,1270
+1202,Afghanistan,AFG,1996,1240
+1203,Afghanistan,AFG,1997,1200
+1204,Afghanistan,AFG,1998,1160
+1205,Afghanistan,AFG,1999,1130
+1206,Afghanistan,AFG,2000,1100
+1207,Afghanistan,AFG,2001,1050
+1208,Afghanistan,AFG,2002,996
+1209,Afghanistan,AFG,2003,941
+1210,Afghanistan,AFG,2004,881
+1211,Afghanistan,AFG,2005,821
+1212,Afghanistan,AFG,2006,776
+1213,Afghanistan,AFG,2007,724
+1214,Afghanistan,AFG,2008,676
+1215,Afghanistan,AFG,2009,631
+1216,Afghanistan,AFG,2010,584
+1217,Afghanistan,AFG,2011,536
+1218,Afghanistan,AFG,2012,496
+1219,Afghanistan,AFG,2013,459
+1220,Afghanistan,AFG,2014,425
+1221,Afghanistan,AFG,2015,396
+1222,Albania,ALB,1990,71
+1223,Albania,ALB,1991,69
+1224,Albania,ALB,1992,65
+1225,Albania,ALB,1993,63
+1226,Albania,ALB,1994,49
+1227,Albania,ALB,1995,53
+1228,Albania,ALB,1996,50
+1229,Albania,ALB,1997,51
+1230,Albania,ALB,1998,46
+1231,Albania,ALB,1999,42
+1232,Albania,ALB,2000,43
+1233,Albania,ALB,2001,40
+1234,Albania,ALB,2002,37
+1235,Albania,ALB,2003,35
+1236,Albania,ALB,2004,31
+1237,Albania,ALB,2005,30
+1238,Albania,ALB,2006,29
+1239,Albania,ALB,2007,30
+1240,Albania,ALB,2008,30
+1241,Albania,ALB,2009,30
+1242,Albania,ALB,2010,30
+1243,Albania,ALB,2011,30
+1244,Albania,ALB,2012,30
+1245,Albania,ALB,2013,29
+1246,Albania,ALB,2014,29
+1247,Albania,ALB,2015,29
+1248,Algeria,DZA,1990,216
+1249,Algeria,DZA,1991,210
+1250,Algeria,DZA,1992,205
+1251,Algeria,DZA,1993,201
+1252,Algeria,DZA,1994,196
+1253,Algeria,DZA,1995,192
+1254,Algeria,DZA,1996,189
+1255,Algeria,DZA,1997,184
+1256,Algeria,DZA,1998,179
+1257,Algeria,DZA,1999,174
+1258,Algeria,DZA,2000,170
+1259,Algeria,DZA,2001,164
+1260,Algeria,DZA,2002,158
+1261,Algeria,DZA,2003,153
+1262,Algeria,DZA,2004,150
+1263,Algeria,DZA,2005,148
+1264,Algeria,DZA,2006,147
+1265,Algeria,DZA,2007,148
+1266,Algeria,DZA,2008,148
+1267,Algeria,DZA,2009,148
+1268,Algeria,DZA,2010,147
+1269,Algeria,DZA,2011,147
+1270,Algeria,DZA,2012,145
+1271,Algeria,DZA,2013,144
+1272,Algeria,DZA,2014,141
+1273,Algeria,DZA,2015,140
+1274,Angola,AGO,1990,1160
+1275,Angola,AGO,1991,1160
+1276,Angola,AGO,1992,1180
+1277,Angola,AGO,1993,1180
+1278,Angola,AGO,1994,1180
+1279,Angola,AGO,1995,1150
+1280,Angola,AGO,1996,1120
+1281,Angola,AGO,1997,1070
+1282,Angola,AGO,1998,1030
+1283,Angola,AGO,1999,981
+1284,Angola,AGO,2000,924
+1285,Angola,AGO,2001,878
+1286,Angola,AGO,2002,831
+1287,Angola,AGO,2003,789
+1288,Angola,AGO,2004,749
+1289,Angola,AGO,2005,705
+1290,Angola,AGO,2006,668
+1291,Angola,AGO,2007,640
+1292,Angola,AGO,2008,606
+1293,Angola,AGO,2009,581
+1294,Angola,AGO,2010,561
+1295,Angola,AGO,2011,546
+1296,Angola,AGO,2012,526
+1297,Angola,AGO,2013,509
+1298,Angola,AGO,2014,493
+1299,Angola,AGO,2015,477
+1300,Argentina,ARG,1990,72
+1301,Argentina,ARG,1991,71
+1302,Argentina,ARG,1992,69
+1303,Argentina,ARG,1993,65
+1304,Argentina,ARG,1994,64
+1305,Argentina,ARG,1995,63
+1306,Argentina,ARG,1996,63
+1307,Argentina,ARG,1997,64
+1308,Argentina,ARG,1998,61
+1309,Argentina,ARG,1999,62
+1310,Argentina,ARG,2000,60
+1311,Argentina,ARG,2001,61
+1312,Argentina,ARG,2002,60
+1313,Argentina,ARG,2003,61
+1314,Argentina,ARG,2004,59
+1315,Argentina,ARG,2005,58
+1316,Argentina,ARG,2006,57
+1317,Argentina,ARG,2007,58
+1318,Argentina,ARG,2008,57
+1319,Argentina,ARG,2009,62
+1320,Argentina,ARG,2010,58
+1321,Argentina,ARG,2011,56
+1322,Argentina,ARG,2012,55
+1323,Argentina,ARG,2013,54
+1324,Argentina,ARG,2014,54
+1325,Argentina,ARG,2015,52
+1326,Armenia,ARM,1990,58
+1327,Armenia,ARM,1991,48
+1328,Armenia,ARM,1992,55
+1329,Armenia,ARM,1993,57
+1330,Armenia,ARM,1994,50
+1331,Armenia,ARM,1995,50
+1332,Armenia,ARM,1996,51
+1333,Armenia,ARM,1997,46
+1334,Armenia,ARM,1998,46
+1335,Armenia,ARM,1999,40
+1336,Armenia,ARM,2000,40
+1337,Armenia,ARM,2001,39
+1338,Armenia,ARM,2002,45
+1339,Armenia,ARM,2003,43
+1340,Armenia,ARM,2004,41
+1341,Armenia,ARM,2005,40
+1342,Armenia,ARM,2006,40
+1343,Armenia,ARM,2007,35
+1344,Armenia,ARM,2008,39
+1345,Armenia,ARM,2009,36
+1346,Armenia,ARM,2010,33
+1347,Armenia,ARM,2011,31
+1348,Armenia,ARM,2012,30
+1349,Armenia,ARM,2013,28
+1350,Armenia,ARM,2014,26
+1351,Armenia,ARM,2015,25
+1352,Australia,AUS,1990,8
+1353,Australia,AUS,1991,8
+1354,Australia,AUS,1992,8
+1355,Australia,AUS,1993,8
+1356,Australia,AUS,1994,8
+1357,Australia,AUS,1995,8
+1358,Australia,AUS,1996,8
+1359,Australia,AUS,1997,9
+1360,Australia,AUS,1998,8
+1361,Australia,AUS,1999,9
+1362,Australia,AUS,2000,9
+1363,Australia,AUS,2001,8
+1364,Australia,AUS,2002,8
+1365,Australia,AUS,2003,8
+1366,Australia,AUS,2004,7
+1367,Australia,AUS,2005,7
+1368,Australia,AUS,2006,7
+1369,Australia,AUS,2007,7
+1370,Australia,AUS,2008,7
+1371,Australia,AUS,2009,7
+1372,Australia,AUS,2010,6
+1373,Australia,AUS,2011,7
+1374,Australia,AUS,2012,6
+1375,Australia,AUS,2013,6
+1376,Australia,AUS,2014,6
+1377,Australia,AUS,2015,6
+1378,Austria,AUT,1990,8
+1379,Austria,AUT,1991,8
+1380,Austria,AUT,1992,8
+1381,Austria,AUT,1993,7
+1382,Austria,AUT,1994,7
+1383,Austria,AUT,1995,6
+1384,Austria,AUT,1996,6
+1385,Austria,AUT,1997,5
+1386,Austria,AUT,1998,5
+1387,Austria,AUT,1999,5
+1388,Austria,AUT,2000,5
+1389,Austria,AUT,2001,5
+1390,Austria,AUT,2002,5
+1391,Austria,AUT,2003,5
+1392,Austria,AUT,2004,4
+1393,Austria,AUT,2005,5
+1394,Austria,AUT,2006,4
+1395,Austria,AUT,2007,4
+1396,Austria,AUT,2008,4
+1397,Austria,AUT,2009,4
+1398,Austria,AUT,2010,4
+1399,Austria,AUT,2011,4
+1400,Austria,AUT,2012,4
+1401,Austria,AUT,2013,4
+1402,Austria,AUT,2014,4
+1403,Austria,AUT,2015,4
+1404,Azerbaijan,AZE,1990,64
+1405,Azerbaijan,AZE,1991,65
+1406,Azerbaijan,AZE,1992,83
+1407,Azerbaijan,AZE,1993,82
+1408,Azerbaijan,AZE,1994,92
+1409,Azerbaijan,AZE,1995,86
+1410,Azerbaijan,AZE,1996,77
+1411,Azerbaijan,AZE,1997,73
+1412,Azerbaijan,AZE,1998,66
+1413,Azerbaijan,AZE,1999,61
+1414,Azerbaijan,AZE,2000,48
+1415,Azerbaijan,AZE,2001,43
+1416,Azerbaijan,AZE,2002,38
+1417,Azerbaijan,AZE,2003,38
+1418,Azerbaijan,AZE,2004,32
+1419,Azerbaijan,AZE,2005,34
+1420,Azerbaijan,AZE,2006,30
+1421,Azerbaijan,AZE,2007,29
+1422,Azerbaijan,AZE,2008,28
+1423,Azerbaijan,AZE,2009,27
+1424,Azerbaijan,AZE,2010,27
+1425,Azerbaijan,AZE,2011,26
+1426,Azerbaijan,AZE,2012,25
+1427,Azerbaijan,AZE,2013,25
+1428,Azerbaijan,AZE,2014,26
+1429,Azerbaijan,AZE,2015,25
+1430,"Bahamas, The",BHS,1990,46
+1431,"Bahamas, The",BHS,1991,46
+1432,"Bahamas, The",BHS,1992,45
+1433,"Bahamas, The",BHS,1993,45
+1434,"Bahamas, The",BHS,1994,47
+1435,"Bahamas, The",BHS,1995,49
+1436,"Bahamas, The",BHS,1996,52
+1437,"Bahamas, The",BHS,1997,54
+1438,"Bahamas, The",BHS,1998,55
+1439,"Bahamas, The",BHS,1999,58
+1440,"Bahamas, The",BHS,2000,61
+1441,"Bahamas, The",BHS,2001,64
+1442,"Bahamas, The",BHS,2002,67
+1443,"Bahamas, The",BHS,2003,71
+1444,"Bahamas, The",BHS,2004,71
+1445,"Bahamas, The",BHS,2005,74
+1446,"Bahamas, The",BHS,2006,78
+1447,"Bahamas, The",BHS,2007,78
+1448,"Bahamas, The",BHS,2008,82
+1449,"Bahamas, The",BHS,2009,80
+1450,"Bahamas, The",BHS,2010,85
+1451,"Bahamas, The",BHS,2011,86
+1452,"Bahamas, The",BHS,2012,82
+1453,"Bahamas, The",BHS,2013,81
+1454,"Bahamas, The",BHS,2014,83
+1455,"Bahamas, The",BHS,2015,80
+1456,Bahrain,BHR,1990,26
+1457,Bahrain,BHR,1991,25
+1458,Bahrain,BHR,1992,25
+1459,Bahrain,BHR,1993,23
+1460,Bahrain,BHR,1994,22
+1461,Bahrain,BHR,1995,22
+1462,Bahrain,BHR,1996,22
+1463,Bahrain,BHR,1997,22
+1464,Bahrain,BHR,1998,22
+1465,Bahrain,BHR,1999,22
+1466,Bahrain,BHR,2000,21
+1467,Bahrain,BHR,2001,21
+1468,Bahrain,BHR,2002,21
+1469,Bahrain,BHR,2003,20
+1470,Bahrain,BHR,2004,20
+1471,Bahrain,BHR,2005,20
+1472,Bahrain,BHR,2006,19
+1473,Bahrain,BHR,2007,18
+1474,Bahrain,BHR,2008,17
+1475,Bahrain,BHR,2009,17
+1476,Bahrain,BHR,2010,16
+1477,Bahrain,BHR,2011,16
+1478,Bahrain,BHR,2012,16
+1479,Bahrain,BHR,2013,15
+1480,Bahrain,BHR,2014,15
+1481,Bahrain,BHR,2015,15
+1482,Bangladesh,BGD,1990,569
+1483,Bangladesh,BGD,1991,550
+1484,Bangladesh,BGD,1992,531
+1485,Bangladesh,BGD,1993,511
+1486,Bangladesh,BGD,1994,495
+1487,Bangladesh,BGD,1995,479
+1488,Bangladesh,BGD,1996,462
+1489,Bangladesh,BGD,1997,446
+1490,Bangladesh,BGD,1998,432
+1491,Bangladesh,BGD,1999,415
+1492,Bangladesh,BGD,2000,399
+1493,Bangladesh,BGD,2001,384
+1494,Bangladesh,BGD,2002,365
+1495,Bangladesh,BGD,2003,349
+1496,Bangladesh,BGD,2004,333
+1497,Bangladesh,BGD,2005,319
+1498,Bangladesh,BGD,2006,303
+1499,Bangladesh,BGD,2007,288
+1500,Bangladesh,BGD,2008,273
+1501,Bangladesh,BGD,2009,258
+1502,Bangladesh,BGD,2010,242
+1503,Bangladesh,BGD,2011,228
+1504,Bangladesh,BGD,2012,214
+1505,Bangladesh,BGD,2013,201
+1506,Bangladesh,BGD,2014,188
+1507,Bangladesh,BGD,2015,176
+1508,Barbados,BRB,1990,58
+1509,Barbados,BRB,1991,52
+1510,Barbados,BRB,1992,52
+1511,Barbados,BRB,1993,52
+1512,Barbados,BRB,1994,56
+1513,Barbados,BRB,1995,49
+1514,Barbados,BRB,1996,44
+1515,Barbados,BRB,1997,45
+1516,Barbados,BRB,1998,47
+1517,Barbados,BRB,1999,50
+1518,Barbados,BRB,2000,48
+1519,Barbados,BRB,2001,46
+1520,Barbados,BRB,2002,46
+1521,Barbados,BRB,2003,46
+1522,Barbados,BRB,2004,47
+1523,Barbados,BRB,2005,40
+1524,Barbados,BRB,2006,36
+1525,Barbados,BRB,2007,38
+1526,Barbados,BRB,2008,36
+1527,Barbados,BRB,2009,34
+1528,Barbados,BRB,2010,33
+1529,Barbados,BRB,2011,31
+1530,Barbados,BRB,2012,29
+1531,Barbados,BRB,2013,28
+1532,Barbados,BRB,2014,28
+1533,Barbados,BRB,2015,27
+1534,Belarus,BLR,1990,33
+1535,Belarus,BLR,1991,32
+1536,Belarus,BLR,1992,32
+1537,Belarus,BLR,1993,33
+1538,Belarus,BLR,1994,33
+1539,Belarus,BLR,1995,33
+1540,Belarus,BLR,1996,32
+1541,Belarus,BLR,1997,31
+1542,Belarus,BLR,1998,30
+1543,Belarus,BLR,1999,30
+1544,Belarus,BLR,2000,26
+1545,Belarus,BLR,2001,23
+1546,Belarus,BLR,2002,22
+1547,Belarus,BLR,2003,19
+1548,Belarus,BLR,2004,16
+1549,Belarus,BLR,2005,13
+1550,Belarus,BLR,2006,10
+1551,Belarus,BLR,2007,8
+1552,Belarus,BLR,2008,7
+1553,Belarus,BLR,2009,6
+1554,Belarus,BLR,2010,5
+1555,Belarus,BLR,2011,5
+1556,Belarus,BLR,2012,4
+1557,Belarus,BLR,2013,4
+1558,Belarus,BLR,2014,4
+1559,Belarus,BLR,2015,4
+1560,Belgium,BEL,1990,9
+1561,Belgium,BEL,1991,9
+1562,Belgium,BEL,1992,9
+1563,Belgium,BEL,1993,9
+1564,Belgium,BEL,1994,9
+1565,Belgium,BEL,1995,10
+1566,Belgium,BEL,1996,10
+1567,Belgium,BEL,1997,9
+1568,Belgium,BEL,1998,9
+1569,Belgium,BEL,1999,9
+1570,Belgium,BEL,2000,9
+1571,Belgium,BEL,2001,9
+1572,Belgium,BEL,2002,8
+1573,Belgium,BEL,2003,8
+1574,Belgium,BEL,2004,8
+1575,Belgium,BEL,2005,8
+1576,Belgium,BEL,2006,8
+1577,Belgium,BEL,2007,8
+1578,Belgium,BEL,2008,8
+1579,Belgium,BEL,2009,8
+1580,Belgium,BEL,2010,8
+1581,Belgium,BEL,2011,8
+1582,Belgium,BEL,2012,7
+1583,Belgium,BEL,2013,7
+1584,Belgium,BEL,2014,7
+1585,Belgium,BEL,2015,7
+1586,Belize,BLZ,1990,54
+1587,Belize,BLZ,1991,54
+1588,Belize,BLZ,1992,55
+1589,Belize,BLZ,1993,54
+1590,Belize,BLZ,1994,55
+1591,Belize,BLZ,1995,55
+1592,Belize,BLZ,1996,53
+1593,Belize,BLZ,1997,53
+1594,Belize,BLZ,1998,51
+1595,Belize,BLZ,1999,52
+1596,Belize,BLZ,2000,53
+1597,Belize,BLZ,2001,53
+1598,Belize,BLZ,2002,53
+1599,Belize,BLZ,2003,50
+1600,Belize,BLZ,2004,50
+1601,Belize,BLZ,2005,52
+1602,Belize,BLZ,2006,50
+1603,Belize,BLZ,2007,46
+1604,Belize,BLZ,2008,36
+1605,Belize,BLZ,2009,39
+1606,Belize,BLZ,2010,37
+1607,Belize,BLZ,2011,33
+1608,Belize,BLZ,2012,32
+1609,Belize,BLZ,2013,29
+1610,Belize,BLZ,2014,28
+1611,Belize,BLZ,2015,28
+1612,Benin,BEN,1990,576
+1613,Benin,BEN,1991,553
+1614,Benin,BEN,1992,540
+1615,Benin,BEN,1993,537
+1616,Benin,BEN,1994,541
+1617,Benin,BEN,1995,550
+1618,Benin,BEN,1996,561
+1619,Benin,BEN,1997,571
+1620,Benin,BEN,1998,577
+1621,Benin,BEN,1999,576
+1622,Benin,BEN,2000,572
+1623,Benin,BEN,2001,561
+1624,Benin,BEN,2002,549
+1625,Benin,BEN,2003,538
+1626,Benin,BEN,2004,523
+1627,Benin,BEN,2005,502
+1628,Benin,BEN,2006,494
+1629,Benin,BEN,2007,481
+1630,Benin,BEN,2008,469
+1631,Benin,BEN,2009,457
+1632,Benin,BEN,2010,446
+1633,Benin,BEN,2011,436
+1634,Benin,BEN,2012,429
+1635,Benin,BEN,2013,422
+1636,Benin,BEN,2014,414
+1637,Benin,BEN,2015,405
+1638,Bhutan,BTN,1990,945
+1639,Bhutan,BTN,1991,877
+1640,Bhutan,BTN,1992,813
+1641,Bhutan,BTN,1993,749
+1642,Bhutan,BTN,1994,690
+1643,Bhutan,BTN,1995,636
+1644,Bhutan,BTN,1996,579
+1645,Bhutan,BTN,1997,530
+1646,Bhutan,BTN,1998,488
+1647,Bhutan,BTN,1999,454
+1648,Bhutan,BTN,2000,423
+1649,Bhutan,BTN,2001,397
+1650,Bhutan,BTN,2002,373
+1651,Bhutan,BTN,2003,353
+1652,Bhutan,BTN,2004,331
+1653,Bhutan,BTN,2005,308
+1654,Bhutan,BTN,2006,285
+1655,Bhutan,BTN,2007,263
+1656,Bhutan,BTN,2008,242
+1657,Bhutan,BTN,2009,221
+1658,Bhutan,BTN,2010,204
+1659,Bhutan,BTN,2011,190
+1660,Bhutan,BTN,2012,177
+1661,Bhutan,BTN,2013,166
+1662,Bhutan,BTN,2014,156
+1663,Bhutan,BTN,2015,148
+1664,Bolivia,BOL,1990,425
+1665,Bolivia,BOL,1991,422
+1666,Bolivia,BOL,1992,417
+1667,Bolivia,BOL,1993,409
+1668,Bolivia,BOL,1994,401
+1669,Bolivia,BOL,1995,390
+1670,Bolivia,BOL,1996,375
+1671,Bolivia,BOL,1997,362
+1672,Bolivia,BOL,1998,350
+1673,Bolivia,BOL,1999,342
+1674,Bolivia,BOL,2000,334
+1675,Bolivia,BOL,2001,329
+1676,Bolivia,BOL,2002,323
+1677,Bolivia,BOL,2003,317
+1678,Bolivia,BOL,2004,312
+1679,Bolivia,BOL,2005,305
+1680,Bolivia,BOL,2006,298
+1681,Bolivia,BOL,2007,288
+1682,Bolivia,BOL,2008,277
+1683,Bolivia,BOL,2009,266
+1684,Bolivia,BOL,2010,253
+1685,Bolivia,BOL,2011,241
+1686,Bolivia,BOL,2012,230
+1687,Bolivia,BOL,2013,222
+1688,Bolivia,BOL,2014,215
+1689,Bolivia,BOL,2015,206
+1690,Bosnia and Herzegovina,BIH,1990,28
+1691,Bosnia and Herzegovina,BIH,1991,29
+1692,Bosnia and Herzegovina,BIH,1992,28
+1693,Bosnia and Herzegovina,BIH,1993,26
+1694,Bosnia and Herzegovina,BIH,1994,24
+1695,Bosnia and Herzegovina,BIH,1995,22
+1696,Bosnia and Herzegovina,BIH,1996,21
+1697,Bosnia and Herzegovina,BIH,1997,21
+1698,Bosnia and Herzegovina,BIH,1998,19
+1699,Bosnia and Herzegovina,BIH,1999,18
+1700,Bosnia and Herzegovina,BIH,2000,17
+1701,Bosnia and Herzegovina,BIH,2001,16
+1702,Bosnia and Herzegovina,BIH,2002,15
+1703,Bosnia and Herzegovina,BIH,2003,15
+1704,Bosnia and Herzegovina,BIH,2004,15
+1705,Bosnia and Herzegovina,BIH,2005,14
+1706,Bosnia and Herzegovina,BIH,2006,14
+1707,Bosnia and Herzegovina,BIH,2007,14
+1708,Bosnia and Herzegovina,BIH,2008,13
+1709,Bosnia and Herzegovina,BIH,2009,14
+1710,Bosnia and Herzegovina,BIH,2010,13
+1711,Bosnia and Herzegovina,BIH,2011,12
+1712,Bosnia and Herzegovina,BIH,2012,12
+1713,Bosnia and Herzegovina,BIH,2013,12
+1714,Bosnia and Herzegovina,BIH,2014,12
+1715,Bosnia and Herzegovina,BIH,2015,11
+1716,Botswana,BWA,1990,243
+1717,Botswana,BWA,1991,233
+1718,Botswana,BWA,1992,227
+1719,Botswana,BWA,1993,226
+1720,Botswana,BWA,1994,230
+1721,Botswana,BWA,1995,238
+1722,Botswana,BWA,1996,253
+1723,Botswana,BWA,1997,270
+1724,Botswana,BWA,1998,289
+1725,Botswana,BWA,1999,307
+1726,Botswana,BWA,2000,311
+1727,Botswana,BWA,2001,328
+1728,Botswana,BWA,2002,338
+1729,Botswana,BWA,2003,334
+1730,Botswana,BWA,2004,311
+1731,Botswana,BWA,2005,276
+1732,Botswana,BWA,2006,239
+1733,Botswana,BWA,2007,215
+1734,Botswana,BWA,2008,208
+1735,Botswana,BWA,2009,188
+1736,Botswana,BWA,2010,169
+1737,Botswana,BWA,2011,159
+1738,Botswana,BWA,2012,153
+1739,Botswana,BWA,2013,139
+1740,Botswana,BWA,2014,134
+1741,Botswana,BWA,2015,129
+1742,Brazil,BRA,1990,104
+1743,Brazil,BRA,1991,100
+1744,Brazil,BRA,1992,95
+1745,Brazil,BRA,1993,93
+1746,Brazil,BRA,1994,88
+1747,Brazil,BRA,1995,84
+1748,Brazil,BRA,1996,86
+1749,Brazil,BRA,1997,90
+1750,Brazil,BRA,1998,94
+1751,Brazil,BRA,1999,81
+1752,Brazil,BRA,2000,66
+1753,Brazil,BRA,2001,61
+1754,Brazil,BRA,2002,62
+1755,Brazil,BRA,2003,63
+1756,Brazil,BRA,2004,66
+1757,Brazil,BRA,2005,67
+1758,Brazil,BRA,2006,68
+1759,Brazil,BRA,2007,67
+1760,Brazil,BRA,2008,66
+1761,Brazil,BRA,2009,65
+1762,Brazil,BRA,2010,65
+1763,Brazil,BRA,2011,59
+1764,Brazil,BRA,2012,60
+1765,Brazil,BRA,2013,48
+1766,Brazil,BRA,2014,46
+1767,Brazil,BRA,2015,44
+1768,Brunei Darussalam,BRN,1990,35
+1769,Brunei Darussalam,BRN,1991,31
+1770,Brunei Darussalam,BRN,1992,32
+1771,Brunei Darussalam,BRN,1993,33
+1772,Brunei Darussalam,BRN,1994,34
+1773,Brunei Darussalam,BRN,1995,33
+1774,Brunei Darussalam,BRN,1996,34
+1775,Brunei Darussalam,BRN,1997,34
+1776,Brunei Darussalam,BRN,1998,33
+1777,Brunei Darussalam,BRN,1999,33
+1778,Brunei Darussalam,BRN,2000,31
+1779,Brunei Darussalam,BRN,2001,31
+1780,Brunei Darussalam,BRN,2002,30
+1781,Brunei Darussalam,BRN,2003,32
+1782,Brunei Darussalam,BRN,2004,32
+1783,Brunei Darussalam,BRN,2005,30
+1784,Brunei Darussalam,BRN,2006,28
+1785,Brunei Darussalam,BRN,2007,26
+1786,Brunei Darussalam,BRN,2008,27
+1787,Brunei Darussalam,BRN,2009,26
+1788,Brunei Darussalam,BRN,2010,27
+1789,Brunei Darussalam,BRN,2011,29
+1790,Brunei Darussalam,BRN,2012,25
+1791,Brunei Darussalam,BRN,2013,24
+1792,Brunei Darussalam,BRN,2014,23
+1793,Brunei Darussalam,BRN,2015,23
+1794,Bulgaria,BGR,1990,25
+1795,Bulgaria,BGR,1991,23
+1796,Bulgaria,BGR,1992,25
+1797,Bulgaria,BGR,1993,23
+1798,Bulgaria,BGR,1994,25
+1799,Bulgaria,BGR,1995,24
+1800,Bulgaria,BGR,1996,24
+1801,Bulgaria,BGR,1997,26
+1802,Bulgaria,BGR,1998,23
+1803,Bulgaria,BGR,1999,23
+1804,Bulgaria,BGR,2000,21
+1805,Bulgaria,BGR,2001,20
+1806,Bulgaria,BGR,2002,18
+1807,Bulgaria,BGR,2003,17
+1808,Bulgaria,BGR,2004,16
+1809,Bulgaria,BGR,2005,15
+1810,Bulgaria,BGR,2006,14
+1811,Bulgaria,BGR,2007,13
+1812,Bulgaria,BGR,2008,12
+1813,Bulgaria,BGR,2009,11
+1814,Bulgaria,BGR,2010,11
+1815,Bulgaria,BGR,2011,11
+1816,Bulgaria,BGR,2012,10
+1817,Bulgaria,BGR,2013,11
+1818,Bulgaria,BGR,2014,11
+1819,Bulgaria,BGR,2015,11
+1820,Burkina Faso,BFA,1990,727
+1821,Burkina Faso,BFA,1991,709
+1822,Burkina Faso,BFA,1992,693
+1823,Burkina Faso,BFA,1993,674
+1824,Burkina Faso,BFA,1994,655
+1825,Burkina Faso,BFA,1995,636
+1826,Burkina Faso,BFA,1996,620
+1827,Burkina Faso,BFA,1997,601
+1828,Burkina Faso,BFA,1998,581
+1829,Burkina Faso,BFA,1999,565
+1830,Burkina Faso,BFA,2000,547
+1831,Burkina Faso,BFA,2001,530
+1832,Burkina Faso,BFA,2002,516
+1833,Burkina Faso,BFA,2003,500
+1834,Burkina Faso,BFA,2004,482
+1835,Burkina Faso,BFA,2005,468
+1836,Burkina Faso,BFA,2006,457
+1837,Burkina Faso,BFA,2007,447
+1838,Burkina Faso,BFA,2008,436
+1839,Burkina Faso,BFA,2009,428
+1840,Burkina Faso,BFA,2010,417
+1841,Burkina Faso,BFA,2011,408
+1842,Burkina Faso,BFA,2012,398
+1843,Burkina Faso,BFA,2013,389
+1844,Burkina Faso,BFA,2014,379
+1845,Burkina Faso,BFA,2015,371
+1846,Burundi,BDI,1990,1220
+1847,Burundi,BDI,1991,1250
+1848,Burundi,BDI,1992,1270
+1849,Burundi,BDI,1993,1260
+1850,Burundi,BDI,1994,1250
+1851,Burundi,BDI,1995,1210
+1852,Burundi,BDI,1996,1160
+1853,Burundi,BDI,1997,1100
+1854,Burundi,BDI,1998,1040
+1855,Burundi,BDI,1999,985
+1856,Burundi,BDI,2000,954
+1857,Burundi,BDI,2001,919
+1858,Burundi,BDI,2002,898
+1859,Burundi,BDI,2003,883
+1860,Burundi,BDI,2004,873
+1861,Burundi,BDI,2005,863
+1862,Burundi,BDI,2006,856
+1863,Burundi,BDI,2007,849
+1864,Burundi,BDI,2008,838
+1865,Burundi,BDI,2009,824
+1866,Burundi,BDI,2010,808
+1867,Burundi,BDI,2011,796
+1868,Burundi,BDI,2012,780
+1869,Burundi,BDI,2013,760
+1870,Burundi,BDI,2014,737
+1871,Burundi,BDI,2015,712
+1872,Cabo Verde,CPV,1990,256
+1873,Cabo Verde,CPV,1991,233
+1874,Cabo Verde,CPV,1992,212
+1875,Cabo Verde,CPV,1993,193
+1876,Cabo Verde,CPV,1994,170
+1877,Cabo Verde,CPV,1995,150
+1878,Cabo Verde,CPV,1996,134
+1879,Cabo Verde,CPV,1997,119
+1880,Cabo Verde,CPV,1998,104
+1881,Cabo Verde,CPV,1999,94
+1882,Cabo Verde,CPV,2000,83
+1883,Cabo Verde,CPV,2001,75
+1884,Cabo Verde,CPV,2002,68
+1885,Cabo Verde,CPV,2003,61
+1886,Cabo Verde,CPV,2004,56
+1887,Cabo Verde,CPV,2005,54
+1888,Cabo Verde,CPV,2006,60
+1889,Cabo Verde,CPV,2007,60
+1890,Cabo Verde,CPV,2008,57
+1891,Cabo Verde,CPV,2009,54
+1892,Cabo Verde,CPV,2010,51
+1893,Cabo Verde,CPV,2011,50
+1894,Cabo Verde,CPV,2012,48
+1895,Cabo Verde,CPV,2013,46
+1896,Cabo Verde,CPV,2014,44
+1897,Cabo Verde,CPV,2015,42
+1898,Cambodia,KHM,1990,1020
+1899,Cambodia,KHM,1991,955
+1900,Cambodia,KHM,1992,896
+1901,Cambodia,KHM,1993,842
+1902,Cambodia,KHM,1994,789
+1903,Cambodia,KHM,1995,730
+1904,Cambodia,KHM,1996,682
+1905,Cambodia,KHM,1997,633
+1906,Cambodia,KHM,1998,582
+1907,Cambodia,KHM,1999,532
+1908,Cambodia,KHM,2000,484
+1909,Cambodia,KHM,2001,441
+1910,Cambodia,KHM,2002,402
+1911,Cambodia,KHM,2003,367
+1912,Cambodia,KHM,2004,341
+1913,Cambodia,KHM,2005,315
+1914,Cambodia,KHM,2006,284
+1915,Cambodia,KHM,2007,257
+1916,Cambodia,KHM,2008,237
+1917,Cambodia,KHM,2009,217
+1918,Cambodia,KHM,2010,202
+1919,Cambodia,KHM,2011,188
+1920,Cambodia,KHM,2012,178
+1921,Cambodia,KHM,2013,173
+1922,Cambodia,KHM,2014,167
+1923,Cambodia,KHM,2015,161
+1924,Cameroon,CMR,1990,728
+1925,Cameroon,CMR,1991,732
+1926,Cameroon,CMR,1992,740
+1927,Cameroon,CMR,1993,743
+1928,Cameroon,CMR,1994,749
+1929,Cameroon,CMR,1995,749
+1930,Cameroon,CMR,1996,753
+1931,Cameroon,CMR,1997,751
+1932,Cameroon,CMR,1998,749
+1933,Cameroon,CMR,1999,750
+1934,Cameroon,CMR,2000,750
+1935,Cameroon,CMR,2001,751
+1936,Cameroon,CMR,2002,742
+1937,Cameroon,CMR,2003,732
+1938,Cameroon,CMR,2004,723
+1939,Cameroon,CMR,2005,729
+1940,Cameroon,CMR,2006,725
+1941,Cameroon,CMR,2007,710
+1942,Cameroon,CMR,2008,707
+1943,Cameroon,CMR,2009,696
+1944,Cameroon,CMR,2010,676
+1945,Cameroon,CMR,2011,652
+1946,Cameroon,CMR,2012,632
+1947,Cameroon,CMR,2013,619
+1948,Cameroon,CMR,2014,609
+1949,Cameroon,CMR,2015,596
+1950,Canada,CAN,1990,7
+1951,Canada,CAN,1991,8
+1952,Canada,CAN,1992,8
+1953,Canada,CAN,1993,8
+1954,Canada,CAN,1994,8
+1955,Canada,CAN,1995,9
+1956,Canada,CAN,1996,9
+1957,Canada,CAN,1997,9
+1958,Canada,CAN,1998,9
+1959,Canada,CAN,1999,9
+1960,Canada,CAN,2000,9
+1961,Canada,CAN,2001,9
+1962,Canada,CAN,2002,9
+1963,Canada,CAN,2003,9
+1964,Canada,CAN,2004,9
+1965,Canada,CAN,2005,9
+1966,Canada,CAN,2006,9
+1967,Canada,CAN,2007,9
+1968,Canada,CAN,2008,9
+1969,Canada,CAN,2009,8
+1970,Canada,CAN,2010,8
+1971,Canada,CAN,2011,8
+1972,Canada,CAN,2012,8
+1973,Canada,CAN,2013,7
+1974,Canada,CAN,2014,7
+1975,Canada,CAN,2015,7
+1976,Central African Republic,CAF,1990,1290
+1977,Central African Republic,CAF,1991,1310
+1978,Central African Republic,CAF,1992,1320
+1979,Central African Republic,CAF,1993,1320
+1980,Central African Republic,CAF,1994,1320
+1981,Central African Republic,CAF,1995,1300
+1982,Central African Republic,CAF,1996,1290
+1983,Central African Republic,CAF,1997,1280
+1984,Central African Republic,CAF,1998,1260
+1985,Central African Republic,CAF,1999,1230
+1986,Central African Republic,CAF,2000,1200
+1987,Central African Republic,CAF,2001,1190
+1988,Central African Republic,CAF,2002,1170
+1989,Central African Republic,CAF,2003,1150
+1990,Central African Republic,CAF,2004,1110
+1991,Central African Republic,CAF,2005,1060
+1992,Central African Republic,CAF,2006,1020
+1993,Central African Republic,CAF,2007,992
+1994,Central African Republic,CAF,2008,963
+1995,Central African Republic,CAF,2009,941
+1996,Central African Republic,CAF,2010,909
+1997,Central African Republic,CAF,2011,888
+1998,Central African Republic,CAF,2012,876
+1999,Central African Republic,CAF,2013,873
+2000,Central African Republic,CAF,2014,872
+2001,Central African Republic,CAF,2015,882
+2002,Chad,TCD,1990,1450
+2003,Chad,TCD,1991,1440
+2004,Chad,TCD,1992,1450
+2005,Chad,TCD,1993,1440
+2006,Chad,TCD,1994,1440
+2007,Chad,TCD,1995,1430
+2008,Chad,TCD,1996,1410
+2009,Chad,TCD,1997,1410
+2010,Chad,TCD,1998,1390
+2011,Chad,TCD,1999,1390
+2012,Chad,TCD,2000,1370
+2013,Chad,TCD,2001,1360
+2014,Chad,TCD,2002,1310
+2015,Chad,TCD,2003,1260
+2016,Chad,TCD,2004,1220
+2017,Chad,TCD,2005,1170
+2018,Chad,TCD,2006,1130
+2019,Chad,TCD,2007,1100
+2020,Chad,TCD,2008,1070
+2021,Chad,TCD,2009,1070
+2022,Chad,TCD,2010,1040
+2023,Chad,TCD,2011,984
+2024,Chad,TCD,2012,931
+2025,Chad,TCD,2013,901
+2026,Chad,TCD,2014,881
+2027,Chad,TCD,2015,856
+2028,Chile,CHL,1990,57
+2029,Chile,CHL,1991,52
+2030,Chile,CHL,1992,48
+2031,Chile,CHL,1993,45
+2032,Chile,CHL,1994,43
+2033,Chile,CHL,1995,41
+2034,Chile,CHL,1996,39
+2035,Chile,CHL,1997,36
+2036,Chile,CHL,1998,34
+2037,Chile,CHL,1999,34
+2038,Chile,CHL,2000,31
+2039,Chile,CHL,2001,32
+2040,Chile,CHL,2002,29
+2041,Chile,CHL,2003,29
+2042,Chile,CHL,2004,29
+2043,Chile,CHL,2005,27
+2044,Chile,CHL,2006,28
+2045,Chile,CHL,2007,29
+2046,Chile,CHL,2008,28
+2047,Chile,CHL,2009,27
+2048,Chile,CHL,2010,26
+2049,Chile,CHL,2011,25
+2050,Chile,CHL,2012,24
+2051,Chile,CHL,2013,23
+2052,Chile,CHL,2014,23
+2053,Chile,CHL,2015,22
+2054,China,CHN,1990,97
+2055,China,CHN,1991,92
+2056,China,CHN,1992,87
+2057,China,CHN,1993,82
+2058,China,CHN,1994,77
+2059,China,CHN,1995,72
+2060,China,CHN,1996,68
+2061,China,CHN,1997,64
+2062,China,CHN,1998,62
+2063,China,CHN,1999,60
+2064,China,CHN,2000,58
+2065,China,CHN,2001,56
+2066,China,CHN,2002,54
+2067,China,CHN,2003,52
+2068,China,CHN,2004,50
+2069,China,CHN,2005,48
+2070,China,CHN,2006,45
+2071,China,CHN,2007,43
+2072,China,CHN,2008,40
+2073,China,CHN,2009,38
+2074,China,CHN,2010,35
+2075,China,CHN,2011,33
+2076,China,CHN,2012,31
+2077,China,CHN,2013,29
+2078,China,CHN,2014,28
+2079,China,CHN,2015,27
+2080,Colombia,COL,1990,118
+2081,Colombia,COL,1991,120
+2082,Colombia,COL,1992,118
+2083,Colombia,COL,1993,114
+2084,Colombia,COL,1994,109
+2085,Colombia,COL,1995,105
+2086,Colombia,COL,1996,103
+2087,Colombia,COL,1997,98
+2088,Colombia,COL,1998,99
+2089,Colombia,COL,1999,98
+2090,Colombia,COL,2000,97
+2091,Colombia,COL,2001,95
+2092,Colombia,COL,2002,93
+2093,Colombia,COL,2003,89
+2094,Colombia,COL,2004,83
+2095,Colombia,COL,2005,80
+2096,Colombia,COL,2006,77
+2097,Colombia,COL,2007,75
+2098,Colombia,COL,2008,73
+2099,Colombia,COL,2009,73
+2100,Colombia,COL,2010,72
+2101,Colombia,COL,2011,69
+2102,Colombia,COL,2012,66
+2103,Colombia,COL,2013,67
+2104,Colombia,COL,2014,66
+2105,Colombia,COL,2015,64
+2106,Comoros,COM,1990,635
+2107,Comoros,COM,1991,619
+2108,Comoros,COM,1992,606
+2109,Comoros,COM,1993,592
+2110,Comoros,COM,1994,576
+2111,Comoros,COM,1995,563
+2112,Comoros,COM,1996,549
+2113,Comoros,COM,1997,533
+2114,Comoros,COM,1998,521
+2115,Comoros,COM,1999,509
+2116,Comoros,COM,2000,499
+2117,Comoros,COM,2001,484
+2118,Comoros,COM,2002,471
+2119,Comoros,COM,2003,458
+2120,Comoros,COM,2004,447
+2121,Comoros,COM,2005,436
+2122,Comoros,COM,2006,426
+2123,Comoros,COM,2007,415
+2124,Comoros,COM,2008,407
+2125,Comoros,COM,2009,396
+2126,Comoros,COM,2010,388
+2127,Comoros,COM,2011,376
+2128,Comoros,COM,2012,365
+2129,Comoros,COM,2013,354
+2130,Comoros,COM,2014,344
+2131,Comoros,COM,2015,335
+2132,"Congo, Dem. Rep.",COD,1990,879
+2133,"Congo, Dem. Rep.",COD,1991,881
+2134,"Congo, Dem. Rep.",COD,1992,883
+2135,"Congo, Dem. Rep.",COD,1993,890
+2136,"Congo, Dem. Rep.",COD,1994,904
+2137,"Congo, Dem. Rep.",COD,1995,914
+2138,"Congo, Dem. Rep.",COD,1996,920
+2139,"Congo, Dem. Rep.",COD,1997,919
+2140,"Congo, Dem. Rep.",COD,1998,915
+2141,"Congo, Dem. Rep.",COD,1999,902
+2142,"Congo, Dem. Rep.",COD,2000,874
+2143,"Congo, Dem. Rep.",COD,2001,853
+2144,"Congo, Dem. Rep.",COD,2002,830
+2145,"Congo, Dem. Rep.",COD,2003,808
+2146,"Congo, Dem. Rep.",COD,2004,793
+2147,"Congo, Dem. Rep.",COD,2005,787
+2148,"Congo, Dem. Rep.",COD,2006,789
+2149,"Congo, Dem. Rep.",COD,2007,803
+2150,"Congo, Dem. Rep.",COD,2008,792
+2151,"Congo, Dem. Rep.",COD,2009,793
+2152,"Congo, Dem. Rep.",COD,2010,794
+2153,"Congo, Dem. Rep.",COD,2011,777
+2154,"Congo, Dem. Rep.",COD,2012,771
+2155,"Congo, Dem. Rep.",COD,2013,746
+2156,"Congo, Dem. Rep.",COD,2014,717
+2157,"Congo, Dem. Rep.",COD,2015,693
+2158,"Congo, Rep.",COG,1990,603
+2159,"Congo, Rep.",COG,1991,608
+2160,"Congo, Rep.",COG,1992,612
+2161,"Congo, Rep.",COG,1993,615
+2162,"Congo, Rep.",COG,1994,627
+2163,"Congo, Rep.",COG,1995,634
+2164,"Congo, Rep.",COG,1996,646
+2165,"Congo, Rep.",COG,1997,653
+2166,"Congo, Rep.",COG,1998,651
+2167,"Congo, Rep.",COG,1999,657
+2168,"Congo, Rep.",COG,2000,653
+2169,"Congo, Rep.",COG,2001,657
+2170,"Congo, Rep.",COG,2002,655
+2171,"Congo, Rep.",COG,2003,641
+2172,"Congo, Rep.",COG,2004,622
+2173,"Congo, Rep.",COG,2005,596
+2174,"Congo, Rep.",COG,2006,575
+2175,"Congo, Rep.",COG,2007,555
+2176,"Congo, Rep.",COG,2008,537
+2177,"Congo, Rep.",COG,2009,525
+2178,"Congo, Rep.",COG,2010,509
+2179,"Congo, Rep.",COG,2011,494
+2180,"Congo, Rep.",COG,2012,483
+2181,"Congo, Rep.",COG,2013,469
+2182,"Congo, Rep.",COG,2014,452
+2183,"Congo, Rep.",COG,2015,442
+2184,Costa Rica,CRI,1990,43
+2185,Costa Rica,CRI,1991,45
+2186,Costa Rica,CRI,1992,43
+2187,Costa Rica,CRI,1993,41
+2188,Costa Rica,CRI,1994,43
+2189,Costa Rica,CRI,1995,44
+2190,Costa Rica,CRI,1996,44
+2191,Costa Rica,CRI,1997,42
+2192,Costa Rica,CRI,1998,39
+2193,Costa Rica,CRI,1999,40
+2194,Costa Rica,CRI,2000,38
+2195,Costa Rica,CRI,2001,36
+2196,Costa Rica,CRI,2002,37
+2197,Costa Rica,CRI,2003,36
+2198,Costa Rica,CRI,2004,32
+2199,Costa Rica,CRI,2005,31
+2200,Costa Rica,CRI,2006,33
+2201,Costa Rica,CRI,2007,29
+2202,Costa Rica,CRI,2008,30
+2203,Costa Rica,CRI,2009,32
+2204,Costa Rica,CRI,2010,29
+2205,Costa Rica,CRI,2011,28
+2206,Costa Rica,CRI,2012,27
+2207,Costa Rica,CRI,2013,26
+2208,Costa Rica,CRI,2014,26
+2209,Costa Rica,CRI,2015,25
+2210,Cote d'Ivoire,CIV,1990,745
+2211,Cote d'Ivoire,CIV,1991,741
+2212,Cote d'Ivoire,CIV,1992,741
+2213,Cote d'Ivoire,CIV,1993,753
+2214,Cote d'Ivoire,CIV,1994,741
+2215,Cote d'Ivoire,CIV,1995,711
+2216,Cote d'Ivoire,CIV,1996,686
+2217,Cote d'Ivoire,CIV,1997,674
+2218,Cote d'Ivoire,CIV,1998,678
+2219,Cote d'Ivoire,CIV,1999,674
+2220,Cote d'Ivoire,CIV,2000,671
+2221,Cote d'Ivoire,CIV,2001,678
+2222,Cote d'Ivoire,CIV,2002,683
+2223,Cote d'Ivoire,CIV,2003,700
+2224,Cote d'Ivoire,CIV,2004,725
+2225,Cote d'Ivoire,CIV,2005,742
+2226,Cote d'Ivoire,CIV,2006,745
+2227,Cote d'Ivoire,CIV,2007,745
+2228,Cote d'Ivoire,CIV,2008,745
+2229,Cote d'Ivoire,CIV,2009,732
+2230,Cote d'Ivoire,CIV,2010,717
+2231,Cote d'Ivoire,CIV,2011,715
+2232,Cote d'Ivoire,CIV,2012,715
+2233,Cote d'Ivoire,CIV,2013,688
+2234,Cote d'Ivoire,CIV,2014,665
+2235,Cote d'Ivoire,CIV,2015,645
+2236,Croatia,HRV,1990,10
+2237,Croatia,HRV,1991,12
+2238,Croatia,HRV,1992,11
+2239,Croatia,HRV,1993,11
+2240,Croatia,HRV,1994,12
+2241,Croatia,HRV,1995,12
+2242,Croatia,HRV,1996,14
+2243,Croatia,HRV,1997,12
+2244,Croatia,HRV,1998,12
+2245,Croatia,HRV,1999,11
+2246,Croatia,HRV,2000,11
+2247,Croatia,HRV,2001,10
+2248,Croatia,HRV,2002,11
+2249,Croatia,HRV,2003,11
+2250,Croatia,HRV,2004,11
+2251,Croatia,HRV,2005,11
+2252,Croatia,HRV,2006,11
+2253,Croatia,HRV,2007,11
+2254,Croatia,HRV,2008,11
+2255,Croatia,HRV,2009,10
+2256,Croatia,HRV,2010,10
+2257,Croatia,HRV,2011,10
+2258,Croatia,HRV,2012,9
+2259,Croatia,HRV,2013,9
+2260,Croatia,HRV,2014,9
+2261,Croatia,HRV,2015,8
+2262,Cuba,CUB,1990,58
+2263,Cuba,CUB,1991,59
+2264,Cuba,CUB,1992,60
+2265,Cuba,CUB,1993,58
+2266,Cuba,CUB,1994,57
+2267,Cuba,CUB,1995,55
+2268,Cuba,CUB,1996,52
+2269,Cuba,CUB,1997,49
+2270,Cuba,CUB,1998,49
+2271,Cuba,CUB,1999,44
+2272,Cuba,CUB,2000,43
+2273,Cuba,CUB,2001,41
+2274,Cuba,CUB,2002,39
+2275,Cuba,CUB,2003,39
+2276,Cuba,CUB,2004,40
+2277,Cuba,CUB,2005,41
+2278,Cuba,CUB,2006,38
+2279,Cuba,CUB,2007,40
+2280,Cuba,CUB,2008,42
+2281,Cuba,CUB,2009,43
+2282,Cuba,CUB,2010,44
+2283,Cuba,CUB,2011,43
+2284,Cuba,CUB,2012,41
+2285,Cuba,CUB,2013,41
+2286,Cuba,CUB,2014,40
+2287,Cuba,CUB,2015,39
+2288,Cyprus,CYP,1990,16
+2289,Cyprus,CYP,1991,15
+2290,Cyprus,CYP,1992,17
+2291,Cyprus,CYP,1993,14
+2292,Cyprus,CYP,1994,17
+2293,Cyprus,CYP,1995,17
+2294,Cyprus,CYP,1996,13
+2295,Cyprus,CYP,1997,14
+2296,Cyprus,CYP,1998,14
+2297,Cyprus,CYP,1999,14
+2298,Cyprus,CYP,2000,15
+2299,Cyprus,CYP,2001,9
+2300,Cyprus,CYP,2002,10
+2301,Cyprus,CYP,2003,9
+2302,Cyprus,CYP,2004,9
+2303,Cyprus,CYP,2005,12
+2304,Cyprus,CYP,2006,9
+2305,Cyprus,CYP,2007,8
+2306,Cyprus,CYP,2008,8
+2307,Cyprus,CYP,2009,8
+2308,Cyprus,CYP,2010,8
+2309,Cyprus,CYP,2011,7
+2310,Cyprus,CYP,2012,7
+2311,Cyprus,CYP,2013,7
+2312,Cyprus,CYP,2014,7
+2313,Cyprus,CYP,2015,7
+2314,Czech Republic,CZE,1990,14
+2315,Czech Republic,CZE,1991,14
+2316,Czech Republic,CZE,1992,13
+2317,Czech Republic,CZE,1993,12
+2318,Czech Republic,CZE,1994,11
+2319,Czech Republic,CZE,1995,10
+2320,Czech Republic,CZE,1996,9
+2321,Czech Republic,CZE,1997,9
+2322,Czech Republic,CZE,1998,7
+2323,Czech Republic,CZE,1999,7
+2324,Czech Republic,CZE,2000,7
+2325,Czech Republic,CZE,2001,7
+2326,Czech Republic,CZE,2002,7
+2327,Czech Republic,CZE,2003,6
+2328,Czech Republic,CZE,2004,6
+2329,Czech Republic,CZE,2005,6
+2330,Czech Republic,CZE,2006,6
+2331,Czech Republic,CZE,2007,5
+2332,Czech Republic,CZE,2008,5
+2333,Czech Republic,CZE,2009,5
+2334,Czech Republic,CZE,2010,5
+2335,Czech Republic,CZE,2011,5
+2336,Czech Republic,CZE,2012,4
+2337,Czech Republic,CZE,2013,4
+2338,Czech Republic,CZE,2014,4
+2339,Czech Republic,CZE,2015,4
+2340,Denmark,DNK,1990,11
+2341,Denmark,DNK,1991,11
+2342,Denmark,DNK,1992,11
+2343,Denmark,DNK,1993,11
+2344,Denmark,DNK,1994,11
+2345,Denmark,DNK,1995,11
+2346,Denmark,DNK,1996,11
+2347,Denmark,DNK,1997,11
+2348,Denmark,DNK,1998,9
+2349,Denmark,DNK,1999,10
+2350,Denmark,DNK,2000,9
+2351,Denmark,DNK,2001,9
+2352,Denmark,DNK,2002,9
+2353,Denmark,DNK,2003,9
+2354,Denmark,DNK,2004,9
+2355,Denmark,DNK,2005,8
+2356,Denmark,DNK,2006,8
+2357,Denmark,DNK,2007,8
+2358,Denmark,DNK,2008,8
+2359,Denmark,DNK,2009,8
+2360,Denmark,DNK,2010,7
+2361,Denmark,DNK,2011,8
+2362,Denmark,DNK,2012,7
+2363,Denmark,DNK,2013,7
+2364,Denmark,DNK,2014,7
+2365,Denmark,DNK,2015,6
+2366,Djibouti,DJI,1990,517
+2367,Djibouti,DJI,1991,499
+2368,Djibouti,DJI,1992,477
+2369,Djibouti,DJI,1993,466
+2370,Djibouti,DJI,1994,459
+2371,Djibouti,DJI,1995,452
+2372,Djibouti,DJI,1996,445
+2373,Djibouti,DJI,1997,429
+2374,Djibouti,DJI,1998,420
+2375,Djibouti,DJI,1999,410
+2376,Djibouti,DJI,2000,401
+2377,Djibouti,DJI,2001,396
+2378,Djibouti,DJI,2002,382
+2379,Djibouti,DJI,2003,371
+2380,Djibouti,DJI,2004,357
+2381,Djibouti,DJI,2005,341
+2382,Djibouti,DJI,2006,330
+2383,Djibouti,DJI,2007,321
+2384,Djibouti,DJI,2008,309
+2385,Djibouti,DJI,2009,290
+2386,Djibouti,DJI,2010,275
+2387,Djibouti,DJI,2011,266
+2388,Djibouti,DJI,2012,257
+2389,Djibouti,DJI,2013,243
+2390,Djibouti,DJI,2014,237
+2391,Djibouti,DJI,2015,229
+2392,Dominican Republic,DOM,1990,198
+2393,Dominican Republic,DOM,1991,209
+2394,Dominican Republic,DOM,1992,194
+2395,Dominican Republic,DOM,1993,196
+2396,Dominican Republic,DOM,1994,181
+2397,Dominican Republic,DOM,1995,198
+2398,Dominican Republic,DOM,1996,190
+2399,Dominican Republic,DOM,1997,186
+2400,Dominican Republic,DOM,1998,171
+2401,Dominican Republic,DOM,1999,96
+2402,Dominican Republic,DOM,2000,79
+2403,Dominican Republic,DOM,2001,75
+2404,Dominican Republic,DOM,2002,66
+2405,Dominican Republic,DOM,2003,69
+2406,Dominican Republic,DOM,2004,77
+2407,Dominican Republic,DOM,2005,64
+2408,Dominican Republic,DOM,2006,110
+2409,Dominican Republic,DOM,2007,81
+2410,Dominican Republic,DOM,2008,85
+2411,Dominican Republic,DOM,2009,105
+2412,Dominican Republic,DOM,2010,75
+2413,Dominican Republic,DOM,2011,115
+2414,Dominican Republic,DOM,2012,62
+2415,Dominican Republic,DOM,2013,106
+2416,Dominican Republic,DOM,2014,98
+2417,Dominican Republic,DOM,2015,92
+2418,Ecuador,ECU,1990,185
+2419,Ecuador,ECU,1991,181
+2420,Ecuador,ECU,1992,172
+2421,Ecuador,ECU,1993,164
+2422,Ecuador,ECU,1994,147
+2423,Ecuador,ECU,1995,131
+2424,Ecuador,ECU,1996,124
+2425,Ecuador,ECU,1997,110
+2426,Ecuador,ECU,1998,116
+2427,Ecuador,ECU,1999,111
+2428,Ecuador,ECU,2000,103
+2429,Ecuador,ECU,2001,98
+2430,Ecuador,ECU,2002,91
+2431,Ecuador,ECU,2003,81
+2432,Ecuador,ECU,2004,75
+2433,Ecuador,ECU,2005,74
+2434,Ecuador,ECU,2006,71
+2435,Ecuador,ECU,2007,68
+2436,Ecuador,ECU,2008,68
+2437,Ecuador,ECU,2009,72
+2438,Ecuador,ECU,2010,75
+2439,Ecuador,ECU,2011,78
+2440,Ecuador,ECU,2012,74
+2441,Ecuador,ECU,2013,70
+2442,Ecuador,ECU,2014,66
+2443,Ecuador,ECU,2015,64
+2444,"Egypt, Arab Rep.",EGY,1990,106
+2445,"Egypt, Arab Rep.",EGY,1991,102
+2446,"Egypt, Arab Rep.",EGY,1992,98
+2447,"Egypt, Arab Rep.",EGY,1993,93
+2448,"Egypt, Arab Rep.",EGY,1994,88
+2449,"Egypt, Arab Rep.",EGY,1995,83
+2450,"Egypt, Arab Rep.",EGY,1996,78
+2451,"Egypt, Arab Rep.",EGY,1997,74
+2452,"Egypt, Arab Rep.",EGY,1998,70
+2453,"Egypt, Arab Rep.",EGY,1999,66
+2454,"Egypt, Arab Rep.",EGY,2000,63
+2455,"Egypt, Arab Rep.",EGY,2001,60
+2456,"Egypt, Arab Rep.",EGY,2002,58
+2457,"Egypt, Arab Rep.",EGY,2003,56
+2458,"Egypt, Arab Rep.",EGY,2004,54
+2459,"Egypt, Arab Rep.",EGY,2005,52
+2460,"Egypt, Arab Rep.",EGY,2006,50
+2461,"Egypt, Arab Rep.",EGY,2007,47
+2462,"Egypt, Arab Rep.",EGY,2008,45
+2463,"Egypt, Arab Rep.",EGY,2009,43
+2464,"Egypt, Arab Rep.",EGY,2010,40
+2465,"Egypt, Arab Rep.",EGY,2011,39
+2466,"Egypt, Arab Rep.",EGY,2012,37
+2467,"Egypt, Arab Rep.",EGY,2013,35
+2468,"Egypt, Arab Rep.",EGY,2014,34
+2469,"Egypt, Arab Rep.",EGY,2015,33
+2470,El Salvador,SLV,1990,157
+2471,El Salvador,SLV,1991,143
+2472,El Salvador,SLV,1992,140
+2473,El Salvador,SLV,1993,138
+2474,El Salvador,SLV,1994,135
+2475,El Salvador,SLV,1995,118
+2476,El Salvador,SLV,1996,112
+2477,El Salvador,SLV,1997,111
+2478,El Salvador,SLV,1998,100
+2479,El Salvador,SLV,1999,88
+2480,El Salvador,SLV,2000,84
+2481,El Salvador,SLV,2001,86
+2482,El Salvador,SLV,2002,72
+2483,El Salvador,SLV,2003,69
+2484,El Salvador,SLV,2004,69
+2485,El Salvador,SLV,2005,68
+2486,El Salvador,SLV,2006,67
+2487,El Salvador,SLV,2007,62
+2488,El Salvador,SLV,2008,59
+2489,El Salvador,SLV,2009,63
+2490,El Salvador,SLV,2010,59
+2491,El Salvador,SLV,2011,60
+2492,El Salvador,SLV,2012,57
+2493,El Salvador,SLV,2013,55
+2494,El Salvador,SLV,2014,54
+2495,El Salvador,SLV,2015,54
+2496,Equatorial Guinea,GNQ,1990,1310
+2497,Equatorial Guinea,GNQ,1991,1290
+2498,Equatorial Guinea,GNQ,1992,1260
+2499,Equatorial Guinea,GNQ,1993,1230
+2500,Equatorial Guinea,GNQ,1994,1170
+2501,Equatorial Guinea,GNQ,1995,1050
+2502,Equatorial Guinea,GNQ,1996,949
+2503,Equatorial Guinea,GNQ,1997,876
+2504,Equatorial Guinea,GNQ,1998,818
+2505,Equatorial Guinea,GNQ,1999,751
+2506,Equatorial Guinea,GNQ,2000,702
+2507,Equatorial Guinea,GNQ,2001,659
+2508,Equatorial Guinea,GNQ,2002,611
+2509,Equatorial Guinea,GNQ,2003,564
+2510,Equatorial Guinea,GNQ,2004,523
+2511,Equatorial Guinea,GNQ,2005,483
+2512,Equatorial Guinea,GNQ,2006,450
+2513,Equatorial Guinea,GNQ,2007,426
+2514,Equatorial Guinea,GNQ,2008,408
+2515,Equatorial Guinea,GNQ,2009,391
+2516,Equatorial Guinea,GNQ,2010,379
+2517,Equatorial Guinea,GNQ,2011,364
+2518,Equatorial Guinea,GNQ,2012,361
+2519,Equatorial Guinea,GNQ,2013,356
+2520,Equatorial Guinea,GNQ,2014,351
+2521,Equatorial Guinea,GNQ,2015,342
+2522,Eritrea,ERI,1990,1590
+2523,Eritrea,ERI,1991,1520
+2524,Eritrea,ERI,1992,1430
+2525,Eritrea,ERI,1993,1320
+2526,Eritrea,ERI,1994,1210
+2527,Eritrea,ERI,1995,1100
+2528,Eritrea,ERI,1996,977
+2529,Eritrea,ERI,1997,900
+2530,Eritrea,ERI,1998,829
+2531,Eritrea,ERI,1999,770
+2532,Eritrea,ERI,2000,733
+2533,Eritrea,ERI,2001,700
+2534,Eritrea,ERI,2002,669
+2535,Eritrea,ERI,2003,647
+2536,Eritrea,ERI,2004,627
+2537,Eritrea,ERI,2005,619
+2538,Eritrea,ERI,2006,615
+2539,Eritrea,ERI,2007,619
+2540,Eritrea,ERI,2008,614
+2541,Eritrea,ERI,2009,599
+2542,Eritrea,ERI,2010,579
+2543,Eritrea,ERI,2011,561
+2544,Eritrea,ERI,2012,540
+2545,Eritrea,ERI,2013,533
+2546,Eritrea,ERI,2014,524
+2547,Eritrea,ERI,2015,501
+2548,Estonia,EST,1990,42
+2549,Estonia,EST,1991,42
+2550,Estonia,EST,1992,39
+2551,Estonia,EST,1993,45
+2552,Estonia,EST,1994,57
+2553,Estonia,EST,1995,43
+2554,Estonia,EST,1996,33
+2555,Estonia,EST,1997,29
+2556,Estonia,EST,1998,29
+2557,Estonia,EST,1999,26
+2558,Estonia,EST,2000,26
+2559,Estonia,EST,2001,24
+2560,Estonia,EST,2002,22
+2561,Estonia,EST,2003,19
+2562,Estonia,EST,2004,17
+2563,Estonia,EST,2005,15
+2564,Estonia,EST,2006,13
+2565,Estonia,EST,2007,13
+2566,Estonia,EST,2008,11
+2567,Estonia,EST,2009,11
+2568,Estonia,EST,2010,8
+2569,Estonia,EST,2011,10
+2570,Estonia,EST,2012,9
+2571,Estonia,EST,2013,9
+2572,Estonia,EST,2014,9
+2573,Estonia,EST,2015,9
+2574,Ethiopia,ETH,1990,1250
+2575,Ethiopia,ETH,1991,1230
+2576,Ethiopia,ETH,1992,1210
+2577,Ethiopia,ETH,1993,1180
+2578,Ethiopia,ETH,1994,1130
+2579,Ethiopia,ETH,1995,1080
+2580,Ethiopia,ETH,1996,1040
+2581,Ethiopia,ETH,1997,998
+2582,Ethiopia,ETH,1998,959
+2583,Ethiopia,ETH,1999,927
+2584,Ethiopia,ETH,2000,897
+2585,Ethiopia,ETH,2001,871
+2586,Ethiopia,ETH,2002,846
+2587,Ethiopia,ETH,2003,814
+2588,Ethiopia,ETH,2004,780
+2589,Ethiopia,ETH,2005,743
+2590,Ethiopia,ETH,2006,698
+2591,Ethiopia,ETH,2007,654
+2592,Ethiopia,ETH,2008,608
+2593,Ethiopia,ETH,2009,566
+2594,Ethiopia,ETH,2010,523
+2595,Ethiopia,ETH,2011,482
+2596,Ethiopia,ETH,2012,447
+2597,Ethiopia,ETH,2013,410
+2598,Ethiopia,ETH,2014,378
+2599,Ethiopia,ETH,2015,353
+2600,Fiji,FJI,1990,63
+2601,Fiji,FJI,1991,61
+2602,Fiji,FJI,1992,59
+2603,Fiji,FJI,1993,57
+2604,Fiji,FJI,1994,54
+2605,Fiji,FJI,1995,51
+2606,Fiji,FJI,1996,49
+2607,Fiji,FJI,1997,47
+2608,Fiji,FJI,1998,45
+2609,Fiji,FJI,1999,43
+2610,Fiji,FJI,2000,42
+2611,Fiji,FJI,2001,41
+2612,Fiji,FJI,2002,40
+2613,Fiji,FJI,2003,40
+2614,Fiji,FJI,2004,39
+2615,Fiji,FJI,2005,39
+2616,Fiji,FJI,2006,39
+2617,Fiji,FJI,2007,37
+2618,Fiji,FJI,2008,36
+2619,Fiji,FJI,2009,35
+2620,Fiji,FJI,2010,34
+2621,Fiji,FJI,2011,33
+2622,Fiji,FJI,2012,33
+2623,Fiji,FJI,2013,32
+2624,Fiji,FJI,2014,31
+2625,Fiji,FJI,2015,30
+2626,Finland,FIN,1990,6
+2627,Finland,FIN,1991,6
+2628,Finland,FIN,1992,6
+2629,Finland,FIN,1993,5
+2630,Finland,FIN,1994,5
+2631,Finland,FIN,1995,5
+2632,Finland,FIN,1996,5
+2633,Finland,FIN,1997,5
+2634,Finland,FIN,1998,5
+2635,Finland,FIN,1999,5
+2636,Finland,FIN,2000,5
+2637,Finland,FIN,2001,4
+2638,Finland,FIN,2002,4
+2639,Finland,FIN,2003,4
+2640,Finland,FIN,2004,4
+2641,Finland,FIN,2005,4
+2642,Finland,FIN,2006,4
+2643,Finland,FIN,2007,4
+2644,Finland,FIN,2008,3
+2645,Finland,FIN,2009,3
+2646,Finland,FIN,2010,3
+2647,Finland,FIN,2011,3
+2648,Finland,FIN,2012,3
+2649,Finland,FIN,2013,3
+2650,Finland,FIN,2014,3
+2651,Finland,FIN,2015,3
+2652,France,FRA,1990,15
+2653,France,FRA,1991,15
+2654,France,FRA,1992,15
+2655,France,FRA,1993,15
+2656,France,FRA,1994,14
+2657,France,FRA,1995,15
+2658,France,FRA,1996,14
+2659,France,FRA,1997,13
+2660,France,FRA,1998,13
+2661,France,FRA,1999,12
+2662,France,FRA,2000,12
+2663,France,FRA,2001,12
+2664,France,FRA,2002,11
+2665,France,FRA,2003,11
+2666,France,FRA,2004,10
+2667,France,FRA,2005,10
+2668,France,FRA,2006,10
+2669,France,FRA,2007,10
+2670,France,FRA,2008,10
+2671,France,FRA,2009,10
+2672,France,FRA,2010,9
+2673,France,FRA,2011,9
+2674,France,FRA,2012,9
+2675,France,FRA,2013,9
+2676,France,FRA,2014,9
+2677,France,FRA,2015,8
+2678,Gabon,GAB,1990,422
+2679,Gabon,GAB,1991,418
+2680,Gabon,GAB,1992,411
+2681,Gabon,GAB,1993,408
+2682,Gabon,GAB,1994,408
+2683,Gabon,GAB,1995,405
+2684,Gabon,GAB,1996,403
+2685,Gabon,GAB,1997,397
+2686,Gabon,GAB,1998,401
+2687,Gabon,GAB,1999,402
+2688,Gabon,GAB,2000,405
+2689,Gabon,GAB,2001,402
+2690,Gabon,GAB,2002,399
+2691,Gabon,GAB,2003,389
+2692,Gabon,GAB,2004,372
+2693,Gabon,GAB,2005,370
+2694,Gabon,GAB,2006,367
+2695,Gabon,GAB,2007,350
+2696,Gabon,GAB,2008,335
+2697,Gabon,GAB,2009,327
+2698,Gabon,GAB,2010,322
+2699,Gabon,GAB,2011,317
+2700,Gabon,GAB,2012,314
+2701,Gabon,GAB,2013,308
+2702,Gabon,GAB,2014,295
+2703,Gabon,GAB,2015,291
+2704,"Gambia, The",GMB,1990,1030
+2705,"Gambia, The",GMB,1991,1030
+2706,"Gambia, The",GMB,1992,1020
+2707,"Gambia, The",GMB,1993,1010
+2708,"Gambia, The",GMB,1994,994
+2709,"Gambia, The",GMB,1995,977
+2710,"Gambia, The",GMB,1996,961
+2711,"Gambia, The",GMB,1997,943
+2712,"Gambia, The",GMB,1998,931
+2713,"Gambia, The",GMB,1999,910
+2714,"Gambia, The",GMB,2000,887
+2715,"Gambia, The",GMB,2001,869
+2716,"Gambia, The",GMB,2002,854
+2717,"Gambia, The",GMB,2003,841
+2718,"Gambia, The",GMB,2004,822
+2719,"Gambia, The",GMB,2005,807
+2720,"Gambia, The",GMB,2006,798
+2721,"Gambia, The",GMB,2007,789
+2722,"Gambia, The",GMB,2008,774
+2723,"Gambia, The",GMB,2009,767
+2724,"Gambia, The",GMB,2010,753
+2725,"Gambia, The",GMB,2011,753
+2726,"Gambia, The",GMB,2012,741
+2727,"Gambia, The",GMB,2013,730
+2728,"Gambia, The",GMB,2014,719
+2729,"Gambia, The",GMB,2015,706
+2730,Georgia,GEO,1990,34
+2731,Georgia,GEO,1991,31
+2732,Georgia,GEO,1992,30
+2733,Georgia,GEO,1993,27
+2734,Georgia,GEO,1994,34
+2735,Georgia,GEO,1995,35
+2736,Georgia,GEO,1996,36
+2737,Georgia,GEO,1997,37
+2738,Georgia,GEO,1998,37
+2739,Georgia,GEO,1999,37
+2740,Georgia,GEO,2000,37
+2741,Georgia,GEO,2001,36
+2742,Georgia,GEO,2002,37
+2743,Georgia,GEO,2003,37
+2744,Georgia,GEO,2004,37
+2745,Georgia,GEO,2005,37
+2746,Georgia,GEO,2006,37
+2747,Georgia,GEO,2007,38
+2748,Georgia,GEO,2008,37
+2749,Georgia,GEO,2009,39
+2750,Georgia,GEO,2010,40
+2751,Georgia,GEO,2011,39
+2752,Georgia,GEO,2012,39
+2753,Georgia,GEO,2013,38
+2754,Georgia,GEO,2014,37
+2755,Georgia,GEO,2015,36
+2756,Germany,DEU,1990,11
+2757,Germany,DEU,1991,11
+2758,Germany,DEU,1992,10
+2759,Germany,DEU,1993,10
+2760,Germany,DEU,1994,9
+2761,Germany,DEU,1995,9
+2762,Germany,DEU,1996,9
+2763,Germany,DEU,1997,9
+2764,Germany,DEU,1998,8
+2765,Germany,DEU,1999,8
+2766,Germany,DEU,2000,8
+2767,Germany,DEU,2001,8
+2768,Germany,DEU,2002,8
+2769,Germany,DEU,2003,8
+2770,Germany,DEU,2004,7
+2771,Germany,DEU,2005,7
+2772,Germany,DEU,2006,7
+2773,Germany,DEU,2007,7
+2774,Germany,DEU,2008,7
+2775,Germany,DEU,2009,7
+2776,Germany,DEU,2010,7
+2777,Germany,DEU,2011,7
+2778,Germany,DEU,2012,7
+2779,Germany,DEU,2013,6
+2780,Germany,DEU,2014,6
+2781,Germany,DEU,2015,6
+2782,Ghana,GHA,1990,634
+2783,Ghana,GHA,1991,600
+2784,Ghana,GHA,1992,569
+2785,Ghana,GHA,1993,551
+2786,Ghana,GHA,1994,535
+2787,Ghana,GHA,1995,532
+2788,Ghana,GHA,1996,527
+2789,Ghana,GHA,1997,515
+2790,Ghana,GHA,1998,501
+2791,Ghana,GHA,1999,487
+2792,Ghana,GHA,2000,467
+2793,Ghana,GHA,2001,449
+2794,Ghana,GHA,2002,437
+2795,Ghana,GHA,2003,420
+2796,Ghana,GHA,2004,396
+2797,Ghana,GHA,2005,376
+2798,Ghana,GHA,2006,358
+2799,Ghana,GHA,2007,345
+2800,Ghana,GHA,2008,337
+2801,Ghana,GHA,2009,330
+2802,Ghana,GHA,2010,325
+2803,Ghana,GHA,2011,320
+2804,Ghana,GHA,2012,324
+2805,Ghana,GHA,2013,321
+2806,Ghana,GHA,2014,322
+2807,Ghana,GHA,2015,319
+2808,Greece,GRC,1990,5
+2809,Greece,GRC,1991,5
+2810,Greece,GRC,1992,5
+2811,Greece,GRC,1993,4
+2812,Greece,GRC,1994,4
+2813,Greece,GRC,1995,4
+2814,Greece,GRC,1996,4
+2815,Greece,GRC,1997,4
+2816,Greece,GRC,1998,4
+2817,Greece,GRC,1999,4
+2818,Greece,GRC,2000,4
+2819,Greece,GRC,2001,3
+2820,Greece,GRC,2002,3
+2821,Greece,GRC,2003,3
+2822,Greece,GRC,2004,3
+2823,Greece,GRC,2005,3
+2824,Greece,GRC,2006,3
+2825,Greece,GRC,2007,3
+2826,Greece,GRC,2008,3
+2827,Greece,GRC,2009,3
+2828,Greece,GRC,2010,3
+2829,Greece,GRC,2011,3
+2830,Greece,GRC,2012,3
+2831,Greece,GRC,2013,3
+2832,Greece,GRC,2014,3
+2833,Greece,GRC,2015,3
+2834,Grenada,GRD,1990,41
+2835,Grenada,GRD,1991,38
+2836,Grenada,GRD,1992,38
+2837,Grenada,GRD,1993,39
+2838,Grenada,GRD,1994,38
+2839,Grenada,GRD,1995,37
+2840,Grenada,GRD,1996,33
+2841,Grenada,GRD,1997,30
+2842,Grenada,GRD,1998,29
+2843,Grenada,GRD,1999,29
+2844,Grenada,GRD,2000,29
+2845,Grenada,GRD,2001,29
+2846,Grenada,GRD,2002,28
+2847,Grenada,GRD,2003,27
+2848,Grenada,GRD,2004,26
+2849,Grenada,GRD,2005,25
+2850,Grenada,GRD,2006,25
+2851,Grenada,GRD,2007,25
+2852,Grenada,GRD,2008,25
+2853,Grenada,GRD,2009,26
+2854,Grenada,GRD,2010,27
+2855,Grenada,GRD,2011,27
+2856,Grenada,GRD,2012,27
+2857,Grenada,GRD,2013,27
+2858,Grenada,GRD,2014,27
+2859,Grenada,GRD,2015,27
+2860,Guatemala,GTM,1990,205
+2861,Guatemala,GTM,1991,198
+2862,Guatemala,GTM,1992,191
+2863,Guatemala,GTM,1993,184
+2864,Guatemala,GTM,1994,178
+2865,Guatemala,GTM,1995,173
+2866,Guatemala,GTM,1996,170
+2867,Guatemala,GTM,1997,171
+2868,Guatemala,GTM,1998,175
+2869,Guatemala,GTM,1999,179
+2870,Guatemala,GTM,2000,178
+2871,Guatemala,GTM,2001,170
+2872,Guatemala,GTM,2002,157
+2873,Guatemala,GTM,2003,146
+2874,Guatemala,GTM,2004,139
+2875,Guatemala,GTM,2005,120
+2876,Guatemala,GTM,2006,120
+2877,Guatemala,GTM,2007,118
+2878,Guatemala,GTM,2008,117
+2879,Guatemala,GTM,2009,115
+2880,Guatemala,GTM,2010,109
+2881,Guatemala,GTM,2011,103
+2882,Guatemala,GTM,2012,105
+2883,Guatemala,GTM,2013,99
+2884,Guatemala,GTM,2014,93
+2885,Guatemala,GTM,2015,88
+2886,Guinea,GIN,1990,1040
+2887,Guinea,GIN,1991,1010
+2888,Guinea,GIN,1992,982
+2889,Guinea,GIN,1993,973
+2890,Guinea,GIN,1994,967
+2891,Guinea,GIN,1995,964
+2892,Guinea,GIN,1996,972
+2893,Guinea,GIN,1997,975
+2894,Guinea,GIN,1998,977
+2895,Guinea,GIN,1999,979
+2896,Guinea,GIN,2000,976
+2897,Guinea,GIN,2001,973
+2898,Guinea,GIN,2002,961
+2899,Guinea,GIN,2003,928
+2900,Guinea,GIN,2004,882
+2901,Guinea,GIN,2005,831
+2902,Guinea,GIN,2006,791
+2903,Guinea,GIN,2007,770
+2904,Guinea,GIN,2008,743
+2905,Guinea,GIN,2009,731
+2906,Guinea,GIN,2010,720
+2907,Guinea,GIN,2011,711
+2908,Guinea,GIN,2012,695
+2909,Guinea,GIN,2013,695
+2910,Guinea,GIN,2014,688
+2911,Guinea,GIN,2015,679
+2912,Guinea-Bissau,GNB,1990,907
+2913,Guinea-Bissau,GNB,1991,877
+2914,Guinea-Bissau,GNB,1992,848
+2915,Guinea-Bissau,GNB,1993,825
+2916,Guinea-Bissau,GNB,1994,799
+2917,Guinea-Bissau,GNB,1995,780
+2918,Guinea-Bissau,GNB,1996,777
+2919,Guinea-Bissau,GNB,1997,776
+2920,Guinea-Bissau,GNB,1998,782
+2921,Guinea-Bissau,GNB,1999,788
+2922,Guinea-Bissau,GNB,2000,800
+2923,Guinea-Bissau,GNB,2001,799
+2924,Guinea-Bissau,GNB,2002,793
+2925,Guinea-Bissau,GNB,2003,775
+2926,Guinea-Bissau,GNB,2004,745
+2927,Guinea-Bissau,GNB,2005,714
+2928,Guinea-Bissau,GNB,2006,679
+2929,Guinea-Bissau,GNB,2007,643
+2930,Guinea-Bissau,GNB,2008,614
+2931,Guinea-Bissau,GNB,2009,587
+2932,Guinea-Bissau,GNB,2010,570
+2933,Guinea-Bissau,GNB,2011,563
+2934,Guinea-Bissau,GNB,2012,553
+2935,Guinea-Bissau,GNB,2013,554
+2936,Guinea-Bissau,GNB,2014,553
+2937,Guinea-Bissau,GNB,2015,549
+2938,Guyana,GUY,1990,171
+2939,Guyana,GUY,1991,170
+2940,Guyana,GUY,1992,171
+2941,Guyana,GUY,1993,173
+2942,Guyana,GUY,1994,190
+2943,Guyana,GUY,1995,205
+2944,Guyana,GUY,1996,216
+2945,Guyana,GUY,1997,219
+2946,Guyana,GUY,1998,214
+2947,Guyana,GUY,1999,213
+2948,Guyana,GUY,2000,210
+2949,Guyana,GUY,2001,211
+2950,Guyana,GUY,2002,208
+2951,Guyana,GUY,2003,208
+2952,Guyana,GUY,2004,220
+2953,Guyana,GUY,2005,232
+2954,Guyana,GUY,2006,226
+2955,Guyana,GUY,2007,217
+2956,Guyana,GUY,2008,200
+2957,Guyana,GUY,2009,176
+2958,Guyana,GUY,2010,241
+2959,Guyana,GUY,2011,239
+2960,Guyana,GUY,2012,239
+2961,Guyana,GUY,2013,236
+2962,Guyana,GUY,2014,233
+2963,Guyana,GUY,2015,229
+2964,Haiti,HTI,1990,625
+2965,Haiti,HTI,1991,594
+2966,Haiti,HTI,1992,572
+2967,Haiti,HTI,1993,559
+2968,Haiti,HTI,1994,551
+2969,Haiti,HTI,1995,544
+2970,Haiti,HTI,1996,540
+2971,Haiti,HTI,1997,529
+2972,Haiti,HTI,1998,518
+2973,Haiti,HTI,1999,516
+2974,Haiti,HTI,2000,505
+2975,Haiti,HTI,2001,492
+2976,Haiti,HTI,2002,482
+2977,Haiti,HTI,2003,479
+2978,Haiti,HTI,2004,472
+2979,Haiti,HTI,2005,459
+2980,Haiti,HTI,2006,452
+2981,Haiti,HTI,2007,442
+2982,Haiti,HTI,2008,424
+2983,Haiti,HTI,2009,408
+2984,Haiti,HTI,2010,389
+2985,Haiti,HTI,2011,369
+2986,Haiti,HTI,2012,372
+2987,Haiti,HTI,2013,370
+2988,Haiti,HTI,2014,367
+2989,Haiti,HTI,2015,359
+2990,Honduras,HND,1990,272
+2991,Honduras,HND,1991,251
+2992,Honduras,HND,1992,229
+2993,Honduras,HND,1993,207
+2994,Honduras,HND,1994,186
+2995,Honduras,HND,1995,166
+2996,Honduras,HND,1996,151
+2997,Honduras,HND,1997,141
+2998,Honduras,HND,1998,134
+2999,Honduras,HND,1999,132
+3000,Honduras,HND,2000,133
+3001,Honduras,HND,2001,134
+3002,Honduras,HND,2002,136
+3003,Honduras,HND,2003,141
+3004,Honduras,HND,2004,148
+3005,Honduras,HND,2005,150
+3006,Honduras,HND,2006,153
+3007,Honduras,HND,2007,154
+3008,Honduras,HND,2008,157
+3009,Honduras,HND,2009,157
+3010,Honduras,HND,2010,155
+3011,Honduras,HND,2011,149
+3012,Honduras,HND,2012,141
+3013,Honduras,HND,2013,135
+3014,Honduras,HND,2014,132
+3015,Honduras,HND,2015,129
+3016,Hungary,HUN,1990,24
+3017,Hungary,HUN,1991,23
+3018,Hungary,HUN,1992,23
+3019,Hungary,HUN,1993,24
+3020,Hungary,HUN,1994,21
+3021,Hungary,HUN,1995,20
+3022,Hungary,HUN,1996,18
+3023,Hungary,HUN,1997,17
+3024,Hungary,HUN,1998,16
+3025,Hungary,HUN,1999,16
+3026,Hungary,HUN,2000,15
+3027,Hungary,HUN,2001,14
+3028,Hungary,HUN,2002,14
+3029,Hungary,HUN,2003,14
+3030,Hungary,HUN,2004,13
+3031,Hungary,HUN,2005,14
+3032,Hungary,HUN,2006,14
+3033,Hungary,HUN,2007,16
+3034,Hungary,HUN,2008,15
+3035,Hungary,HUN,2009,16
+3036,Hungary,HUN,2010,15
+3037,Hungary,HUN,2011,16
+3038,Hungary,HUN,2012,16
+3039,Hungary,HUN,2013,16
+3040,Hungary,HUN,2014,16
+3041,Hungary,HUN,2015,17
+3042,Iceland,ISL,1990,7
+3043,Iceland,ISL,1991,6
+3044,Iceland,ISL,1992,6
+3045,Iceland,ISL,1993,6
+3046,Iceland,ISL,1994,6
+3047,Iceland,ISL,1995,6
+3048,Iceland,ISL,1996,6
+3049,Iceland,ISL,1997,5
+3050,Iceland,ISL,1998,5
+3051,Iceland,ISL,1999,5
+3052,Iceland,ISL,2000,5
+3053,Iceland,ISL,2001,5
+3054,Iceland,ISL,2002,5
+3055,Iceland,ISL,2003,5
+3056,Iceland,ISL,2004,4
+3057,Iceland,ISL,2005,4
+3058,Iceland,ISL,2006,4
+3059,Iceland,ISL,2007,4
+3060,Iceland,ISL,2008,4
+3061,Iceland,ISL,2009,4
+3062,Iceland,ISL,2010,4
+3063,Iceland,ISL,2011,3
+3064,Iceland,ISL,2012,3
+3065,Iceland,ISL,2013,4
+3066,Iceland,ISL,2014,4
+3067,Iceland,ISL,2015,3
+3068,India,IND,1990,556
+3069,India,IND,1991,538
+3070,India,IND,1992,521
+3071,India,IND,1993,504
+3072,India,IND,1994,488
+3073,India,IND,1995,471
+3074,India,IND,1996,453
+3075,India,IND,1997,434
+3076,India,IND,1998,414
+3077,India,IND,1999,395
+3078,India,IND,2000,374
+3079,India,IND,2001,354
+3080,India,IND,2002,335
+3081,India,IND,2003,316
+3082,India,IND,2004,298
+3083,India,IND,2005,280
+3084,India,IND,2006,265
+3085,India,IND,2007,250
+3086,India,IND,2008,237
+3087,India,IND,2009,225
+3088,India,IND,2010,215
+3089,India,IND,2011,206
+3090,India,IND,2012,197
+3091,India,IND,2013,189
+3092,India,IND,2014,181
+3093,India,IND,2015,174
+3094,Indonesia,IDN,1990,446
+3095,Indonesia,IDN,1991,417
+3096,Indonesia,IDN,1992,391
+3097,Indonesia,IDN,1993,368
+3098,Indonesia,IDN,1994,347
+3099,Indonesia,IDN,1995,326
+3100,Indonesia,IDN,1996,312
+3101,Indonesia,IDN,1997,299
+3102,Indonesia,IDN,1998,287
+3103,Indonesia,IDN,1999,276
+3104,Indonesia,IDN,2000,265
+3105,Indonesia,IDN,2001,253
+3106,Indonesia,IDN,2002,241
+3107,Indonesia,IDN,2003,231
+3108,Indonesia,IDN,2004,221
+3109,Indonesia,IDN,2005,212
+3110,Indonesia,IDN,2006,200
+3111,Indonesia,IDN,2007,190
+3112,Indonesia,IDN,2008,181
+3113,Indonesia,IDN,2009,173
+3114,Indonesia,IDN,2010,165
+3115,Indonesia,IDN,2011,156
+3116,Indonesia,IDN,2012,148
+3117,Indonesia,IDN,2013,140
+3118,Indonesia,IDN,2014,133
+3119,Indonesia,IDN,2015,126
+3120,"Iran, Islamic Rep.",IRN,1990,123
+3121,"Iran, Islamic Rep.",IRN,1991,113
+3122,"Iran, Islamic Rep.",IRN,1992,103
+3123,"Iran, Islamic Rep.",IRN,1993,94
+3124,"Iran, Islamic Rep.",IRN,1994,87
+3125,"Iran, Islamic Rep.",IRN,1995,80
+3126,"Iran, Islamic Rep.",IRN,1996,73
+3127,"Iran, Islamic Rep.",IRN,1997,66
+3128,"Iran, Islamic Rep.",IRN,1998,60
+3129,"Iran, Islamic Rep.",IRN,1999,55
+3130,"Iran, Islamic Rep.",IRN,2000,51
+3131,"Iran, Islamic Rep.",IRN,2001,46
+3132,"Iran, Islamic Rep.",IRN,2002,43
+3133,"Iran, Islamic Rep.",IRN,2003,39
+3134,"Iran, Islamic Rep.",IRN,2004,36
+3135,"Iran, Islamic Rep.",IRN,2005,34
+3136,"Iran, Islamic Rep.",IRN,2006,32
+3137,"Iran, Islamic Rep.",IRN,2007,30
+3138,"Iran, Islamic Rep.",IRN,2008,29
+3139,"Iran, Islamic Rep.",IRN,2009,28
+3140,"Iran, Islamic Rep.",IRN,2010,27
+3141,"Iran, Islamic Rep.",IRN,2011,27
+3142,"Iran, Islamic Rep.",IRN,2012,26
+3143,"Iran, Islamic Rep.",IRN,2013,26
+3144,"Iran, Islamic Rep.",IRN,2014,26
+3145,"Iran, Islamic Rep.",IRN,2015,25
+3146,Iraq,IRQ,1990,107
+3147,Iraq,IRQ,1991,101
+3148,Iraq,IRQ,1992,98
+3149,Iraq,IRQ,1993,98
+3150,Iraq,IRQ,1994,92
+3151,Iraq,IRQ,1995,87
+3152,Iraq,IRQ,1996,81
+3153,Iraq,IRQ,1997,75
+3154,Iraq,IRQ,1998,70
+3155,Iraq,IRQ,1999,66
+3156,Iraq,IRQ,2000,63
+3157,Iraq,IRQ,2001,61
+3158,Iraq,IRQ,2002,59
+3159,Iraq,IRQ,2003,57
+3160,Iraq,IRQ,2004,55
+3161,Iraq,IRQ,2005,54
+3162,Iraq,IRQ,2006,52
+3163,Iraq,IRQ,2007,52
+3164,Iraq,IRQ,2008,52
+3165,Iraq,IRQ,2009,52
+3166,Iraq,IRQ,2010,51
+3167,Iraq,IRQ,2011,51
+3168,Iraq,IRQ,2012,51
+3169,Iraq,IRQ,2013,50
+3170,Iraq,IRQ,2014,50
+3171,Iraq,IRQ,2015,50
+3172,Ireland,IRL,1990,11
+3173,Ireland,IRL,1991,10
+3174,Ireland,IRL,1992,10
+3175,Ireland,IRL,1993,9
+3176,Ireland,IRL,1994,9
+3177,Ireland,IRL,1995,10
+3178,Ireland,IRL,1996,9
+3179,Ireland,IRL,1997,9
+3180,Ireland,IRL,1998,9
+3181,Ireland,IRL,1999,9
+3182,Ireland,IRL,2000,9
+3183,Ireland,IRL,2001,9
+3184,Ireland,IRL,2002,8
+3185,Ireland,IRL,2003,7
+3186,Ireland,IRL,2004,7
+3187,Ireland,IRL,2005,8
+3188,Ireland,IRL,2006,7
+3189,Ireland,IRL,2007,7
+3190,Ireland,IRL,2008,8
+3191,Ireland,IRL,2009,9
+3192,Ireland,IRL,2010,7
+3193,Ireland,IRL,2011,8
+3194,Ireland,IRL,2012,8
+3195,Ireland,IRL,2013,8
+3196,Ireland,IRL,2014,8
+3197,Ireland,IRL,2015,8
+3198,Israel,ISR,1990,11
+3199,Israel,ISR,1991,11
+3200,Israel,ISR,1992,10
+3201,Israel,ISR,1993,10
+3202,Israel,ISR,1994,9
+3203,Israel,ISR,1995,10
+3204,Israel,ISR,1996,9
+3205,Israel,ISR,1997,9
+3206,Israel,ISR,1998,9
+3207,Israel,ISR,1999,9
+3208,Israel,ISR,2000,8
+3209,Israel,ISR,2001,8
+3210,Israel,ISR,2002,8
+3211,Israel,ISR,2003,8
+3212,Israel,ISR,2004,7
+3213,Israel,ISR,2005,7
+3214,Israel,ISR,2006,7
+3215,Israel,ISR,2007,6
+3216,Israel,ISR,2008,6
+3217,Israel,ISR,2009,6
+3218,Israel,ISR,2010,6
+3219,Israel,ISR,2011,6
+3220,Israel,ISR,2012,5
+3221,Israel,ISR,2013,5
+3222,Israel,ISR,2014,5
+3223,Israel,ISR,2015,5
+3224,Italy,ITA,1990,8
+3225,Italy,ITA,1991,8
+3226,Italy,ITA,1992,7
+3227,Italy,ITA,1993,7
+3228,Italy,ITA,1994,7
+3229,Italy,ITA,1995,7
+3230,Italy,ITA,1996,6
+3231,Italy,ITA,1997,6
+3232,Italy,ITA,1998,5
+3233,Italy,ITA,1999,5
+3234,Italy,ITA,2000,5
+3235,Italy,ITA,2001,5
+3236,Italy,ITA,2002,5
+3237,Italy,ITA,2003,5
+3238,Italy,ITA,2004,4
+3239,Italy,ITA,2005,4
+3240,Italy,ITA,2006,4
+3241,Italy,ITA,2007,4
+3242,Italy,ITA,2008,4
+3243,Italy,ITA,2009,4
+3244,Italy,ITA,2010,4
+3245,Italy,ITA,2011,4
+3246,Italy,ITA,2012,4
+3247,Italy,ITA,2013,4
+3248,Italy,ITA,2014,4
+3249,Italy,ITA,2015,4
+3250,Jamaica,JAM,1990,79
+3251,Jamaica,JAM,1991,78
+3252,Jamaica,JAM,1992,78
+3253,Jamaica,JAM,1993,79
+3254,Jamaica,JAM,1994,80
+3255,Jamaica,JAM,1995,81
+3256,Jamaica,JAM,1996,83
+3257,Jamaica,JAM,1997,85
+3258,Jamaica,JAM,1998,87
+3259,Jamaica,JAM,1999,88
+3260,Jamaica,JAM,2000,89
+3261,Jamaica,JAM,2001,90
+3262,Jamaica,JAM,2002,90
+3263,Jamaica,JAM,2003,90
+3264,Jamaica,JAM,2004,90
+3265,Jamaica,JAM,2005,92
+3266,Jamaica,JAM,2006,91
+3267,Jamaica,JAM,2007,93
+3268,Jamaica,JAM,2008,93
+3269,Jamaica,JAM,2009,93
+3270,Jamaica,JAM,2010,93
+3271,Jamaica,JAM,2011,93
+3272,Jamaica,JAM,2012,92
+3273,Jamaica,JAM,2013,91
+3274,Jamaica,JAM,2014,90
+3275,Jamaica,JAM,2015,89
+3276,Japan,JPN,1990,14
+3277,Japan,JPN,1991,13
+3278,Japan,JPN,1992,12
+3279,Japan,JPN,1993,12
+3280,Japan,JPN,1994,11
+3281,Japan,JPN,1995,11
+3282,Japan,JPN,1996,11
+3283,Japan,JPN,1997,10
+3284,Japan,JPN,1998,10
+3285,Japan,JPN,1999,10
+3286,Japan,JPN,2000,10
+3287,Japan,JPN,2001,9
+3288,Japan,JPN,2002,8
+3289,Japan,JPN,2003,8
+3290,Japan,JPN,2004,8
+3291,Japan,JPN,2005,7
+3292,Japan,JPN,2006,7
+3293,Japan,JPN,2007,6
+3294,Japan,JPN,2008,6
+3295,Japan,JPN,2009,6
+3296,Japan,JPN,2010,6
+3297,Japan,JPN,2011,6
+3298,Japan,JPN,2012,6
+3299,Japan,JPN,2013,6
+3300,Japan,JPN,2014,6
+3301,Japan,JPN,2015,5
+3302,Jordan,JOR,1990,110
+3303,Jordan,JOR,1991,105
+3304,Jordan,JOR,1992,102
+3305,Jordan,JOR,1993,99
+3306,Jordan,JOR,1994,96
+3307,Jordan,JOR,1995,93
+3308,Jordan,JOR,1996,91
+3309,Jordan,JOR,1997,88
+3310,Jordan,JOR,1998,84
+3311,Jordan,JOR,1999,80
+3312,Jordan,JOR,2000,77
+3313,Jordan,JOR,2001,73
+3314,Jordan,JOR,2002,70
+3315,Jordan,JOR,2003,68
+3316,Jordan,JOR,2004,65
+3317,Jordan,JOR,2005,62
+3318,Jordan,JOR,2006,60
+3319,Jordan,JOR,2007,59
+3320,Jordan,JOR,2008,58
+3321,Jordan,JOR,2009,58
+3322,Jordan,JOR,2010,59
+3323,Jordan,JOR,2011,59
+3324,Jordan,JOR,2012,59
+3325,Jordan,JOR,2013,59
+3326,Jordan,JOR,2014,59
+3327,Jordan,JOR,2015,58
+3328,Kazakhstan,KAZ,1990,78
+3329,Kazakhstan,KAZ,1991,77
+3330,Kazakhstan,KAZ,1992,80
+3331,Kazakhstan,KAZ,1993,87
+3332,Kazakhstan,KAZ,1994,86
+3333,Kazakhstan,KAZ,1995,92
+3334,Kazakhstan,KAZ,1996,91
+3335,Kazakhstan,KAZ,1997,87
+3336,Kazakhstan,KAZ,1998,81
+3337,Kazakhstan,KAZ,1999,72
+3338,Kazakhstan,KAZ,2000,65
+3339,Kazakhstan,KAZ,2001,60
+3340,Kazakhstan,KAZ,2002,54
+3341,Kazakhstan,KAZ,2003,50
+3342,Kazakhstan,KAZ,2004,46
+3343,Kazakhstan,KAZ,2005,44
+3344,Kazakhstan,KAZ,2006,41
+3345,Kazakhstan,KAZ,2007,37
+3346,Kazakhstan,KAZ,2008,30
+3347,Kazakhstan,KAZ,2009,24
+3348,Kazakhstan,KAZ,2010,20
+3349,Kazakhstan,KAZ,2011,17
+3350,Kazakhstan,KAZ,2012,15
+3351,Kazakhstan,KAZ,2013,13
+3352,Kazakhstan,KAZ,2014,12
+3353,Kazakhstan,KAZ,2015,12
+3354,Kenya,KEN,1990,687
+3355,Kenya,KEN,1991,678
+3356,Kenya,KEN,1992,671
+3357,Kenya,KEN,1993,669
+3358,Kenya,KEN,1994,684
+3359,Kenya,KEN,1995,698
+3360,Kenya,KEN,1996,717
+3361,Kenya,KEN,1997,729
+3362,Kenya,KEN,1998,741
+3363,Kenya,KEN,1999,755
+3364,Kenya,KEN,2000,759
+3365,Kenya,KEN,2001,765
+3366,Kenya,KEN,2002,767
+3367,Kenya,KEN,2003,768
+3368,Kenya,KEN,2004,751
+3369,Kenya,KEN,2005,728
+3370,Kenya,KEN,2006,702
+3371,Kenya,KEN,2007,680
+3372,Kenya,KEN,2008,660
+3373,Kenya,KEN,2009,633
+3374,Kenya,KEN,2010,605
+3375,Kenya,KEN,2011,584
+3376,Kenya,KEN,2012,562
+3377,Kenya,KEN,2013,540
+3378,Kenya,KEN,2014,525
+3379,Kenya,KEN,2015,510
+3380,Kiribati,KIR,1990,234
+3381,Kiribati,KIR,1991,232
+3382,Kiribati,KIR,1992,228
+3383,Kiribati,KIR,1993,222
+3384,Kiribati,KIR,1994,215
+3385,Kiribati,KIR,1995,207
+3386,Kiribati,KIR,1996,198
+3387,Kiribati,KIR,1997,190
+3388,Kiribati,KIR,1998,182
+3389,Kiribati,KIR,1999,174
+3390,Kiribati,KIR,2000,166
+3391,Kiribati,KIR,2001,160
+3392,Kiribati,KIR,2002,153
+3393,Kiribati,KIR,2003,146
+3394,Kiribati,KIR,2004,140
+3395,Kiribati,KIR,2005,135
+3396,Kiribati,KIR,2006,128
+3397,Kiribati,KIR,2007,123
+3398,Kiribati,KIR,2008,119
+3399,Kiribati,KIR,2009,114
+3400,Kiribati,KIR,2010,109
+3401,Kiribati,KIR,2011,105
+3402,Kiribati,KIR,2012,101
+3403,Kiribati,KIR,2013,96
+3404,Kiribati,KIR,2014,93
+3405,Kiribati,KIR,2015,90
+3406,"Korea, Dem. People’s Rep.",PRK,1990,75
+3407,"Korea, Dem. People’s Rep.",PRK,1991,63
+3408,"Korea, Dem. People’s Rep.",PRK,1992,56
+3409,"Korea, Dem. People’s Rep.",PRK,1993,56
+3410,"Korea, Dem. People’s Rep.",PRK,1994,65
+3411,"Korea, Dem. People’s Rep.",PRK,1995,81
+3412,"Korea, Dem. People’s Rep.",PRK,1996,99
+3413,"Korea, Dem. People’s Rep.",PRK,1997,116
+3414,"Korea, Dem. People’s Rep.",PRK,1998,127
+3415,"Korea, Dem. People’s Rep.",PRK,1999,131
+3416,"Korea, Dem. People’s Rep.",PRK,2000,128
+3417,"Korea, Dem. People’s Rep.",PRK,2001,121
+3418,"Korea, Dem. People’s Rep.",PRK,2002,114
+3419,"Korea, Dem. People’s Rep.",PRK,2003,109
+3420,"Korea, Dem. People’s Rep.",PRK,2004,106
+3421,"Korea, Dem. People’s Rep.",PRK,2005,105
+3422,"Korea, Dem. People’s Rep.",PRK,2006,104
+3423,"Korea, Dem. People’s Rep.",PRK,2007,104
+3424,"Korea, Dem. People’s Rep.",PRK,2008,103
+3425,"Korea, Dem. People’s Rep.",PRK,2009,100
+3426,"Korea, Dem. People’s Rep.",PRK,2010,97
+3427,"Korea, Dem. People’s Rep.",PRK,2011,95
+3428,"Korea, Dem. People’s Rep.",PRK,2012,91
+3429,"Korea, Dem. People’s Rep.",PRK,2013,87
+3430,"Korea, Dem. People’s Rep.",PRK,2014,85
+3431,"Korea, Dem. People’s Rep.",PRK,2015,82
+3432,"Korea, Rep.",KOR,1990,21
+3433,"Korea, Rep.",KOR,1991,21
+3434,"Korea, Rep.",KOR,1992,20
+3435,"Korea, Rep.",KOR,1993,19
+3436,"Korea, Rep.",KOR,1994,19
+3437,"Korea, Rep.",KOR,1995,19
+3438,"Korea, Rep.",KOR,1996,19
+3439,"Korea, Rep.",KOR,1997,18
+3440,"Korea, Rep.",KOR,1998,17
+3441,"Korea, Rep.",KOR,1999,16
+3442,"Korea, Rep.",KOR,2000,16
+3443,"Korea, Rep.",KOR,2001,14
+3444,"Korea, Rep.",KOR,2002,14
+3445,"Korea, Rep.",KOR,2003,15
+3446,"Korea, Rep.",KOR,2004,14
+3447,"Korea, Rep.",KOR,2005,14
+3448,"Korea, Rep.",KOR,2006,13
+3449,"Korea, Rep.",KOR,2007,14
+3450,"Korea, Rep.",KOR,2008,14
+3451,"Korea, Rep.",KOR,2009,15
+3452,"Korea, Rep.",KOR,2010,15
+3453,"Korea, Rep.",KOR,2011,14
+3454,"Korea, Rep.",KOR,2012,13
+3455,"Korea, Rep.",KOR,2013,12
+3456,"Korea, Rep.",KOR,2014,12
+3457,"Korea, Rep.",KOR,2015,11
+3458,Kuwait,KWT,1990,7
+3459,Kuwait,KWT,1991,5
+3460,Kuwait,KWT,1992,6
+3461,Kuwait,KWT,1993,7
+3462,Kuwait,KWT,1994,8
+3463,Kuwait,KWT,1995,9
+3464,Kuwait,KWT,1996,9
+3465,Kuwait,KWT,1997,8
+3466,Kuwait,KWT,1998,8
+3467,Kuwait,KWT,1999,7
+3468,Kuwait,KWT,2000,7
+3469,Kuwait,KWT,2001,7
+3470,Kuwait,KWT,2002,6
+3471,Kuwait,KWT,2003,6
+3472,Kuwait,KWT,2004,6
+3473,Kuwait,KWT,2005,6
+3474,Kuwait,KWT,2006,6
+3475,Kuwait,KWT,2007,6
+3476,Kuwait,KWT,2008,6
+3477,Kuwait,KWT,2009,5
+3478,Kuwait,KWT,2010,5
+3479,Kuwait,KWT,2011,4
+3480,Kuwait,KWT,2012,4
+3481,Kuwait,KWT,2013,4
+3482,Kuwait,KWT,2014,4
+3483,Kuwait,KWT,2015,4
+3484,Kyrgyz Republic,KGZ,1990,80
+3485,Kyrgyz Republic,KGZ,1991,82
+3486,Kyrgyz Republic,KGZ,1992,79
+3487,Kyrgyz Republic,KGZ,1993,82
+3488,Kyrgyz Republic,KGZ,1994,89
+3489,Kyrgyz Republic,KGZ,1995,92
+3490,Kyrgyz Republic,KGZ,1996,85
+3491,Kyrgyz Republic,KGZ,1997,78
+3492,Kyrgyz Republic,KGZ,1998,77
+3493,Kyrgyz Republic,KGZ,1999,72
+3494,Kyrgyz Republic,KGZ,2000,74
+3495,Kyrgyz Republic,KGZ,2001,72
+3496,Kyrgyz Republic,KGZ,2002,81
+3497,Kyrgyz Republic,KGZ,2003,82
+3498,Kyrgyz Republic,KGZ,2004,81
+3499,Kyrgyz Republic,KGZ,2005,85
+3500,Kyrgyz Republic,KGZ,2006,90
+3501,Kyrgyz Republic,KGZ,2007,89
+3502,Kyrgyz Republic,KGZ,2008,89
+3503,Kyrgyz Republic,KGZ,2009,89
+3504,Kyrgyz Republic,KGZ,2010,84
+3505,Kyrgyz Republic,KGZ,2011,87
+3506,Kyrgyz Republic,KGZ,2012,81
+3507,Kyrgyz Republic,KGZ,2013,79
+3508,Kyrgyz Republic,KGZ,2014,77
+3509,Kyrgyz Republic,KGZ,2015,76
+3510,Lao PDR,LAO,1990,905
+3511,Lao PDR,LAO,1991,863
+3512,Lao PDR,LAO,1992,819
+3513,Lao PDR,LAO,1993,774
+3514,Lao PDR,LAO,1994,734
+3515,Lao PDR,LAO,1995,695
+3516,Lao PDR,LAO,1996,664
+3517,Lao PDR,LAO,1997,632
+3518,Lao PDR,LAO,1998,602
+3519,Lao PDR,LAO,1999,573
+3520,Lao PDR,LAO,2000,546
+3521,Lao PDR,LAO,2001,519
+3522,Lao PDR,LAO,2002,493
+3523,Lao PDR,LAO,2003,468
+3524,Lao PDR,LAO,2004,444
+3525,Lao PDR,LAO,2005,418
+3526,Lao PDR,LAO,2006,392
+3527,Lao PDR,LAO,2007,366
+3528,Lao PDR,LAO,2008,341
+3529,Lao PDR,LAO,2009,316
+3530,Lao PDR,LAO,2010,294
+3531,Lao PDR,LAO,2011,271
+3532,Lao PDR,LAO,2012,250
+3533,Lao PDR,LAO,2013,230
+3534,Lao PDR,LAO,2014,213
+3535,Lao PDR,LAO,2015,197
+3536,Latvia,LVA,1990,48
+3537,Latvia,LVA,1991,47
+3538,Latvia,LVA,1992,48
+3539,Latvia,LVA,1993,58
+3540,Latvia,LVA,1994,61
+3541,Latvia,LVA,1995,54
+3542,Latvia,LVA,1996,43
+3543,Latvia,LVA,1997,39
+3544,Latvia,LVA,1998,37
+3545,Latvia,LVA,1999,35
+3546,Latvia,LVA,2000,30
+3547,Latvia,LVA,2001,29
+3548,Latvia,LVA,2002,26
+3549,Latvia,LVA,2003,26
+3550,Latvia,LVA,2004,23
+3551,Latvia,LVA,2005,22
+3552,Latvia,LVA,2006,23
+3553,Latvia,LVA,2007,23
+3554,Latvia,LVA,2008,20
+3555,Latvia,LVA,2009,20
+3556,Latvia,LVA,2010,19
+3557,Latvia,LVA,2011,21
+3558,Latvia,LVA,2012,18
+3559,Latvia,LVA,2013,18
+3560,Latvia,LVA,2014,18
+3561,Latvia,LVA,2015,18
+3562,Lebanon,LBN,1990,74
+3563,Lebanon,LBN,1991,71
+3564,Lebanon,LBN,1992,65
+3565,Lebanon,LBN,1993,61
+3566,Lebanon,LBN,1994,57
+3567,Lebanon,LBN,1995,54
+3568,Lebanon,LBN,1996,51
+3569,Lebanon,LBN,1997,49
+3570,Lebanon,LBN,1998,47
+3571,Lebanon,LBN,1999,45
+3572,Lebanon,LBN,2000,42
+3573,Lebanon,LBN,2001,39
+3574,Lebanon,LBN,2002,36
+3575,Lebanon,LBN,2003,33
+3576,Lebanon,LBN,2004,30
+3577,Lebanon,LBN,2005,27
+3578,Lebanon,LBN,2006,24
+3579,Lebanon,LBN,2007,23
+3580,Lebanon,LBN,2008,21
+3581,Lebanon,LBN,2009,20
+3582,Lebanon,LBN,2010,19
+3583,Lebanon,LBN,2011,18
+3584,Lebanon,LBN,2012,17
+3585,Lebanon,LBN,2013,16
+3586,Lebanon,LBN,2014,16
+3587,Lebanon,LBN,2015,15
+3588,Lesotho,LSO,1990,629
+3589,Lesotho,LSO,1991,586
+3590,Lesotho,LSO,1992,552
+3591,Lesotho,LSO,1993,527
+3592,Lesotho,LSO,1994,522
+3593,Lesotho,LSO,1995,525
+3594,Lesotho,LSO,1996,538
+3595,Lesotho,LSO,1997,560
+3596,Lesotho,LSO,1998,586
+3597,Lesotho,LSO,1999,615
+3598,Lesotho,LSO,2000,649
+3599,Lesotho,LSO,2001,679
+3600,Lesotho,LSO,2002,704
+3601,Lesotho,LSO,2003,722
+3602,Lesotho,LSO,2004,737
+3603,Lesotho,LSO,2005,746
+3604,Lesotho,LSO,2006,725
+3605,Lesotho,LSO,2007,707
+3606,Lesotho,LSO,2008,668
+3607,Lesotho,LSO,2009,635
+3608,Lesotho,LSO,2010,587
+3609,Lesotho,LSO,2011,555
+3610,Lesotho,LSO,2012,549
+3611,Lesotho,LSO,2013,532
+3612,Lesotho,LSO,2014,513
+3613,Lesotho,LSO,2015,487
+3614,Liberia,LBR,1990,1500
+3615,Liberia,LBR,1991,1640
+3616,Liberia,LBR,1992,1790
+3617,Liberia,LBR,1993,1850
+3618,Liberia,LBR,1994,1890
+3619,Liberia,LBR,1995,1800
+3620,Liberia,LBR,1996,1630
+3621,Liberia,LBR,1997,1480
+3622,Liberia,LBR,1998,1370
+3623,Liberia,LBR,1999,1300
+3624,Liberia,LBR,2000,1270
+3625,Liberia,LBR,2001,1260
+3626,Liberia,LBR,2002,1250
+3627,Liberia,LBR,2003,1200
+3628,Liberia,LBR,2004,1110
+3629,Liberia,LBR,2005,1020
+3630,Liberia,LBR,2006,935
+3631,Liberia,LBR,2007,890
+3632,Liberia,LBR,2008,851
+3633,Liberia,LBR,2009,829
+3634,Liberia,LBR,2010,811
+3635,Liberia,LBR,2011,798
+3636,Liberia,LBR,2012,787
+3637,Liberia,LBR,2013,762
+3638,Liberia,LBR,2014,741
+3639,Liberia,LBR,2015,725
+3640,Libya,LBY,1990,39
+3641,Libya,LBY,1991,35
+3642,Libya,LBY,1992,32
+3643,Libya,LBY,1993,29
+3644,Libya,LBY,1994,27
+3645,Libya,LBY,1995,25
+3646,Libya,LBY,1996,23
+3647,Libya,LBY,1997,21
+3648,Libya,LBY,1998,20
+3649,Libya,LBY,1999,18
+3650,Libya,LBY,2000,17
+3651,Libya,LBY,2001,16
+3652,Libya,LBY,2002,14
+3653,Libya,LBY,2003,13
+3654,Libya,LBY,2004,12
+3655,Libya,LBY,2005,11
+3656,Libya,LBY,2006,10
+3657,Libya,LBY,2007,9
+3658,Libya,LBY,2008,9
+3659,Libya,LBY,2009,9
+3660,Libya,LBY,2010,9
+3661,Libya,LBY,2011,9
+3662,Libya,LBY,2012,9
+3663,Libya,LBY,2013,9
+3664,Libya,LBY,2014,9
+3665,Libya,LBY,2015,9
+3666,Lithuania,LTU,1990,29
+3667,Lithuania,LTU,1991,29
+3668,Lithuania,LTU,1992,28
+3669,Lithuania,LTU,1993,29
+3670,Lithuania,LTU,1994,31
+3671,Lithuania,LTU,1995,28
+3672,Lithuania,LTU,1996,26
+3673,Lithuania,LTU,1997,21
+3674,Lithuania,LTU,1998,20
+3675,Lithuania,LTU,1999,18
+3676,Lithuania,LTU,2000,16
+3677,Lithuania,LTU,2001,16
+3678,Lithuania,LTU,2002,14
+3679,Lithuania,LTU,2003,14
+3680,Lithuania,LTU,2004,12
+3681,Lithuania,LTU,2005,12
+3682,Lithuania,LTU,2006,13
+3683,Lithuania,LTU,2007,12
+3684,Lithuania,LTU,2008,11
+3685,Lithuania,LTU,2009,10
+3686,Lithuania,LTU,2010,9
+3687,Lithuania,LTU,2011,11
+3688,Lithuania,LTU,2012,10
+3689,Lithuania,LTU,2013,10
+3690,Lithuania,LTU,2014,10
+3691,Lithuania,LTU,2015,10
+3692,Luxembourg,LUX,1990,12
+3693,Luxembourg,LUX,1991,13
+3694,Luxembourg,LUX,1992,13
+3695,Luxembourg,LUX,1993,13
+3696,Luxembourg,LUX,1994,13
+3697,Luxembourg,LUX,1995,13
+3698,Luxembourg,LUX,1996,13
+3699,Luxembourg,LUX,1997,13
+3700,Luxembourg,LUX,1998,12
+3701,Luxembourg,LUX,1999,12
+3702,Luxembourg,LUX,2000,13
+3703,Luxembourg,LUX,2001,13
+3704,Luxembourg,LUX,2002,12
+3705,Luxembourg,LUX,2003,12
+3706,Luxembourg,LUX,2004,12
+3707,Luxembourg,LUX,2005,13
+3708,Luxembourg,LUX,2006,12
+3709,Luxembourg,LUX,2007,12
+3710,Luxembourg,LUX,2008,10
+3711,Luxembourg,LUX,2009,11
+3712,Luxembourg,LUX,2010,11
+3713,Luxembourg,LUX,2011,11
+3714,Luxembourg,LUX,2012,11
+3715,Luxembourg,LUX,2013,10
+3716,Luxembourg,LUX,2014,10
+3717,Luxembourg,LUX,2015,10
+3718,"Macedonia, FYR",MKD,1990,14
+3719,"Macedonia, FYR",MKD,1991,14
+3720,"Macedonia, FYR",MKD,1992,14
+3721,"Macedonia, FYR",MKD,1993,13
+3722,"Macedonia, FYR",MKD,1994,12
+3723,"Macedonia, FYR",MKD,1995,13
+3724,"Macedonia, FYR",MKD,1996,14
+3725,"Macedonia, FYR",MKD,1997,13
+3726,"Macedonia, FYR",MKD,1998,13
+3727,"Macedonia, FYR",MKD,1999,12
+3728,"Macedonia, FYR",MKD,2000,12
+3729,"Macedonia, FYR",MKD,2001,10
+3730,"Macedonia, FYR",MKD,2002,11
+3731,"Macedonia, FYR",MKD,2003,10
+3732,"Macedonia, FYR",MKD,2004,10
+3733,"Macedonia, FYR",MKD,2005,10
+3734,"Macedonia, FYR",MKD,2006,9
+3735,"Macedonia, FYR",MKD,2007,9
+3736,"Macedonia, FYR",MKD,2008,8
+3737,"Macedonia, FYR",MKD,2009,8
+3738,"Macedonia, FYR",MKD,2010,8
+3739,"Macedonia, FYR",MKD,2011,7
+3740,"Macedonia, FYR",MKD,2012,8
+3741,"Macedonia, FYR",MKD,2013,8
+3742,"Macedonia, FYR",MKD,2014,8
+3743,"Macedonia, FYR",MKD,2015,8
+3744,Madagascar,MDG,1990,778
+3745,Madagascar,MDG,1991,761
+3746,Madagascar,MDG,1992,738
+3747,Madagascar,MDG,1993,709
+3748,Madagascar,MDG,1994,676
+3749,Madagascar,MDG,1995,644
+3750,Madagascar,MDG,1996,612
+3751,Madagascar,MDG,1997,584
+3752,Madagascar,MDG,1998,561
+3753,Madagascar,MDG,1999,544
+3754,Madagascar,MDG,2000,536
+3755,Madagascar,MDG,2001,531
+3756,Madagascar,MDG,2002,527
+3757,Madagascar,MDG,2003,522
+3758,Madagascar,MDG,2004,519
+3759,Madagascar,MDG,2005,508
+3760,Madagascar,MDG,2006,495
+3761,Madagascar,MDG,2007,482
+3762,Madagascar,MDG,2008,468
+3763,Madagascar,MDG,2009,453
+3764,Madagascar,MDG,2010,436
+3765,Madagascar,MDG,2011,420
+3766,Madagascar,MDG,2012,402
+3767,Madagascar,MDG,2013,384
+3768,Madagascar,MDG,2014,369
+3769,Madagascar,MDG,2015,353
+3770,Malawi,MWI,1990,957
+3771,Malawi,MWI,1991,954
+3772,Malawi,MWI,1992,958
+3773,Malawi,MWI,1993,948
+3774,Malawi,MWI,1994,956
+3775,Malawi,MWI,1995,953
+3776,Malawi,MWI,1996,952
+3777,Malawi,MWI,1997,939
+3778,Malawi,MWI,1998,916
+3779,Malawi,MWI,1999,904
+3780,Malawi,MWI,2000,890
+3781,Malawi,MWI,2001,868
+3782,Malawi,MWI,2002,839
+3783,Malawi,MWI,2003,783
+3784,Malawi,MWI,2004,699
+3785,Malawi,MWI,2005,648
+3786,Malawi,MWI,2006,614
+3787,Malawi,MWI,2007,613
+3788,Malawi,MWI,2008,629
+3789,Malawi,MWI,2009,633
+3790,Malawi,MWI,2010,629
+3791,Malawi,MWI,2011,618
+3792,Malawi,MWI,2012,624
+3793,Malawi,MWI,2013,636
+3794,Malawi,MWI,2014,638
+3795,Malawi,MWI,2015,634
+3796,Malaysia,MYS,1990,79
+3797,Malaysia,MYS,1991,79
+3798,Malaysia,MYS,1992,75
+3799,Malaysia,MYS,1993,73
+3800,Malaysia,MYS,1994,67
+3801,Malaysia,MYS,1995,68
+3802,Malaysia,MYS,1996,65
+3803,Malaysia,MYS,1997,64
+3804,Malaysia,MYS,1998,60
+3805,Malaysia,MYS,1999,62
+3806,Malaysia,MYS,2000,58
+3807,Malaysia,MYS,2001,56
+3808,Malaysia,MYS,2002,54
+3809,Malaysia,MYS,2003,55
+3810,Malaysia,MYS,2004,53
+3811,Malaysia,MYS,2005,52
+3812,Malaysia,MYS,2006,51
+3813,Malaysia,MYS,2007,48
+3814,Malaysia,MYS,2008,48
+3815,Malaysia,MYS,2009,48
+3816,Malaysia,MYS,2010,48
+3817,Malaysia,MYS,2011,47
+3818,Malaysia,MYS,2012,45
+3819,Malaysia,MYS,2013,43
+3820,Malaysia,MYS,2014,41
+3821,Malaysia,MYS,2015,40
+3822,Maldives,MDV,1990,677
+3823,Maldives,MDV,1991,594
+3824,Maldives,MDV,1992,505
+3825,Maldives,MDV,1993,425
+3826,Maldives,MDV,1994,370
+3827,Maldives,MDV,1995,340
+3828,Maldives,MDV,1996,289
+3829,Maldives,MDV,1997,276
+3830,Maldives,MDV,1998,244
+3831,Maldives,MDV,1999,206
+3832,Maldives,MDV,2000,163
+3833,Maldives,MDV,2001,149
+3834,Maldives,MDV,2002,146
+3835,Maldives,MDV,2003,136
+3836,Maldives,MDV,2004,114
+3837,Maldives,MDV,2005,101
+3838,Maldives,MDV,2006,87
+3839,Maldives,MDV,2007,93
+3840,Maldives,MDV,2008,96
+3841,Maldives,MDV,2009,96
+3842,Maldives,MDV,2010,87
+3843,Maldives,MDV,2011,82
+3844,Maldives,MDV,2012,76
+3845,Maldives,MDV,2013,70
+3846,Maldives,MDV,2014,69
+3847,Maldives,MDV,2015,68
+3848,Mali,MLI,1990,1010
+3849,Mali,MLI,1991,993
+3850,Mali,MLI,1992,985
+3851,Mali,MLI,1993,967
+3852,Mali,MLI,1994,940
+3853,Mali,MLI,1995,911
+3854,Mali,MLI,1996,892
+3855,Mali,MLI,1997,865
+3856,Mali,MLI,1998,851
+3857,Mali,MLI,1999,841
+3858,Mali,MLI,2000,834
+3859,Mali,MLI,2001,805
+3860,Mali,MLI,2002,777
+3861,Mali,MLI,2003,754
+3862,Mali,MLI,2004,735
+3863,Mali,MLI,2005,714
+3864,Mali,MLI,2006,707
+3865,Mali,MLI,2007,697
+3866,Mali,MLI,2008,674
+3867,Mali,MLI,2009,652
+3868,Mali,MLI,2010,630
+3869,Mali,MLI,2011,617
+3870,Mali,MLI,2012,617
+3871,Mali,MLI,2013,610
+3872,Mali,MLI,2014,601
+3873,Mali,MLI,2015,587
+3874,Malta,MLT,1990,13
+3875,Malta,MLT,1991,14
+3876,Malta,MLT,1992,15
+3877,Malta,MLT,1993,14
+3878,Malta,MLT,1994,13
+3879,Malta,MLT,1995,14
+3880,Malta,MLT,1996,15
+3881,Malta,MLT,1997,15
+3882,Malta,MLT,1998,16
+3883,Malta,MLT,1999,16
+3884,Malta,MLT,2000,15
+3885,Malta,MLT,2001,14
+3886,Malta,MLT,2002,14
+3887,Malta,MLT,2003,14
+3888,Malta,MLT,2004,13
+3889,Malta,MLT,2005,13
+3890,Malta,MLT,2006,12
+3891,Malta,MLT,2007,12
+3892,Malta,MLT,2008,11
+3893,Malta,MLT,2009,11
+3894,Malta,MLT,2010,11
+3895,Malta,MLT,2011,11
+3896,Malta,MLT,2012,11
+3897,Malta,MLT,2013,9
+3898,Malta,MLT,2014,9
+3899,Malta,MLT,2015,9
+3900,Mauritania,MRT,1990,859
+3901,Mauritania,MRT,1991,848
+3902,Mauritania,MRT,1992,843
+3903,Mauritania,MRT,1993,837
+3904,Mauritania,MRT,1994,827
+3905,Mauritania,MRT,1995,824
+3906,Mauritania,MRT,1996,824
+3907,Mauritania,MRT,1997,819
+3908,Mauritania,MRT,1998,820
+3909,Mauritania,MRT,1999,821
+3910,Mauritania,MRT,2000,813
+3911,Mauritania,MRT,2001,805
+3912,Mauritania,MRT,2002,796
+3913,Mauritania,MRT,2003,781
+3914,Mauritania,MRT,2004,764
+3915,Mauritania,MRT,2005,750
+3916,Mauritania,MRT,2006,745
+3917,Mauritania,MRT,2007,744
+3918,Mauritania,MRT,2008,739
+3919,Mauritania,MRT,2009,734
+3920,Mauritania,MRT,2010,723
+3921,Mauritania,MRT,2011,704
+3922,Mauritania,MRT,2012,682
+3923,Mauritania,MRT,2013,655
+3924,Mauritania,MRT,2014,629
+3925,Mauritania,MRT,2015,602
+3926,Mauritius,MUS,1990,81
+3927,Mauritius,MUS,1991,76
+3928,Mauritius,MUS,1992,82
+3929,Mauritius,MUS,1993,74
+3930,Mauritius,MUS,1994,68
+3931,Mauritius,MUS,1995,60
+3932,Mauritius,MUS,1996,50
+3933,Mauritius,MUS,1997,52
+3934,Mauritius,MUS,1998,48
+3935,Mauritius,MUS,1999,43
+3936,Mauritius,MUS,2000,40
+3937,Mauritius,MUS,2001,36
+3938,Mauritius,MUS,2002,35
+3939,Mauritius,MUS,2003,38
+3940,Mauritius,MUS,2004,37
+3941,Mauritius,MUS,2005,39
+3942,Mauritius,MUS,2006,42
+3943,Mauritius,MUS,2007,45
+3944,Mauritius,MUS,2008,46
+3945,Mauritius,MUS,2009,52
+3946,Mauritius,MUS,2010,59
+3947,Mauritius,MUS,2011,51
+3948,Mauritius,MUS,2012,54
+3949,Mauritius,MUS,2013,54
+3950,Mauritius,MUS,2014,54
+3951,Mauritius,MUS,2015,53
+3952,Mexico,MEX,1990,90
+3953,Mexico,MEX,1991,87
+3954,Mexico,MEX,1992,87
+3955,Mexico,MEX,1993,87
+3956,Mexico,MEX,1994,86
+3957,Mexico,MEX,1995,85
+3958,Mexico,MEX,1996,82
+3959,Mexico,MEX,1997,82
+3960,Mexico,MEX,1998,83
+3961,Mexico,MEX,1999,82
+3962,Mexico,MEX,2000,77
+3963,Mexico,MEX,2001,69
+3964,Mexico,MEX,2002,61
+3965,Mexico,MEX,2003,57
+3966,Mexico,MEX,2004,54
+3967,Mexico,MEX,2005,54
+3968,Mexico,MEX,2006,51
+3969,Mexico,MEX,2007,50
+3970,Mexico,MEX,2008,50
+3971,Mexico,MEX,2009,53
+3972,Mexico,MEX,2010,45
+3973,Mexico,MEX,2011,42
+3974,Mexico,MEX,2012,42
+3975,Mexico,MEX,2013,41
+3976,Mexico,MEX,2014,39
+3977,Mexico,MEX,2015,38
+3978,"Micronesia, Fed. Sts.",FSM,1990,183
+3979,"Micronesia, Fed. Sts.",FSM,1991,179
+3980,"Micronesia, Fed. Sts.",FSM,1992,175
+3981,"Micronesia, Fed. Sts.",FSM,1993,173
+3982,"Micronesia, Fed. Sts.",FSM,1994,169
+3983,"Micronesia, Fed. Sts.",FSM,1995,166
+3984,"Micronesia, Fed. Sts.",FSM,1996,164
+3985,"Micronesia, Fed. Sts.",FSM,1997,161
+3986,"Micronesia, Fed. Sts.",FSM,1998,159
+3987,"Micronesia, Fed. Sts.",FSM,1999,156
+3988,"Micronesia, Fed. Sts.",FSM,2000,153
+3989,"Micronesia, Fed. Sts.",FSM,2001,150
+3990,"Micronesia, Fed. Sts.",FSM,2002,148
+3991,"Micronesia, Fed. Sts.",FSM,2003,143
+3992,"Micronesia, Fed. Sts.",FSM,2004,139
+3993,"Micronesia, Fed. Sts.",FSM,2005,134
+3994,"Micronesia, Fed. Sts.",FSM,2006,130
+3995,"Micronesia, Fed. Sts.",FSM,2007,126
+3996,"Micronesia, Fed. Sts.",FSM,2008,122
+3997,"Micronesia, Fed. Sts.",FSM,2009,118
+3998,"Micronesia, Fed. Sts.",FSM,2010,115
+3999,"Micronesia, Fed. Sts.",FSM,2011,110
+4000,"Micronesia, Fed. Sts.",FSM,2012,107
+4001,"Micronesia, Fed. Sts.",FSM,2013,104
+4002,"Micronesia, Fed. Sts.",FSM,2014,102
+4003,"Micronesia, Fed. Sts.",FSM,2015,100
+4004,Moldova,MDA,1990,51
+4005,Moldova,MDA,1991,60
+4006,Moldova,MDA,1992,55
+4007,Moldova,MDA,1993,55
+4008,Moldova,MDA,1994,63
+4009,Moldova,MDA,1995,66
+4010,Moldova,MDA,1996,61
+4011,Moldova,MDA,1997,58
+4012,Moldova,MDA,1998,53
+4013,Moldova,MDA,1999,52
+4014,Moldova,MDA,2000,49
+4015,Moldova,MDA,2001,45
+4016,Moldova,MDA,2002,43
+4017,Moldova,MDA,2003,41
+4018,Moldova,MDA,2004,37
+4019,Moldova,MDA,2005,39
+4020,Moldova,MDA,2006,36
+4021,Moldova,MDA,2007,36
+4022,Moldova,MDA,2008,35
+4023,Moldova,MDA,2009,33
+4024,Moldova,MDA,2010,34
+4025,Moldova,MDA,2011,25
+4026,Moldova,MDA,2012,26
+4027,Moldova,MDA,2013,24
+4028,Moldova,MDA,2014,24
+4029,Moldova,MDA,2015,23
+4030,Mongolia,MNG,1990,186
+4031,Mongolia,MNG,1991,193
+4032,Mongolia,MNG,1992,201
+4033,Mongolia,MNG,1993,207
+4034,Mongolia,MNG,1994,208
+4035,Mongolia,MNG,1995,205
+4036,Mongolia,MNG,1996,199
+4037,Mongolia,MNG,1997,192
+4038,Mongolia,MNG,1998,184
+4039,Mongolia,MNG,1999,174
+4040,Mongolia,MNG,2000,161
+4041,Mongolia,MNG,2001,147
+4042,Mongolia,MNG,2002,132
+4043,Mongolia,MNG,2003,117
+4044,Mongolia,MNG,2004,105
+4045,Mongolia,MNG,2005,95
+4046,Mongolia,MNG,2006,86
+4047,Mongolia,MNG,2007,80
+4048,Mongolia,MNG,2008,74
+4049,Mongolia,MNG,2009,68
+4050,Mongolia,MNG,2010,63
+4051,Mongolia,MNG,2011,58
+4052,Mongolia,MNG,2012,53
+4053,Mongolia,MNG,2013,49
+4054,Mongolia,MNG,2014,46
+4055,Mongolia,MNG,2015,44
+4056,Montenegro,MNE,1990,10
+4057,Montenegro,MNE,1991,11
+4058,Montenegro,MNE,1992,11
+4059,Montenegro,MNE,1993,12
+4060,Montenegro,MNE,1994,12
+4061,Montenegro,MNE,1995,12
+4062,Montenegro,MNE,1996,12
+4063,Montenegro,MNE,1997,12
+4064,Montenegro,MNE,1998,13
+4065,Montenegro,MNE,1999,12
+4066,Montenegro,MNE,2000,11
+4067,Montenegro,MNE,2001,11
+4068,Montenegro,MNE,2002,11
+4069,Montenegro,MNE,2003,11
+4070,Montenegro,MNE,2004,10
+4071,Montenegro,MNE,2005,9
+4072,Montenegro,MNE,2006,8
+4073,Montenegro,MNE,2007,8
+4074,Montenegro,MNE,2008,8
+4075,Montenegro,MNE,2009,8
+4076,Montenegro,MNE,2010,8
+4077,Montenegro,MNE,2011,7
+4078,Montenegro,MNE,2012,8
+4079,Montenegro,MNE,2013,7
+4080,Montenegro,MNE,2014,7
+4081,Montenegro,MNE,2015,7
+4082,Morocco,MAR,1990,317
+4083,Morocco,MAR,1991,300
+4084,Morocco,MAR,1992,285
+4085,Morocco,MAR,1993,273
+4086,Morocco,MAR,1994,264
+4087,Morocco,MAR,1995,257
+4088,Morocco,MAR,1996,249
+4089,Morocco,MAR,1997,242
+4090,Morocco,MAR,1998,235
+4091,Morocco,MAR,1999,228
+4092,Morocco,MAR,2000,221
+4093,Morocco,MAR,2001,214
+4094,Morocco,MAR,2002,207
+4095,Morocco,MAR,2003,201
+4096,Morocco,MAR,2004,196
+4097,Morocco,MAR,2005,190
+4098,Morocco,MAR,2006,185
+4099,Morocco,MAR,2007,179
+4100,Morocco,MAR,2008,172
+4101,Morocco,MAR,2009,164
+4102,Morocco,MAR,2010,153
+4103,Morocco,MAR,2011,144
+4104,Morocco,MAR,2012,137
+4105,Morocco,MAR,2013,131
+4106,Morocco,MAR,2014,126
+4107,Morocco,MAR,2015,121
+4108,Mozambique,MOZ,1990,1390
+4109,Mozambique,MOZ,1991,1320
+4110,Mozambique,MOZ,1992,1290
+4111,Mozambique,MOZ,1993,1260
+4112,Mozambique,MOZ,1994,1210
+4113,Mozambique,MOZ,1995,1150
+4114,Mozambique,MOZ,1996,1100
+4115,Mozambique,MOZ,1997,1050
+4116,Mozambique,MOZ,1998,1000
+4117,Mozambique,MOZ,1999,956
+4118,Mozambique,MOZ,2000,915
+4119,Mozambique,MOZ,2001,875
+4120,Mozambique,MOZ,2002,840
+4121,Mozambique,MOZ,2003,804
+4122,Mozambique,MOZ,2004,783
+4123,Mozambique,MOZ,2005,762
+4124,Mozambique,MOZ,2006,741
+4125,Mozambique,MOZ,2007,716
+4126,Mozambique,MOZ,2008,682
+4127,Mozambique,MOZ,2009,646
+4128,Mozambique,MOZ,2010,619
+4129,Mozambique,MOZ,2011,596
+4130,Mozambique,MOZ,2012,563
+4131,Mozambique,MOZ,2013,528
+4132,Mozambique,MOZ,2014,506
+4133,Mozambique,MOZ,2015,489
+4134,Myanmar,MMR,1990,453
+4135,Myanmar,MMR,1991,436
+4136,Myanmar,MMR,1992,420
+4137,Myanmar,MMR,1993,404
+4138,Myanmar,MMR,1994,389
+4139,Myanmar,MMR,1995,376
+4140,Myanmar,MMR,1996,362
+4141,Myanmar,MMR,1997,349
+4142,Myanmar,MMR,1998,335
+4143,Myanmar,MMR,1999,322
+4144,Myanmar,MMR,2000,308
+4145,Myanmar,MMR,2001,297
+4146,Myanmar,MMR,2002,284
+4147,Myanmar,MMR,2003,273
+4148,Myanmar,MMR,2004,261
+4149,Myanmar,MMR,2005,248
+4150,Myanmar,MMR,2006,237
+4151,Myanmar,MMR,2007,226
+4152,Myanmar,MMR,2008,218
+4153,Myanmar,MMR,2009,210
+4154,Myanmar,MMR,2010,205
+4155,Myanmar,MMR,2011,201
+4156,Myanmar,MMR,2012,195
+4157,Myanmar,MMR,2013,189
+4158,Myanmar,MMR,2014,184
+4159,Myanmar,MMR,2015,178
+4160,Namibia,NAM,1990,338
+4161,Namibia,NAM,1991,335
+4162,Namibia,NAM,1992,330
+4163,Namibia,NAM,1993,324
+4164,Namibia,NAM,1994,323
+4165,Namibia,NAM,1995,320
+4166,Namibia,NAM,1996,320
+4167,Namibia,NAM,1997,324
+4168,Namibia,NAM,1998,329
+4169,Namibia,NAM,1999,341
+4170,Namibia,NAM,2000,352
+4171,Namibia,NAM,2001,367
+4172,Namibia,NAM,2002,379
+4173,Namibia,NAM,2003,387
+4174,Namibia,NAM,2004,391
+4175,Namibia,NAM,2005,390
+4176,Namibia,NAM,2006,371
+4177,Namibia,NAM,2007,344
+4178,Namibia,NAM,2008,331
+4179,Namibia,NAM,2009,321
+4180,Namibia,NAM,2010,319
+4181,Namibia,NAM,2011,315
+4182,Namibia,NAM,2012,299
+4183,Namibia,NAM,2013,283
+4184,Namibia,NAM,2014,273
+4185,Namibia,NAM,2015,265
+4186,Nepal,NPL,1990,901
+4187,Nepal,NPL,1991,851
+4188,Nepal,NPL,1992,798
+4189,Nepal,NPL,1993,742
+4190,Nepal,NPL,1994,693
+4191,Nepal,NPL,1995,660
+4192,Nepal,NPL,1996,631
+4193,Nepal,NPL,1997,611
+4194,Nepal,NPL,1998,591
+4195,Nepal,NPL,1999,570
+4196,Nepal,NPL,2000,548
+4197,Nepal,NPL,2001,527
+4198,Nepal,NPL,2002,505
+4199,Nepal,NPL,2003,482
+4200,Nepal,NPL,2004,461
+4201,Nepal,NPL,2005,444
+4202,Nepal,NPL,2006,425
+4203,Nepal,NPL,2007,406
+4204,Nepal,NPL,2008,386
+4205,Nepal,NPL,2009,368
+4206,Nepal,NPL,2010,349
+4207,Nepal,NPL,2011,328
+4208,Nepal,NPL,2012,308
+4209,Nepal,NPL,2013,291
+4210,Nepal,NPL,2014,275
+4211,Nepal,NPL,2015,258
+4212,Netherlands,NLD,1990,12
+4213,Netherlands,NLD,1991,12
+4214,Netherlands,NLD,1992,12
+4215,Netherlands,NLD,1993,12
+4216,Netherlands,NLD,1994,13
+4217,Netherlands,NLD,1995,13
+4218,Netherlands,NLD,1996,13
+4219,Netherlands,NLD,1997,13
+4220,Netherlands,NLD,1998,13
+4221,Netherlands,NLD,1999,14
+4222,Netherlands,NLD,2000,14
+4223,Netherlands,NLD,2001,13
+4224,Netherlands,NLD,2002,13
+4225,Netherlands,NLD,2003,13
+4226,Netherlands,NLD,2004,12
+4227,Netherlands,NLD,2005,11
+4228,Netherlands,NLD,2006,10
+4229,Netherlands,NLD,2007,9
+4230,Netherlands,NLD,2008,9
+4231,Netherlands,NLD,2009,8
+4232,Netherlands,NLD,2010,8
+4233,Netherlands,NLD,2011,8
+4234,Netherlands,NLD,2012,7
+4235,Netherlands,NLD,2013,7
+4236,Netherlands,NLD,2014,7
+4237,Netherlands,NLD,2015,7
+4238,New Zealand,NZL,1990,18
+4239,New Zealand,NZL,1991,17
+4240,New Zealand,NZL,1992,16
+4241,New Zealand,NZL,1993,15
+4242,New Zealand,NZL,1994,14
+4243,New Zealand,NZL,1995,15
+4244,New Zealand,NZL,1996,15
+4245,New Zealand,NZL,1997,14
+4246,New Zealand,NZL,1998,13
+4247,New Zealand,NZL,1999,14
+4248,New Zealand,NZL,2000,12
+4249,New Zealand,NZL,2001,13
+4250,New Zealand,NZL,2002,13
+4251,New Zealand,NZL,2003,13
+4252,New Zealand,NZL,2004,13
+4253,New Zealand,NZL,2005,14
+4254,New Zealand,NZL,2006,13
+4255,New Zealand,NZL,2007,13
+4256,New Zealand,NZL,2008,12
+4257,New Zealand,NZL,2009,12
+4258,New Zealand,NZL,2010,13
+4259,New Zealand,NZL,2011,12
+4260,New Zealand,NZL,2012,12
+4261,New Zealand,NZL,2013,12
+4262,New Zealand,NZL,2014,11
+4263,New Zealand,NZL,2015,11
+4264,Nicaragua,NIC,1990,173
+4265,Nicaragua,NIC,1991,200
+4266,Nicaragua,NIC,1992,188
+4267,Nicaragua,NIC,1993,204
+4268,Nicaragua,NIC,1994,199
+4269,Nicaragua,NIC,1995,212
+4270,Nicaragua,NIC,1996,220
+4271,Nicaragua,NIC,1997,215
+4272,Nicaragua,NIC,1998,242
+4273,Nicaragua,NIC,1999,205
+4274,Nicaragua,NIC,2000,202
+4275,Nicaragua,NIC,2001,215
+4276,Nicaragua,NIC,2002,204
+4277,Nicaragua,NIC,2003,188
+4278,Nicaragua,NIC,2004,189
+4279,Nicaragua,NIC,2005,190
+4280,Nicaragua,NIC,2006,164
+4281,Nicaragua,NIC,2007,171
+4282,Nicaragua,NIC,2008,167
+4283,Nicaragua,NIC,2009,171
+4284,Nicaragua,NIC,2010,166
+4285,Nicaragua,NIC,2011,153
+4286,Nicaragua,NIC,2012,164
+4287,Nicaragua,NIC,2013,159
+4288,Nicaragua,NIC,2014,154
+4289,Nicaragua,NIC,2015,150
+4290,Niger,NER,1990,873
+4291,Niger,NER,1991,858
+4292,Niger,NER,1992,848
+4293,Niger,NER,1993,839
+4294,Niger,NER,1994,836
+4295,Niger,NER,1995,828
+4296,Niger,NER,1996,823
+4297,Niger,NER,1997,818
+4298,Niger,NER,1998,811
+4299,Niger,NER,1999,805
+4300,Niger,NER,2000,794
+4301,Niger,NER,2001,786
+4302,Niger,NER,2002,774
+4303,Niger,NER,2003,757
+4304,Niger,NER,2004,738
+4305,Niger,NER,2005,723
+4306,Niger,NER,2006,711
+4307,Niger,NER,2007,699
+4308,Niger,NER,2008,679
+4309,Niger,NER,2009,661
+4310,Niger,NER,2010,657
+4311,Niger,NER,2011,635
+4312,Niger,NER,2012,619
+4313,Niger,NER,2013,596
+4314,Niger,NER,2014,574
+4315,Niger,NER,2015,553
+4316,Nigeria,NGA,1990,1350
+4317,Nigeria,NGA,1991,1320
+4318,Nigeria,NGA,1992,1300
+4319,Nigeria,NGA,1993,1280
+4320,Nigeria,NGA,1994,1270
+4321,Nigeria,NGA,1995,1250
+4322,Nigeria,NGA,1996,1250
+4323,Nigeria,NGA,1997,1240
+4324,Nigeria,NGA,1998,1220
+4325,Nigeria,NGA,1999,1200
+4326,Nigeria,NGA,2000,1170
+4327,Nigeria,NGA,2001,1140
+4328,Nigeria,NGA,2002,1090
+4329,Nigeria,NGA,2003,1040
+4330,Nigeria,NGA,2004,986
+4331,Nigeria,NGA,2005,946
+4332,Nigeria,NGA,2006,890
+4333,Nigeria,NGA,2007,884
+4334,Nigeria,NGA,2008,829
+4335,Nigeria,NGA,2009,883
+4336,Nigeria,NGA,2010,867
+4337,Nigeria,NGA,2011,824
+4338,Nigeria,NGA,2012,819
+4339,Nigeria,NGA,2013,821
+4340,Nigeria,NGA,2014,820
+4341,Nigeria,NGA,2015,814
+4342,Norway,NOR,1990,7
+4343,Norway,NOR,1991,7
+4344,Norway,NOR,1992,7
+4345,Norway,NOR,1993,7
+4346,Norway,NOR,1994,7
+4347,Norway,NOR,1995,7
+4348,Norway,NOR,1996,7
+4349,Norway,NOR,1997,7
+4350,Norway,NOR,1998,7
+4351,Norway,NOR,1999,7
+4352,Norway,NOR,2000,7
+4353,Norway,NOR,2001,7
+4354,Norway,NOR,2002,6
+4355,Norway,NOR,2003,7
+4356,Norway,NOR,2004,7
+4357,Norway,NOR,2005,7
+4358,Norway,NOR,2006,6
+4359,Norway,NOR,2007,6
+4360,Norway,NOR,2008,6
+4361,Norway,NOR,2009,6
+4362,Norway,NOR,2010,6
+4363,Norway,NOR,2011,6
+4364,Norway,NOR,2012,5
+4365,Norway,NOR,2013,5
+4366,Norway,NOR,2014,5
+4367,Norway,NOR,2015,5
+4368,Oman,OMN,1990,30
+4369,Oman,OMN,1991,27
+4370,Oman,OMN,1992,24
+4371,Oman,OMN,1993,22
+4372,Oman,OMN,1994,21
+4373,Oman,OMN,1995,20
+4374,Oman,OMN,1996,20
+4375,Oman,OMN,1997,20
+4376,Oman,OMN,1998,20
+4377,Oman,OMN,1999,20
+4378,Oman,OMN,2000,20
+4379,Oman,OMN,2001,21
+4380,Oman,OMN,2002,21
+4381,Oman,OMN,2003,21
+4382,Oman,OMN,2004,21
+4383,Oman,OMN,2005,20
+4384,Oman,OMN,2006,19
+4385,Oman,OMN,2007,19
+4386,Oman,OMN,2008,18
+4387,Oman,OMN,2009,18
+4388,Oman,OMN,2010,18
+4389,Oman,OMN,2011,18
+4390,Oman,OMN,2012,18
+4391,Oman,OMN,2013,18
+4392,Oman,OMN,2014,18
+4393,Oman,OMN,2015,17
+4394,Pakistan,PAK,1990,431
+4395,Pakistan,PAK,1991,418
+4396,Pakistan,PAK,1992,403
+4397,Pakistan,PAK,1993,388
+4398,Pakistan,PAK,1994,375
+4399,Pakistan,PAK,1995,363
+4400,Pakistan,PAK,1996,353
+4401,Pakistan,PAK,1997,342
+4402,Pakistan,PAK,1998,330
+4403,Pakistan,PAK,1999,318
+4404,Pakistan,PAK,2000,306
+4405,Pakistan,PAK,2001,294
+4406,Pakistan,PAK,2002,282
+4407,Pakistan,PAK,2003,271
+4408,Pakistan,PAK,2004,259
+4409,Pakistan,PAK,2005,249
+4410,Pakistan,PAK,2006,239
+4411,Pakistan,PAK,2007,230
+4412,Pakistan,PAK,2008,223
+4413,Pakistan,PAK,2009,217
+4414,Pakistan,PAK,2010,211
+4415,Pakistan,PAK,2011,204
+4416,Pakistan,PAK,2012,197
+4417,Pakistan,PAK,2013,190
+4418,Pakistan,PAK,2014,184
+4419,Pakistan,PAK,2015,178
+4420,Panama,PAN,1990,102
+4421,Panama,PAN,1991,98
+4422,Panama,PAN,1992,96
+4423,Panama,PAN,1993,91
+4424,Panama,PAN,1994,85
+4425,Panama,PAN,1995,94
+4426,Panama,PAN,1996,89
+4427,Panama,PAN,1997,96
+4428,Panama,PAN,1998,98
+4429,Panama,PAN,1999,82
+4430,Panama,PAN,2000,82
+4431,Panama,PAN,2001,79
+4432,Panama,PAN,2002,85
+4433,Panama,PAN,2003,88
+4434,Panama,PAN,2004,85
+4435,Panama,PAN,2005,87
+4436,Panama,PAN,2006,88
+4437,Panama,PAN,2007,89
+4438,Panama,PAN,2008,92
+4439,Panama,PAN,2009,94
+4440,Panama,PAN,2010,101
+4441,Panama,PAN,2011,102
+4442,Panama,PAN,2012,101
+4443,Panama,PAN,2013,99
+4444,Panama,PAN,2014,97
+4445,Panama,PAN,2015,94
+4446,Papua New Guinea,PNG,1990,470
+4447,Papua New Guinea,PNG,1991,447
+4448,Papua New Guinea,PNG,1992,427
+4449,Papua New Guinea,PNG,1993,405
+4450,Papua New Guinea,PNG,1994,388
+4451,Papua New Guinea,PNG,1995,377
+4452,Papua New Guinea,PNG,1996,371
+4453,Papua New Guinea,PNG,1997,365
+4454,Papua New Guinea,PNG,1998,360
+4455,Papua New Guinea,PNG,1999,353
+4456,Papua New Guinea,PNG,2000,342
+4457,Papua New Guinea,PNG,2001,330
+4458,Papua New Guinea,PNG,2002,318
+4459,Papua New Guinea,PNG,2003,305
+4460,Papua New Guinea,PNG,2004,290
+4461,Papua New Guinea,PNG,2005,277
+4462,Papua New Guinea,PNG,2006,264
+4463,Papua New Guinea,PNG,2007,259
+4464,Papua New Guinea,PNG,2008,258
+4465,Papua New Guinea,PNG,2009,249
+4466,Papua New Guinea,PNG,2010,238
+4467,Papua New Guinea,PNG,2011,231
+4468,Papua New Guinea,PNG,2012,227
+4469,Papua New Guinea,PNG,2013,224
+4470,Papua New Guinea,PNG,2014,220
+4471,Papua New Guinea,PNG,2015,215
+4472,Paraguay,PRY,1990,150
+4473,Paraguay,PRY,1991,149
+4474,Paraguay,PRY,1992,149
+4475,Paraguay,PRY,1993,147
+4476,Paraguay,PRY,1994,147
+4477,Paraguay,PRY,1995,147
+4478,Paraguay,PRY,1996,153
+4479,Paraguay,PRY,1997,143
+4480,Paraguay,PRY,1998,143
+4481,Paraguay,PRY,1999,149
+4482,Paraguay,PRY,2000,158
+4483,Paraguay,PRY,2001,157
+4484,Paraguay,PRY,2002,160
+4485,Paraguay,PRY,2003,163
+4486,Paraguay,PRY,2004,181
+4487,Paraguay,PRY,2005,159
+4488,Paraguay,PRY,2006,166
+4489,Paraguay,PRY,2007,148
+4490,Paraguay,PRY,2008,149
+4491,Paraguay,PRY,2009,155
+4492,Paraguay,PRY,2010,139
+4493,Paraguay,PRY,2011,145
+4494,Paraguay,PRY,2012,139
+4495,Paraguay,PRY,2013,136
+4496,Paraguay,PRY,2014,134
+4497,Paraguay,PRY,2015,132
+4498,Peru,PER,1990,251
+4499,Peru,PER,1991,243
+4500,Peru,PER,1992,234
+4501,Peru,PER,1993,223
+4502,Peru,PER,1994,215
+4503,Peru,PER,1995,206
+4504,Peru,PER,1996,199
+4505,Peru,PER,1997,181
+4506,Peru,PER,1998,168
+4507,Peru,PER,1999,157
+4508,Peru,PER,2000,140
+4509,Peru,PER,2001,126
+4510,Peru,PER,2002,124
+4511,Peru,PER,2003,120
+4512,Peru,PER,2004,121
+4513,Peru,PER,2005,114
+4514,Peru,PER,2006,99
+4515,Peru,PER,2007,95
+4516,Peru,PER,2008,99
+4517,Peru,PER,2009,94
+4518,Peru,PER,2010,92
+4519,Peru,PER,2011,85
+4520,Peru,PER,2012,75
+4521,Peru,PER,2013,72
+4522,Peru,PER,2014,70
+4523,Peru,PER,2015,68
+4524,Philippines,PHL,1990,152
+4525,Philippines,PHL,1991,134
+4526,Philippines,PHL,1992,139
+4527,Philippines,PHL,1993,135
+4528,Philippines,PHL,1994,121
+4529,Philippines,PHL,1995,122
+4530,Philippines,PHL,1996,122
+4531,Philippines,PHL,1997,119
+4532,Philippines,PHL,1998,122
+4533,Philippines,PHL,1999,117
+4534,Philippines,PHL,2000,124
+4535,Philippines,PHL,2001,128
+4536,Philippines,PHL,2002,127
+4537,Philippines,PHL,2003,125
+4538,Philippines,PHL,2004,126
+4539,Philippines,PHL,2005,127
+4540,Philippines,PHL,2006,127
+4541,Philippines,PHL,2007,128
+4542,Philippines,PHL,2008,129
+4543,Philippines,PHL,2009,131
+4544,Philippines,PHL,2010,129
+4545,Philippines,PHL,2011,127
+4546,Philippines,PHL,2012,126
+4547,Philippines,PHL,2013,121
+4548,Philippines,PHL,2014,117
+4549,Philippines,PHL,2015,114
+4550,Poland,POL,1990,17
+4551,Poland,POL,1991,17
+4552,Poland,POL,1992,16
+4553,Poland,POL,1993,15
+4554,Poland,POL,1994,14
+4555,Poland,POL,1995,13
+4556,Poland,POL,1996,12
+4557,Poland,POL,1997,11
+4558,Poland,POL,1998,10
+4559,Poland,POL,1999,9
+4560,Poland,POL,2000,8
+4561,Poland,POL,2001,7
+4562,Poland,POL,2002,7
+4563,Poland,POL,2003,6
+4564,Poland,POL,2004,6
+4565,Poland,POL,2005,6
+4566,Poland,POL,2006,5
+4567,Poland,POL,2007,5
+4568,Poland,POL,2008,4
+4569,Poland,POL,2009,4
+4570,Poland,POL,2010,4
+4571,Poland,POL,2011,3
+4572,Poland,POL,2012,3
+4573,Poland,POL,2013,3
+4574,Poland,POL,2014,3
+4575,Poland,POL,2015,3
+4576,Portugal,PRT,1990,17
+4577,Portugal,PRT,1991,17
+4578,Portugal,PRT,1992,17
+4579,Portugal,PRT,1993,16
+4580,Portugal,PRT,1994,15
+4581,Portugal,PRT,1995,15
+4582,Portugal,PRT,1996,15
+4583,Portugal,PRT,1997,15
+4584,Portugal,PRT,1998,14
+4585,Portugal,PRT,1999,14
+4586,Portugal,PRT,2000,13
+4587,Portugal,PRT,2001,13
+4588,Portugal,PRT,2002,13
+4589,Portugal,PRT,2003,12
+4590,Portugal,PRT,2004,12
+4591,Portugal,PRT,2005,12
+4592,Portugal,PRT,2006,11
+4593,Portugal,PRT,2007,11
+4594,Portugal,PRT,2008,11
+4595,Portugal,PRT,2009,11
+4596,Portugal,PRT,2010,11
+4597,Portugal,PRT,2011,10
+4598,Portugal,PRT,2012,11
+4599,Portugal,PRT,2013,10
+4600,Portugal,PRT,2014,10
+4601,Portugal,PRT,2015,10
+4602,Puerto Rico,PRI,1990,26
+4603,Puerto Rico,PRI,1991,26
+4604,Puerto Rico,PRI,1992,26
+4605,Puerto Rico,PRI,1993,25
+4606,Puerto Rico,PRI,1994,25
+4607,Puerto Rico,PRI,1995,25
+4608,Puerto Rico,PRI,1996,24
+4609,Puerto Rico,PRI,1997,24
+4610,Puerto Rico,PRI,1998,23
+4611,Puerto Rico,PRI,1999,23
+4612,Puerto Rico,PRI,2000,22
+4613,Puerto Rico,PRI,2001,21
+4614,Puerto Rico,PRI,2002,20
+4615,Puerto Rico,PRI,2003,20
+4616,Puerto Rico,PRI,2004,19
+4617,Puerto Rico,PRI,2005,19
+4618,Puerto Rico,PRI,2006,18
+4619,Puerto Rico,PRI,2007,18
+4620,Puerto Rico,PRI,2008,17
+4621,Puerto Rico,PRI,2009,17
+4622,Puerto Rico,PRI,2010,16
+4623,Puerto Rico,PRI,2011,16
+4624,Puerto Rico,PRI,2012,15
+4625,Puerto Rico,PRI,2013,15
+4626,Puerto Rico,PRI,2014,15
+4627,Puerto Rico,PRI,2015,14
+4628,Qatar,QAT,1990,29
+4629,Qatar,QAT,1991,30
+4630,Qatar,QAT,1992,29
+4631,Qatar,QAT,1993,29
+4632,Qatar,QAT,1994,29
+4633,Qatar,QAT,1995,28
+4634,Qatar,QAT,1996,26
+4635,Qatar,QAT,1997,25
+4636,Qatar,QAT,1998,24
+4637,Qatar,QAT,1999,24
+4638,Qatar,QAT,2000,24
+4639,Qatar,QAT,2001,23
+4640,Qatar,QAT,2002,23
+4641,Qatar,QAT,2003,21
+4642,Qatar,QAT,2004,21
+4643,Qatar,QAT,2005,21
+4644,Qatar,QAT,2006,21
+4645,Qatar,QAT,2007,19
+4646,Qatar,QAT,2008,17
+4647,Qatar,QAT,2009,17
+4648,Qatar,QAT,2010,16
+4649,Qatar,QAT,2011,15
+4650,Qatar,QAT,2012,14
+4651,Qatar,QAT,2013,13
+4652,Qatar,QAT,2014,13
+4653,Qatar,QAT,2015,13
+4654,Romania,ROU,1990,124
+4655,Romania,ROU,1991,106
+4656,Romania,ROU,1992,96
+4657,Romania,ROU,1993,87
+4658,Romania,ROU,1994,81
+4659,Romania,ROU,1995,77
+4660,Romania,ROU,1996,73
+4661,Romania,ROU,1997,69
+4662,Romania,ROU,1998,62
+4663,Romania,ROU,1999,56
+4664,Romania,ROU,2000,51
+4665,Romania,ROU,2001,46
+4666,Romania,ROU,2002,44
+4667,Romania,ROU,2003,40
+4668,Romania,ROU,2004,35
+4669,Romania,ROU,2005,33
+4670,Romania,ROU,2006,30
+4671,Romania,ROU,2007,29
+4672,Romania,ROU,2008,29
+4673,Romania,ROU,2009,30
+4674,Romania,ROU,2010,30
+4675,Romania,ROU,2011,30
+4676,Romania,ROU,2012,30
+4677,Romania,ROU,2013,31
+4678,Romania,ROU,2014,31
+4679,Romania,ROU,2015,31
+4680,Russian Federation,RUS,1990,63
+4681,Russian Federation,RUS,1991,63
+4682,Russian Federation,RUS,1992,67
+4683,Russian Federation,RUS,1993,81
+4684,Russian Federation,RUS,1994,88
+4685,Russian Federation,RUS,1995,82
+4686,Russian Federation,RUS,1996,71
+4687,Russian Federation,RUS,1997,62
+4688,Russian Federation,RUS,1998,57
+4689,Russian Federation,RUS,1999,59
+4690,Russian Federation,RUS,2000,57
+4691,Russian Federation,RUS,2001,54
+4692,Russian Federation,RUS,2002,51
+4693,Russian Federation,RUS,2003,49
+4694,Russian Federation,RUS,2004,44
+4695,Russian Federation,RUS,2005,42
+4696,Russian Federation,RUS,2006,36
+4697,Russian Federation,RUS,2007,34
+4698,Russian Federation,RUS,2008,32
+4699,Russian Federation,RUS,2009,30
+4700,Russian Federation,RUS,2010,29
+4701,Russian Federation,RUS,2011,27
+4702,Russian Federation,RUS,2012,26
+4703,Russian Federation,RUS,2013,25
+4704,Russian Federation,RUS,2014,25
+4705,Russian Federation,RUS,2015,25
+4706,Rwanda,RWA,1990,1300
+4707,Rwanda,RWA,1991,1290
+4708,Rwanda,RWA,1992,1300
+4709,Rwanda,RWA,1993,1290
+4710,Rwanda,RWA,1994,1270
+4711,Rwanda,RWA,1995,1260
+4712,Rwanda,RWA,1996,1260
+4713,Rwanda,RWA,1997,1230
+4714,Rwanda,RWA,1998,1130
+4715,Rwanda,RWA,1999,1070
+4716,Rwanda,RWA,2000,1020
+4717,Rwanda,RWA,2001,946
+4718,Rwanda,RWA,2002,870
+4719,Rwanda,RWA,2003,770
+4720,Rwanda,RWA,2004,662
+4721,Rwanda,RWA,2005,567
+4722,Rwanda,RWA,2006,534
+4723,Rwanda,RWA,2007,495
+4724,Rwanda,RWA,2008,452
+4725,Rwanda,RWA,2009,411
+4726,Rwanda,RWA,2010,381
+4727,Rwanda,RWA,2011,361
+4728,Rwanda,RWA,2012,336
+4729,Rwanda,RWA,2013,318
+4730,Rwanda,RWA,2014,304
+4731,Rwanda,RWA,2015,290
+4732,Samoa,WSM,1990,156
+4733,Samoa,WSM,1991,147
+4734,Samoa,WSM,1992,139
+4735,Samoa,WSM,1993,132
+4736,Samoa,WSM,1994,125
+4737,Samoa,WSM,1995,119
+4738,Samoa,WSM,1996,112
+4739,Samoa,WSM,1997,106
+4740,Samoa,WSM,1998,101
+4741,Samoa,WSM,1999,96
+4742,Samoa,WSM,2000,93
+4743,Samoa,WSM,2001,88
+4744,Samoa,WSM,2002,85
+4745,Samoa,WSM,2003,82
+4746,Samoa,WSM,2004,79
+4747,Samoa,WSM,2005,77
+4748,Samoa,WSM,2006,74
+4749,Samoa,WSM,2007,71
+4750,Samoa,WSM,2008,69
+4751,Samoa,WSM,2009,66
+4752,Samoa,WSM,2010,64
+4753,Samoa,WSM,2011,61
+4754,Samoa,WSM,2012,59
+4755,Samoa,WSM,2013,56
+4756,Samoa,WSM,2014,53
+4757,Samoa,WSM,2015,51
+4758,Sao Tome and Principe,STP,1990,330
+4759,Sao Tome and Principe,STP,1991,317
+4760,Sao Tome and Principe,STP,1992,303
+4761,Sao Tome and Principe,STP,1993,291
+4762,Sao Tome and Principe,STP,1994,271
+4763,Sao Tome and Principe,STP,1995,263
+4764,Sao Tome and Principe,STP,1996,254
+4765,Sao Tome and Principe,STP,1997,244
+4766,Sao Tome and Principe,STP,1998,237
+4767,Sao Tome and Principe,STP,1999,231
+4768,Sao Tome and Principe,STP,2000,222
+4769,Sao Tome and Principe,STP,2001,215
+4770,Sao Tome and Principe,STP,2002,207
+4771,Sao Tome and Principe,STP,2003,199
+4772,Sao Tome and Principe,STP,2004,191
+4773,Sao Tome and Principe,STP,2005,181
+4774,Sao Tome and Principe,STP,2006,176
+4775,Sao Tome and Principe,STP,2007,173
+4776,Sao Tome and Principe,STP,2008,167
+4777,Sao Tome and Principe,STP,2009,166
+4778,Sao Tome and Principe,STP,2010,162
+4779,Sao Tome and Principe,STP,2011,161
+4780,Sao Tome and Principe,STP,2012,162
+4781,Sao Tome and Principe,STP,2013,161
+4782,Sao Tome and Principe,STP,2014,159
+4783,Sao Tome and Principe,STP,2015,156
+4784,Saudi Arabia,SAU,1990,46
+4785,Saudi Arabia,SAU,1991,43
+4786,Saudi Arabia,SAU,1992,41
+4787,Saudi Arabia,SAU,1993,38
+4788,Saudi Arabia,SAU,1994,36
+4789,Saudi Arabia,SAU,1995,33
+4790,Saudi Arabia,SAU,1996,30
+4791,Saudi Arabia,SAU,1997,28
+4792,Saudi Arabia,SAU,1998,26
+4793,Saudi Arabia,SAU,1999,25
+4794,Saudi Arabia,SAU,2000,23
+4795,Saudi Arabia,SAU,2001,22
+4796,Saudi Arabia,SAU,2002,21
+4797,Saudi Arabia,SAU,2003,20
+4798,Saudi Arabia,SAU,2004,19
+4799,Saudi Arabia,SAU,2005,18
+4800,Saudi Arabia,SAU,2006,17
+4801,Saudi Arabia,SAU,2007,16
+4802,Saudi Arabia,SAU,2008,15
+4803,Saudi Arabia,SAU,2009,14
+4804,Saudi Arabia,SAU,2010,14
+4805,Saudi Arabia,SAU,2011,13
+4806,Saudi Arabia,SAU,2012,13
+4807,Saudi Arabia,SAU,2013,12
+4808,Saudi Arabia,SAU,2014,12
+4809,Saudi Arabia,SAU,2015,12
+4810,Senegal,SEN,1990,540
+4811,Senegal,SEN,1991,527
+4812,Senegal,SEN,1992,519
+4813,Senegal,SEN,1993,513
+4814,Senegal,SEN,1994,511
+4815,Senegal,SEN,1995,509
+4816,Senegal,SEN,1996,508
+4817,Senegal,SEN,1997,506
+4818,Senegal,SEN,1998,501
+4819,Senegal,SEN,1999,496
+4820,Senegal,SEN,2000,488
+4821,Senegal,SEN,2001,481
+4822,Senegal,SEN,2002,474
+4823,Senegal,SEN,2003,462
+4824,Senegal,SEN,2004,445
+4825,Senegal,SEN,2005,427
+4826,Senegal,SEN,2006,426
+4827,Senegal,SEN,2007,414
+4828,Senegal,SEN,2008,398
+4829,Senegal,SEN,2009,387
+4830,Senegal,SEN,2010,375
+4831,Senegal,SEN,2011,365
+4832,Senegal,SEN,2012,351
+4833,Senegal,SEN,2013,335
+4834,Senegal,SEN,2014,323
+4835,Senegal,SEN,2015,315
+4836,Serbia,SRB,1990,14
+4837,Serbia,SRB,1991,15
+4838,Serbia,SRB,1992,15
+4839,Serbia,SRB,1993,16
+4840,Serbia,SRB,1994,16
+4841,Serbia,SRB,1995,15
+4842,Serbia,SRB,1996,16
+4843,Serbia,SRB,1997,16
+4844,Serbia,SRB,1998,17
+4845,Serbia,SRB,1999,17
+4846,Serbia,SRB,2000,17
+4847,Serbia,SRB,2001,17
+4848,Serbia,SRB,2002,16
+4849,Serbia,SRB,2003,16
+4850,Serbia,SRB,2004,15
+4851,Serbia,SRB,2005,15
+4852,Serbia,SRB,2006,15
+4853,Serbia,SRB,2007,14
+4854,Serbia,SRB,2008,15
+4855,Serbia,SRB,2009,15
+4856,Serbia,SRB,2010,16
+4857,Serbia,SRB,2011,16
+4858,Serbia,SRB,2012,16
+4859,Serbia,SRB,2013,17
+4860,Serbia,SRB,2014,17
+4861,Serbia,SRB,2015,17
+4862,Sierra Leone,SLE,1990,2630
+4863,Sierra Leone,SLE,1991,2700
+4864,Sierra Leone,SLE,1992,2780
+4865,Sierra Leone,SLE,1993,2850
+4866,Sierra Leone,SLE,1994,2900
+4867,Sierra Leone,SLE,1995,2900
+4868,Sierra Leone,SLE,1996,2890
+4869,Sierra Leone,SLE,1997,2870
+4870,Sierra Leone,SLE,1998,2820
+4871,Sierra Leone,SLE,1999,2750
+4872,Sierra Leone,SLE,2000,2650
+4873,Sierra Leone,SLE,2001,2530
+4874,Sierra Leone,SLE,2002,2390
+4875,Sierra Leone,SLE,2003,2270
+4876,Sierra Leone,SLE,2004,2110
+4877,Sierra Leone,SLE,2005,1990
+4878,Sierra Leone,SLE,2006,1880
+4879,Sierra Leone,SLE,2007,1800
+4880,Sierra Leone,SLE,2008,1730
+4881,Sierra Leone,SLE,2009,1680
+4882,Sierra Leone,SLE,2010,1630
+4883,Sierra Leone,SLE,2011,1580
+4884,Sierra Leone,SLE,2012,1510
+4885,Sierra Leone,SLE,2013,1460
+4886,Sierra Leone,SLE,2014,1410
+4887,Sierra Leone,SLE,2015,1360
+4888,Singapore,SGP,1990,12
+4889,Singapore,SGP,1991,10
+4890,Singapore,SGP,1992,11
+4891,Singapore,SGP,1993,11
+4892,Singapore,SGP,1994,12
+4893,Singapore,SGP,1995,13
+4894,Singapore,SGP,1996,14
+4895,Singapore,SGP,1997,15
+4896,Singapore,SGP,1998,16
+4897,Singapore,SGP,1999,18
+4898,Singapore,SGP,2000,18
+4899,Singapore,SGP,2001,18
+4900,Singapore,SGP,2002,18
+4901,Singapore,SGP,2003,17
+4902,Singapore,SGP,2004,17
+4903,Singapore,SGP,2005,16
+4904,Singapore,SGP,2006,16
+4905,Singapore,SGP,2007,14
+4906,Singapore,SGP,2008,14
+4907,Singapore,SGP,2009,12
+4908,Singapore,SGP,2010,11
+4909,Singapore,SGP,2011,12
+4910,Singapore,SGP,2012,12
+4911,Singapore,SGP,2013,11
+4912,Singapore,SGP,2014,10
+4913,Singapore,SGP,2015,10
+4914,Slovak Republic,SVK,1990,11
+4915,Slovak Republic,SVK,1991,11
+4916,Slovak Republic,SVK,1992,11
+4917,Slovak Republic,SVK,1993,10
+4918,Slovak Republic,SVK,1994,10
+4919,Slovak Republic,SVK,1995,9
+4920,Slovak Republic,SVK,1996,9
+4921,Slovak Republic,SVK,1997,9
+4922,Slovak Republic,SVK,1998,9
+4923,Slovak Republic,SVK,1999,9
+4924,Slovak Republic,SVK,2000,8
+4925,Slovak Republic,SVK,2001,8
+4926,Slovak Republic,SVK,2002,8
+4927,Slovak Republic,SVK,2003,7
+4928,Slovak Republic,SVK,2004,7
+4929,Slovak Republic,SVK,2005,7
+4930,Slovak Republic,SVK,2006,6
+4931,Slovak Republic,SVK,2007,7
+4932,Slovak Republic,SVK,2008,6
+4933,Slovak Republic,SVK,2009,6
+4934,Slovak Republic,SVK,2010,6
+4935,Slovak Republic,SVK,2011,6
+4936,Slovak Republic,SVK,2012,6
+4937,Slovak Republic,SVK,2013,6
+4938,Slovak Republic,SVK,2014,6
+4939,Slovak Republic,SVK,2015,6
+4940,Slovenia,SVN,1990,12
+4941,Slovenia,SVN,1991,12
+4942,Slovenia,SVN,1992,13
+4943,Slovenia,SVN,1993,12
+4944,Slovenia,SVN,1994,13
+4945,Slovenia,SVN,1995,12
+4946,Slovenia,SVN,1996,12
+4947,Slovenia,SVN,1997,11
+4948,Slovenia,SVN,1998,12
+4949,Slovenia,SVN,1999,12
+4950,Slovenia,SVN,2000,12
+4951,Slovenia,SVN,2001,11
+4952,Slovenia,SVN,2002,12
+4953,Slovenia,SVN,2003,11
+4954,Slovenia,SVN,2004,12
+4955,Slovenia,SVN,2005,11
+4956,Slovenia,SVN,2006,9
+4957,Slovenia,SVN,2007,10
+4958,Slovenia,SVN,2008,9
+4959,Slovenia,SVN,2009,9
+4960,Slovenia,SVN,2010,9
+4961,Slovenia,SVN,2011,9
+4962,Slovenia,SVN,2012,8
+4963,Slovenia,SVN,2013,9
+4964,Slovenia,SVN,2014,9
+4965,Slovenia,SVN,2015,9
+4966,Solomon Islands,SLB,1990,364
+4967,Solomon Islands,SLB,1991,345
+4968,Solomon Islands,SLB,1992,325
+4969,Solomon Islands,SLB,1993,304
+4970,Solomon Islands,SLB,1994,288
+4971,Solomon Islands,SLB,1995,273
+4972,Solomon Islands,SLB,1996,259
+4973,Solomon Islands,SLB,1997,247
+4974,Solomon Islands,SLB,1998,237
+4975,Solomon Islands,SLB,1999,226
+4976,Solomon Islands,SLB,2000,214
+4977,Solomon Islands,SLB,2001,203
+4978,Solomon Islands,SLB,2002,192
+4979,Solomon Islands,SLB,2003,182
+4980,Solomon Islands,SLB,2004,172
+4981,Solomon Islands,SLB,2005,164
+4982,Solomon Islands,SLB,2006,158
+4983,Solomon Islands,SLB,2007,152
+4984,Solomon Islands,SLB,2008,147
+4985,Solomon Islands,SLB,2009,142
+4986,Solomon Islands,SLB,2010,136
+4987,Solomon Islands,SLB,2011,131
+4988,Solomon Islands,SLB,2012,126
+4989,Solomon Islands,SLB,2013,122
+4990,Solomon Islands,SLB,2014,118
+4991,Solomon Islands,SLB,2015,114
+4992,Somalia,SOM,1990,1210
+4993,Somalia,SOM,1991,1210
+4994,Somalia,SOM,1992,1210
+4995,Somalia,SOM,1993,1210
+4996,Somalia,SOM,1994,1200
+4997,Somalia,SOM,1995,1190
+4998,Somalia,SOM,1996,1190
+4999,Somalia,SOM,1997,1160
+5000,Somalia,SOM,1998,1130
+5001,Somalia,SOM,1999,1110
+5002,Somalia,SOM,2000,1080
+5003,Somalia,SOM,2001,1050
+5004,Somalia,SOM,2002,1020
+5005,Somalia,SOM,2003,999
+5006,Somalia,SOM,2004,971
+5007,Somalia,SOM,2005,939
+5008,Somalia,SOM,2006,911
+5009,Somalia,SOM,2007,885
+5010,Somalia,SOM,2008,865
+5011,Somalia,SOM,2009,846
+5012,Somalia,SOM,2010,820
+5013,Somalia,SOM,2011,808
+5014,Somalia,SOM,2012,791
+5015,Somalia,SOM,2013,775
+5016,Somalia,SOM,2014,753
+5017,Somalia,SOM,2015,732
+5018,South Africa,ZAF,1990,108
+5019,South Africa,ZAF,1991,98
+5020,South Africa,ZAF,1992,88
+5021,South Africa,ZAF,1993,77
+5022,South Africa,ZAF,1994,69
+5023,South Africa,ZAF,1995,62
+5024,South Africa,ZAF,1996,60
+5025,South Africa,ZAF,1997,61
+5026,South Africa,ZAF,1998,66
+5027,South Africa,ZAF,1999,76
+5028,South Africa,ZAF,2000,85
+5029,South Africa,ZAF,2001,89
+5030,South Africa,ZAF,2002,95
+5031,South Africa,ZAF,2003,102
+5032,South Africa,ZAF,2004,107
+5033,South Africa,ZAF,2005,112
+5034,South Africa,ZAF,2006,119
+5035,South Africa,ZAF,2007,126
+5036,South Africa,ZAF,2008,138
+5037,South Africa,ZAF,2009,148
+5038,South Africa,ZAF,2010,154
+5039,South Africa,ZAF,2011,154
+5040,South Africa,ZAF,2012,152
+5041,South Africa,ZAF,2013,145
+5042,South Africa,ZAF,2014,140
+5043,South Africa,ZAF,2015,138
+5044,South Sudan,SSD,1990,1730
+5045,South Sudan,SSD,1991,1700
+5046,South Sudan,SSD,1992,1670
+5047,South Sudan,SSD,1993,1630
+5048,South Sudan,SSD,1994,1580
+5049,South Sudan,SSD,1995,1530
+5050,South Sudan,SSD,1996,1470
+5051,South Sudan,SSD,1997,1410
+5052,South Sudan,SSD,1998,1370
+5053,South Sudan,SSD,1999,1340
+5054,South Sudan,SSD,2000,1310
+5055,South Sudan,SSD,2001,1270
+5056,South Sudan,SSD,2002,1230
+5057,South Sudan,SSD,2003,1190
+5058,South Sudan,SSD,2004,1150
+5059,South Sudan,SSD,2005,1090
+5060,South Sudan,SSD,2006,1030
+5061,South Sudan,SSD,2007,971
+5062,South Sudan,SSD,2008,928
+5063,South Sudan,SSD,2009,886
+5064,South Sudan,SSD,2010,876
+5065,South Sudan,SSD,2011,869
+5066,South Sudan,SSD,2012,857
+5067,South Sudan,SSD,2013,841
+5068,South Sudan,SSD,2014,823
+5069,South Sudan,SSD,2015,789
+5070,Spain,ESP,1990,6
+5071,Spain,ESP,1991,6
+5072,Spain,ESP,1992,6
+5073,Spain,ESP,1993,6
+5074,Spain,ESP,1994,6
+5075,Spain,ESP,1995,6
+5076,Spain,ESP,1996,6
+5077,Spain,ESP,1997,5
+5078,Spain,ESP,1998,5
+5079,Spain,ESP,1999,5
+5080,Spain,ESP,2000,5
+5081,Spain,ESP,2001,5
+5082,Spain,ESP,2002,5
+5083,Spain,ESP,2003,6
+5084,Spain,ESP,2004,5
+5085,Spain,ESP,2005,5
+5086,Spain,ESP,2006,5
+5087,Spain,ESP,2007,5
+5088,Spain,ESP,2008,5
+5089,Spain,ESP,2009,5
+5090,Spain,ESP,2010,5
+5091,Spain,ESP,2011,5
+5092,Spain,ESP,2012,5
+5093,Spain,ESP,2013,5
+5094,Spain,ESP,2014,5
+5095,Spain,ESP,2015,5
+5096,Sri Lanka,LKA,1990,75
+5097,Sri Lanka,LKA,1991,73
+5098,Sri Lanka,LKA,1992,72
+5099,Sri Lanka,LKA,1993,68
+5100,Sri Lanka,LKA,1994,69
+5101,Sri Lanka,LKA,1995,70
+5102,Sri Lanka,LKA,1996,68
+5103,Sri Lanka,LKA,1997,67
+5104,Sri Lanka,LKA,1998,60
+5105,Sri Lanka,LKA,1999,58
+5106,Sri Lanka,LKA,2000,57
+5107,Sri Lanka,LKA,2001,47
+5108,Sri Lanka,LKA,2002,45
+5109,Sri Lanka,LKA,2003,46
+5110,Sri Lanka,LKA,2004,44
+5111,Sri Lanka,LKA,2005,43
+5112,Sri Lanka,LKA,2006,42
+5113,Sri Lanka,LKA,2007,39
+5114,Sri Lanka,LKA,2008,38
+5115,Sri Lanka,LKA,2009,36
+5116,Sri Lanka,LKA,2010,35
+5117,Sri Lanka,LKA,2011,33
+5118,Sri Lanka,LKA,2012,32
+5119,Sri Lanka,LKA,2013,32
+5120,Sri Lanka,LKA,2014,31
+5121,Sri Lanka,LKA,2015,30
+5122,St. Lucia,LCA,1990,45
+5123,St. Lucia,LCA,1991,42
+5124,St. Lucia,LCA,1992,40
+5125,St. Lucia,LCA,1993,39
+5126,St. Lucia,LCA,1994,40
+5127,St. Lucia,LCA,1995,43
+5128,St. Lucia,LCA,1996,46
+5129,St. Lucia,LCA,1997,49
+5130,St. Lucia,LCA,1998,51
+5131,St. Lucia,LCA,1999,52
+5132,St. Lucia,LCA,2000,54
+5133,St. Lucia,LCA,2001,58
+5134,St. Lucia,LCA,2002,62
+5135,St. Lucia,LCA,2003,68
+5136,St. Lucia,LCA,2004,68
+5137,St. Lucia,LCA,2005,67
+5138,St. Lucia,LCA,2006,59
+5139,St. Lucia,LCA,2007,61
+5140,St. Lucia,LCA,2008,58
+5141,St. Lucia,LCA,2009,56
+5142,St. Lucia,LCA,2010,54
+5143,St. Lucia,LCA,2011,52
+5144,St. Lucia,LCA,2012,50
+5145,St. Lucia,LCA,2013,49
+5146,St. Lucia,LCA,2014,49
+5147,St. Lucia,LCA,2015,48
+5148,St. Vincent and the Grenadines,VCT,1990,58
+5149,St. Vincent and the Grenadines,VCT,1991,60
+5150,St. Vincent and the Grenadines,VCT,1992,60
+5151,St. Vincent and the Grenadines,VCT,1993,67
+5152,St. Vincent and the Grenadines,VCT,1994,74
+5153,St. Vincent and the Grenadines,VCT,1995,81
+5154,St. Vincent and the Grenadines,VCT,1996,88
+5155,St. Vincent and the Grenadines,VCT,1997,86
+5156,St. Vincent and the Grenadines,VCT,1998,81
+5157,St. Vincent and the Grenadines,VCT,1999,76
+5158,St. Vincent and the Grenadines,VCT,2000,74
+5159,St. Vincent and the Grenadines,VCT,2001,69
+5160,St. Vincent and the Grenadines,VCT,2002,68
+5161,St. Vincent and the Grenadines,VCT,2003,64
+5162,St. Vincent and the Grenadines,VCT,2004,54
+5163,St. Vincent and the Grenadines,VCT,2005,50
+5164,St. Vincent and the Grenadines,VCT,2006,50
+5165,St. Vincent and the Grenadines,VCT,2007,51
+5166,St. Vincent and the Grenadines,VCT,2008,52
+5167,St. Vincent and the Grenadines,VCT,2009,51
+5168,St. Vincent and the Grenadines,VCT,2010,50
+5169,St. Vincent and the Grenadines,VCT,2011,48
+5170,St. Vincent and the Grenadines,VCT,2012,47
+5171,St. Vincent and the Grenadines,VCT,2013,46
+5172,St. Vincent and the Grenadines,VCT,2014,45
+5173,St. Vincent and the Grenadines,VCT,2015,45
+5174,Sudan,SDN,1990,744
+5175,Sudan,SDN,1991,726
+5176,Sudan,SDN,1992,711
+5177,Sudan,SDN,1993,690
+5178,Sudan,SDN,1994,667
+5179,Sudan,SDN,1995,648
+5180,Sudan,SDN,1996,627
+5181,Sudan,SDN,1997,605
+5182,Sudan,SDN,1998,582
+5183,Sudan,SDN,1999,562
+5184,Sudan,SDN,2000,544
+5185,Sudan,SDN,2001,524
+5186,Sudan,SDN,2002,504
+5187,Sudan,SDN,2003,486
+5188,Sudan,SDN,2004,463
+5189,Sudan,SDN,2005,440
+5190,Sudan,SDN,2006,418
+5191,Sudan,SDN,2007,396
+5192,Sudan,SDN,2008,376
+5193,Sudan,SDN,2009,361
+5194,Sudan,SDN,2010,349
+5195,Sudan,SDN,2011,339
+5196,Sudan,SDN,2012,330
+5197,Sudan,SDN,2013,325
+5198,Sudan,SDN,2014,318
+5199,Sudan,SDN,2015,311
+5200,Suriname,SUR,1990,127
+5201,Suriname,SUR,1991,122
+5202,Suriname,SUR,1992,137
+5203,Suriname,SUR,1993,153
+5204,Suriname,SUR,1994,174
+5205,Suriname,SUR,1995,177
+5206,Suriname,SUR,1996,184
+5207,Suriname,SUR,1997,192
+5208,Suriname,SUR,1998,213
+5209,Suriname,SUR,1999,237
+5210,Suriname,SUR,2000,259
+5211,Suriname,SUR,2001,267
+5212,Suriname,SUR,2002,271
+5213,Suriname,SUR,2003,261
+5214,Suriname,SUR,2004,241
+5215,Suriname,SUR,2005,223
+5216,Suriname,SUR,2006,218
+5217,Suriname,SUR,2007,217
+5218,Suriname,SUR,2008,194
+5219,Suriname,SUR,2009,177
+5220,Suriname,SUR,2010,169
+5221,Suriname,SUR,2011,157
+5222,Suriname,SUR,2012,155
+5223,Suriname,SUR,2013,162
+5224,Suriname,SUR,2014,158
+5225,Suriname,SUR,2015,155
+5226,Swaziland,SWZ,1990,635
+5227,Swaziland,SWZ,1991,602
+5228,Swaziland,SWZ,1992,570
+5229,Swaziland,SWZ,1993,549
+5230,Swaziland,SWZ,1994,538
+5231,Swaziland,SWZ,1995,537
+5232,Swaziland,SWZ,1996,545
+5233,Swaziland,SWZ,1997,553
+5234,Swaziland,SWZ,1998,567
+5235,Swaziland,SWZ,1999,579
+5236,Swaziland,SWZ,2000,586
+5237,Swaziland,SWZ,2001,597
+5238,Swaziland,SWZ,2002,601
+5239,Swaziland,SWZ,2003,601
+5240,Swaziland,SWZ,2004,601
+5241,Swaziland,SWZ,2005,595
+5242,Swaziland,SWZ,2006,561
+5243,Swaziland,SWZ,2007,517
+5244,Swaziland,SWZ,2008,476
+5245,Swaziland,SWZ,2009,451
+5246,Swaziland,SWZ,2010,436
+5247,Swaziland,SWZ,2011,418
+5248,Swaziland,SWZ,2012,400
+5249,Swaziland,SWZ,2013,413
+5250,Swaziland,SWZ,2014,400
+5251,Swaziland,SWZ,2015,389
+5252,Sweden,SWE,1990,8
+5253,Sweden,SWE,1991,7
+5254,Sweden,SWE,1992,7
+5255,Sweden,SWE,1993,7
+5256,Sweden,SWE,1994,7
+5257,Sweden,SWE,1995,6
+5258,Sweden,SWE,1996,6
+5259,Sweden,SWE,1997,6
+5260,Sweden,SWE,1998,6
+5261,Sweden,SWE,1999,6
+5262,Sweden,SWE,2000,5
+5263,Sweden,SWE,2001,5
+5264,Sweden,SWE,2002,5
+5265,Sweden,SWE,2003,5
+5266,Sweden,SWE,2004,6
+5267,Sweden,SWE,2005,5
+5268,Sweden,SWE,2006,5
+5269,Sweden,SWE,2007,5
+5270,Sweden,SWE,2008,5
+5271,Sweden,SWE,2009,5
+5272,Sweden,SWE,2010,4
+5273,Sweden,SWE,2011,4
+5274,Sweden,SWE,2012,4
+5275,Sweden,SWE,2013,4
+5276,Sweden,SWE,2014,4
+5277,Sweden,SWE,2015,4
+5278,Switzerland,CHE,1990,8
+5279,Switzerland,CHE,1991,8
+5280,Switzerland,CHE,1992,8
+5281,Switzerland,CHE,1993,8
+5282,Switzerland,CHE,1994,8
+5283,Switzerland,CHE,1995,8
+5284,Switzerland,CHE,1996,8
+5285,Switzerland,CHE,1997,7
+5286,Switzerland,CHE,1998,7
+5287,Switzerland,CHE,1999,7
+5288,Switzerland,CHE,2000,7
+5289,Switzerland,CHE,2001,7
+5290,Switzerland,CHE,2002,7
+5291,Switzerland,CHE,2003,6
+5292,Switzerland,CHE,2004,6
+5293,Switzerland,CHE,2005,7
+5294,Switzerland,CHE,2006,6
+5295,Switzerland,CHE,2007,6
+5296,Switzerland,CHE,2008,6
+5297,Switzerland,CHE,2009,6
+5298,Switzerland,CHE,2010,6
+5299,Switzerland,CHE,2011,6
+5300,Switzerland,CHE,2012,6
+5301,Switzerland,CHE,2013,5
+5302,Switzerland,CHE,2014,5
+5303,Switzerland,CHE,2015,5
+5304,Syrian Arab Republic,SYR,1990,123
+5305,Syrian Arab Republic,SYR,1991,114
+5306,Syrian Arab Republic,SYR,1992,106
+5307,Syrian Arab Republic,SYR,1993,99
+5308,Syrian Arab Republic,SYR,1994,94
+5309,Syrian Arab Republic,SYR,1995,89
+5310,Syrian Arab Republic,SYR,1996,85
+5311,Syrian Arab Republic,SYR,1997,82
+5312,Syrian Arab Republic,SYR,1998,80
+5313,Syrian Arab Republic,SYR,1999,77
+5314,Syrian Arab Republic,SYR,2000,73
+5315,Syrian Arab Republic,SYR,2001,70
+5316,Syrian Arab Republic,SYR,2002,67
+5317,Syrian Arab Republic,SYR,2003,64
+5318,Syrian Arab Republic,SYR,2004,61
+5319,Syrian Arab Republic,SYR,2005,58
+5320,Syrian Arab Republic,SYR,2006,55
+5321,Syrian Arab Republic,SYR,2007,53
+5322,Syrian Arab Republic,SYR,2008,51
+5323,Syrian Arab Republic,SYR,2009,49
+5324,Syrian Arab Republic,SYR,2010,49
+5325,Syrian Arab Republic,SYR,2011,52
+5326,Syrian Arab Republic,SYR,2012,56
+5327,Syrian Arab Republic,SYR,2013,60
+5328,Syrian Arab Republic,SYR,2014,64
+5329,Syrian Arab Republic,SYR,2015,68
+5330,Tajikistan,TJK,1990,107
+5331,Tajikistan,TJK,1991,108
+5332,Tajikistan,TJK,1992,113
+5333,Tajikistan,TJK,1993,151
+5334,Tajikistan,TJK,1994,140
+5335,Tajikistan,TJK,1995,129
+5336,Tajikistan,TJK,1996,116
+5337,Tajikistan,TJK,1997,103
+5338,Tajikistan,TJK,1998,89
+5339,Tajikistan,TJK,1999,74
+5340,Tajikistan,TJK,2000,68
+5341,Tajikistan,TJK,2001,69
+5342,Tajikistan,TJK,2002,58
+5343,Tajikistan,TJK,2003,48
+5344,Tajikistan,TJK,2004,46
+5345,Tajikistan,TJK,2005,46
+5346,Tajikistan,TJK,2006,39
+5347,Tajikistan,TJK,2007,38
+5348,Tajikistan,TJK,2008,37
+5349,Tajikistan,TJK,2009,37
+5350,Tajikistan,TJK,2010,35
+5351,Tajikistan,TJK,2011,35
+5352,Tajikistan,TJK,2012,34
+5353,Tajikistan,TJK,2013,34
+5354,Tajikistan,TJK,2014,33
+5355,Tajikistan,TJK,2015,32
+5356,Tanzania,TZA,1990,997
+5357,Tanzania,TZA,1991,996
+5358,Tanzania,TZA,1992,998
+5359,Tanzania,TZA,1993,995
+5360,Tanzania,TZA,1994,979
+5361,Tanzania,TZA,1995,961
+5362,Tanzania,TZA,1996,944
+5363,Tanzania,TZA,1997,924
+5364,Tanzania,TZA,1998,900
+5365,Tanzania,TZA,1999,870
+5366,Tanzania,TZA,2000,842
+5367,Tanzania,TZA,2001,813
+5368,Tanzania,TZA,2002,777
+5369,Tanzania,TZA,2003,747
+5370,Tanzania,TZA,2004,717
+5371,Tanzania,TZA,2005,687
+5372,Tanzania,TZA,2006,652
+5373,Tanzania,TZA,2007,608
+5374,Tanzania,TZA,2008,566
+5375,Tanzania,TZA,2009,542
+5376,Tanzania,TZA,2010,514
+5377,Tanzania,TZA,2011,483
+5378,Tanzania,TZA,2012,464
+5379,Tanzania,TZA,2013,438
+5380,Tanzania,TZA,2014,418
+5381,Tanzania,TZA,2015,398
+5382,Thailand,THA,1990,40
+5383,Thailand,THA,1991,36
+5384,Thailand,THA,1992,31
+5385,Thailand,THA,1993,28
+5386,Thailand,THA,1994,25
+5387,Thailand,THA,1995,23
+5388,Thailand,THA,1996,22
+5389,Thailand,THA,1997,22
+5390,Thailand,THA,1998,22
+5391,Thailand,THA,1999,23
+5392,Thailand,THA,2000,25
+5393,Thailand,THA,2001,26
+5394,Thailand,THA,2002,27
+5395,Thailand,THA,2003,28
+5396,Thailand,THA,2004,28
+5397,Thailand,THA,2005,26
+5398,Thailand,THA,2006,24
+5399,Thailand,THA,2007,24
+5400,Thailand,THA,2008,24
+5401,Thailand,THA,2009,23
+5402,Thailand,THA,2010,23
+5403,Thailand,THA,2011,22
+5404,Thailand,THA,2012,22
+5405,Thailand,THA,2013,21
+5406,Thailand,THA,2014,21
+5407,Thailand,THA,2015,20
+5408,Timor-Leste,TLS,1990,1080
+5409,Timor-Leste,TLS,1991,1050
+5410,Timor-Leste,TLS,1992,1030
+5411,Timor-Leste,TLS,1993,1000
+5412,Timor-Leste,TLS,1994,958
+5413,Timor-Leste,TLS,1995,897
+5414,Timor-Leste,TLS,1996,857
+5415,Timor-Leste,TLS,1997,819
+5416,Timor-Leste,TLS,1998,769
+5417,Timor-Leste,TLS,1999,724
+5418,Timor-Leste,TLS,2000,694
+5419,Timor-Leste,TLS,2001,646
+5420,Timor-Leste,TLS,2002,601
+5421,Timor-Leste,TLS,2003,567
+5422,Timor-Leste,TLS,2004,539
+5423,Timor-Leste,TLS,2005,506
+5424,Timor-Leste,TLS,2006,466
+5425,Timor-Leste,TLS,2007,425
+5426,Timor-Leste,TLS,2008,387
+5427,Timor-Leste,TLS,2009,350
+5428,Timor-Leste,TLS,2010,317
+5429,Timor-Leste,TLS,2011,289
+5430,Timor-Leste,TLS,2012,267
+5431,Timor-Leste,TLS,2013,248
+5432,Timor-Leste,TLS,2014,231
+5433,Timor-Leste,TLS,2015,215
+5434,Togo,TGO,1990,568
+5435,Togo,TGO,1991,573
+5436,Togo,TGO,1992,571
+5437,Togo,TGO,1993,566
+5438,Togo,TGO,1994,566
+5439,Togo,TGO,1995,563
+5440,Togo,TGO,1996,556
+5441,Togo,TGO,1997,541
+5442,Togo,TGO,1998,521
+5443,Togo,TGO,1999,505
+5444,Togo,TGO,2000,491
+5445,Togo,TGO,2001,474
+5446,Togo,TGO,2002,459
+5447,Togo,TGO,2003,446
+5448,Togo,TGO,2004,434
+5449,Togo,TGO,2005,427
+5450,Togo,TGO,2006,427
+5451,Togo,TGO,2007,416
+5452,Togo,TGO,2008,402
+5453,Togo,TGO,2009,395
+5454,Togo,TGO,2010,393
+5455,Togo,TGO,2011,396
+5456,Togo,TGO,2012,391
+5457,Togo,TGO,2013,386
+5458,Togo,TGO,2014,378
+5459,Togo,TGO,2015,368
+5460,Tonga,TON,1990,75
+5461,Tonga,TON,1991,79
+5462,Tonga,TON,1992,83
+5463,Tonga,TON,1993,89
+5464,Tonga,TON,1994,93
+5465,Tonga,TON,1995,100
+5466,Tonga,TON,1996,106
+5467,Tonga,TON,1997,106
+5468,Tonga,TON,1998,102
+5469,Tonga,TON,1999,100
+5470,Tonga,TON,2000,97
+5471,Tonga,TON,2001,94
+5472,Tonga,TON,2002,102
+5473,Tonga,TON,2003,106
+5474,Tonga,TON,2004,110
+5475,Tonga,TON,2005,114
+5476,Tonga,TON,2006,118
+5477,Tonga,TON,2007,122
+5478,Tonga,TON,2008,125
+5479,Tonga,TON,2009,127
+5480,Tonga,TON,2010,130
+5481,Tonga,TON,2011,133
+5482,Tonga,TON,2012,135
+5483,Tonga,TON,2013,131
+5484,Tonga,TON,2014,127
+5485,Tonga,TON,2015,124
+5486,Trinidad and Tobago,TTO,1990,90
+5487,Trinidad and Tobago,TTO,1991,89
+5488,Trinidad and Tobago,TTO,1992,87
+5489,Trinidad and Tobago,TTO,1993,84
+5490,Trinidad and Tobago,TTO,1994,80
+5491,Trinidad and Tobago,TTO,1995,77
+5492,Trinidad and Tobago,TTO,1996,73
+5493,Trinidad and Tobago,TTO,1997,68
+5494,Trinidad and Tobago,TTO,1998,63
+5495,Trinidad and Tobago,TTO,1999,64
+5496,Trinidad and Tobago,TTO,2000,62
+5497,Trinidad and Tobago,TTO,2001,61
+5498,Trinidad and Tobago,TTO,2002,60
+5499,Trinidad and Tobago,TTO,2003,62
+5500,Trinidad and Tobago,TTO,2004,63
+5501,Trinidad and Tobago,TTO,2005,62
+5502,Trinidad and Tobago,TTO,2006,62
+5503,Trinidad and Tobago,TTO,2007,64
+5504,Trinidad and Tobago,TTO,2008,63
+5505,Trinidad and Tobago,TTO,2009,64
+5506,Trinidad and Tobago,TTO,2010,65
+5507,Trinidad and Tobago,TTO,2011,65
+5508,Trinidad and Tobago,TTO,2012,63
+5509,Trinidad and Tobago,TTO,2013,64
+5510,Trinidad and Tobago,TTO,2014,63
+5511,Trinidad and Tobago,TTO,2015,63
+5512,Tunisia,TUN,1990,131
+5513,Tunisia,TUN,1991,125
+5514,Tunisia,TUN,1992,120
+5515,Tunisia,TUN,1993,118
+5516,Tunisia,TUN,1994,114
+5517,Tunisia,TUN,1995,112
+5518,Tunisia,TUN,1996,99
+5519,Tunisia,TUN,1997,101
+5520,Tunisia,TUN,1998,91
+5521,Tunisia,TUN,1999,87
+5522,Tunisia,TUN,2000,84
+5523,Tunisia,TUN,2001,83
+5524,Tunisia,TUN,2002,81
+5525,Tunisia,TUN,2003,78
+5526,Tunisia,TUN,2004,76
+5527,Tunisia,TUN,2005,74
+5528,Tunisia,TUN,2006,72
+5529,Tunisia,TUN,2007,71
+5530,Tunisia,TUN,2008,69
+5531,Tunisia,TUN,2009,68
+5532,Tunisia,TUN,2010,67
+5533,Tunisia,TUN,2011,66
+5534,Tunisia,TUN,2012,64
+5535,Tunisia,TUN,2013,64
+5536,Tunisia,TUN,2014,63
+5537,Tunisia,TUN,2015,62
+5538,Turkey,TUR,1990,97
+5539,Turkey,TUR,1991,93
+5540,Turkey,TUR,1992,91
+5541,Turkey,TUR,1993,89
+5542,Turkey,TUR,1994,87
+5543,Turkey,TUR,1995,86
+5544,Turkey,TUR,1996,84
+5545,Turkey,TUR,1997,83
+5546,Turkey,TUR,1998,82
+5547,Turkey,TUR,1999,81
+5548,Turkey,TUR,2000,79
+5549,Turkey,TUR,2001,77
+5550,Turkey,TUR,2002,74
+5551,Turkey,TUR,2003,70
+5552,Turkey,TUR,2004,65
+5553,Turkey,TUR,2005,57
+5554,Turkey,TUR,2006,48
+5555,Turkey,TUR,2007,39
+5556,Turkey,TUR,2008,32
+5557,Turkey,TUR,2009,27
+5558,Turkey,TUR,2010,23
+5559,Turkey,TUR,2011,21
+5560,Turkey,TUR,2012,19
+5561,Turkey,TUR,2013,18
+5562,Turkey,TUR,2014,17
+5563,Turkey,TUR,2015,16
+5564,Turkmenistan,TKM,1990,82
+5565,Turkmenistan,TKM,1991,90
+5566,Turkmenistan,TKM,1992,89
+5567,Turkmenistan,TKM,1993,90
+5568,Turkmenistan,TKM,1994,88
+5569,Turkmenistan,TKM,1995,74
+5570,Turkmenistan,TKM,1996,75
+5571,Turkmenistan,TKM,1997,66
+5572,Turkmenistan,TKM,1998,61
+5573,Turkmenistan,TKM,1999,61
+5574,Turkmenistan,TKM,2000,59
+5575,Turkmenistan,TKM,2001,57
+5576,Turkmenistan,TKM,2002,56
+5577,Turkmenistan,TKM,2003,56
+5578,Turkmenistan,TKM,2004,55
+5579,Turkmenistan,TKM,2005,53
+5580,Turkmenistan,TKM,2006,52
+5581,Turkmenistan,TKM,2007,51
+5582,Turkmenistan,TKM,2008,49
+5583,Turkmenistan,TKM,2009,47
+5584,Turkmenistan,TKM,2010,46
+5585,Turkmenistan,TKM,2011,46
+5586,Turkmenistan,TKM,2012,45
+5587,Turkmenistan,TKM,2013,44
+5588,Turkmenistan,TKM,2014,43
+5589,Turkmenistan,TKM,2015,42
+5590,Uganda,UGA,1990,687
+5591,Uganda,UGA,1991,688
+5592,Uganda,UGA,1992,692
+5593,Uganda,UGA,1993,693
+5594,Uganda,UGA,1994,692
+5595,Uganda,UGA,1995,684
+5596,Uganda,UGA,1996,678
+5597,Uganda,UGA,1997,668
+5598,Uganda,UGA,1998,658
+5599,Uganda,UGA,1999,639
+5600,Uganda,UGA,2000,620
+5601,Uganda,UGA,2001,601
+5602,Uganda,UGA,2002,576
+5603,Uganda,UGA,2003,558
+5604,Uganda,UGA,2004,536
+5605,Uganda,UGA,2005,504
+5606,Uganda,UGA,2006,481
+5607,Uganda,UGA,2007,469
+5608,Uganda,UGA,2008,451
+5609,Uganda,UGA,2009,432
+5610,Uganda,UGA,2010,420
+5611,Uganda,UGA,2011,408
+5612,Uganda,UGA,2012,395
+5613,Uganda,UGA,2013,372
+5614,Uganda,UGA,2014,356
+5615,Uganda,UGA,2015,343
+5616,Ukraine,UKR,1990,46
+5617,Ukraine,UKR,1991,46
+5618,Ukraine,UKR,1992,47
+5619,Ukraine,UKR,1993,47
+5620,Ukraine,UKR,1994,49
+5621,Ukraine,UKR,1995,52
+5622,Ukraine,UKR,1996,48
+5623,Ukraine,UKR,1997,42
+5624,Ukraine,UKR,1998,37
+5625,Ukraine,UKR,1999,36
+5626,Ukraine,UKR,2000,34
+5627,Ukraine,UKR,2001,32
+5628,Ukraine,UKR,2002,30
+5629,Ukraine,UKR,2003,29
+5630,Ukraine,UKR,2004,29
+5631,Ukraine,UKR,2005,30
+5632,Ukraine,UKR,2006,28
+5633,Ukraine,UKR,2007,31
+5634,Ukraine,UKR,2008,32
+5635,Ukraine,UKR,2009,28
+5636,Ukraine,UKR,2010,26
+5637,Ukraine,UKR,2011,25
+5638,Ukraine,UKR,2012,25
+5639,Ukraine,UKR,2013,24
+5640,Ukraine,UKR,2014,24
+5641,Ukraine,UKR,2015,24
+5642,United Arab Emirates,ARE,1990,17
+5643,United Arab Emirates,ARE,1991,16
+5644,United Arab Emirates,ARE,1992,15
+5645,United Arab Emirates,ARE,1993,14
+5646,United Arab Emirates,ARE,1994,13
+5647,United Arab Emirates,ARE,1995,12
+5648,United Arab Emirates,ARE,1996,11
+5649,United Arab Emirates,ARE,1997,10
+5650,United Arab Emirates,ARE,1998,9
+5651,United Arab Emirates,ARE,1999,9
+5652,United Arab Emirates,ARE,2000,8
+5653,United Arab Emirates,ARE,2001,8
+5654,United Arab Emirates,ARE,2002,7
+5655,United Arab Emirates,ARE,2003,7
+5656,United Arab Emirates,ARE,2004,6
+5657,United Arab Emirates,ARE,2005,6
+5658,United Arab Emirates,ARE,2006,6
+5659,United Arab Emirates,ARE,2007,6
+5660,United Arab Emirates,ARE,2008,6
+5661,United Arab Emirates,ARE,2009,6
+5662,United Arab Emirates,ARE,2010,6
+5663,United Arab Emirates,ARE,2011,6
+5664,United Arab Emirates,ARE,2012,6
+5665,United Arab Emirates,ARE,2013,6
+5666,United Arab Emirates,ARE,2014,6
+5667,United Arab Emirates,ARE,2015,6
+5668,United Kingdom,GBR,1990,10
+5669,United Kingdom,GBR,1991,10
+5670,United Kingdom,GBR,1992,10
+5671,United Kingdom,GBR,1993,11
+5672,United Kingdom,GBR,1994,11
+5673,United Kingdom,GBR,1995,11
+5674,United Kingdom,GBR,1996,11
+5675,United Kingdom,GBR,1997,11
+5676,United Kingdom,GBR,1998,11
+5677,United Kingdom,GBR,1999,11
+5678,United Kingdom,GBR,2000,12
+5679,United Kingdom,GBR,2001,12
+5680,United Kingdom,GBR,2002,12
+5681,United Kingdom,GBR,2003,12
+5682,United Kingdom,GBR,2004,12
+5683,United Kingdom,GBR,2005,12
+5684,United Kingdom,GBR,2006,11
+5685,United Kingdom,GBR,2007,11
+5686,United Kingdom,GBR,2008,11
+5687,United Kingdom,GBR,2009,10
+5688,United Kingdom,GBR,2010,10
+5689,United Kingdom,GBR,2011,10
+5690,United Kingdom,GBR,2012,10
+5691,United Kingdom,GBR,2013,9
+5692,United Kingdom,GBR,2014,9
+5693,United Kingdom,GBR,2015,9
+5694,United States,USA,1990,12
+5695,United States,USA,1991,12
+5696,United States,USA,1992,12
+5697,United States,USA,1993,12
+5698,United States,USA,1994,12
+5699,United States,USA,1995,12
+5700,United States,USA,1996,11
+5701,United States,USA,1997,11
+5702,United States,USA,1998,11
+5703,United States,USA,1999,12
+5704,United States,USA,2000,12
+5705,United States,USA,2001,13
+5706,United States,USA,2002,13
+5707,United States,USA,2003,13
+5708,United States,USA,2004,13
+5709,United States,USA,2005,13
+5710,United States,USA,2006,14
+5711,United States,USA,2007,14
+5712,United States,USA,2008,14
+5713,United States,USA,2009,15
+5714,United States,USA,2010,14
+5715,United States,USA,2011,14
+5716,United States,USA,2012,14
+5717,United States,USA,2013,14
+5718,United States,USA,2014,14
+5719,United States,USA,2015,14
+5720,Uruguay,URY,1990,37
+5721,Uruguay,URY,1991,41
+5722,Uruguay,URY,1992,36
+5723,Uruguay,URY,1993,37
+5724,Uruguay,URY,1994,36
+5725,Uruguay,URY,1995,36
+5726,Uruguay,URY,1996,33
+5727,Uruguay,URY,1997,33
+5728,Uruguay,URY,1998,33
+5729,Uruguay,URY,1999,29
+5730,Uruguay,URY,2000,31
+5731,Uruguay,URY,2001,30
+5732,Uruguay,URY,2002,31
+5733,Uruguay,URY,2003,28
+5734,Uruguay,URY,2004,28
+5735,Uruguay,URY,2005,26
+5736,Uruguay,URY,2006,25
+5737,Uruguay,URY,2007,23
+5738,Uruguay,URY,2008,20
+5739,Uruguay,URY,2009,20
+5740,Uruguay,URY,2010,19
+5741,Uruguay,URY,2011,17
+5742,Uruguay,URY,2012,16
+5743,Uruguay,URY,2013,16
+5744,Uruguay,URY,2014,15
+5745,Uruguay,URY,2015,15
+5746,Uzbekistan,UZB,1990,54
+5747,Uzbekistan,UZB,1991,51
+5748,Uzbekistan,UZB,1992,45
+5749,Uzbekistan,UZB,1993,42
+5750,Uzbekistan,UZB,1994,37
+5751,Uzbekistan,UZB,1995,32
+5752,Uzbekistan,UZB,1996,31
+5753,Uzbekistan,UZB,1997,29
+5754,Uzbekistan,UZB,1998,30
+5755,Uzbekistan,UZB,1999,30
+5756,Uzbekistan,UZB,2000,34
+5757,Uzbekistan,UZB,2001,39
+5758,Uzbekistan,UZB,2002,42
+5759,Uzbekistan,UZB,2003,42
+5760,Uzbekistan,UZB,2004,40
+5761,Uzbekistan,UZB,2005,42
+5762,Uzbekistan,UZB,2006,41
+5763,Uzbekistan,UZB,2007,41
+5764,Uzbekistan,UZB,2008,40
+5765,Uzbekistan,UZB,2009,40
+5766,Uzbekistan,UZB,2010,39
+5767,Uzbekistan,UZB,2011,38
+5768,Uzbekistan,UZB,2012,38
+5769,Uzbekistan,UZB,2013,37
+5770,Uzbekistan,UZB,2014,37
+5771,Uzbekistan,UZB,2015,36
+5772,Vanuatu,VUT,1990,225
+5773,Vanuatu,VUT,1991,217
+5774,Vanuatu,VUT,1992,206
+5775,Vanuatu,VUT,1993,199
+5776,Vanuatu,VUT,1994,192
+5777,Vanuatu,VUT,1995,184
+5778,Vanuatu,VUT,1996,175
+5779,Vanuatu,VUT,1997,167
+5780,Vanuatu,VUT,1998,157
+5781,Vanuatu,VUT,1999,151
+5782,Vanuatu,VUT,2000,144
+5783,Vanuatu,VUT,2001,137
+5784,Vanuatu,VUT,2002,132
+5785,Vanuatu,VUT,2003,127
+5786,Vanuatu,VUT,2004,121
+5787,Vanuatu,VUT,2005,116
+5788,Vanuatu,VUT,2006,110
+5789,Vanuatu,VUT,2007,106
+5790,Vanuatu,VUT,2008,101
+5791,Vanuatu,VUT,2009,98
+5792,Vanuatu,VUT,2010,94
+5793,Vanuatu,VUT,2011,91
+5794,Vanuatu,VUT,2012,87
+5795,Vanuatu,VUT,2013,84
+5796,Vanuatu,VUT,2014,81
+5797,Vanuatu,VUT,2015,78
+5798,"Venezuela, RB",VEN,1990,94
+5799,"Venezuela, RB",VEN,1991,93
+5800,"Venezuela, RB",VEN,1992,93
+5801,"Venezuela, RB",VEN,1993,91
+5802,"Venezuela, RB",VEN,1994,93
+5803,"Venezuela, RB",VEN,1995,90
+5804,"Venezuela, RB",VEN,1996,92
+5805,"Venezuela, RB",VEN,1997,92
+5806,"Venezuela, RB",VEN,1998,88
+5807,"Venezuela, RB",VEN,1999,91
+5808,"Venezuela, RB",VEN,2000,90
+5809,"Venezuela, RB",VEN,2001,94
+5810,"Venezuela, RB",VEN,2002,103
+5811,"Venezuela, RB",VEN,2003,99
+5812,"Venezuela, RB",VEN,2004,95
+5813,"Venezuela, RB",VEN,2005,93
+5814,"Venezuela, RB",VEN,2006,96
+5815,"Venezuela, RB",VEN,2007,97
+5816,"Venezuela, RB",VEN,2008,97
+5817,"Venezuela, RB",VEN,2009,98
+5818,"Venezuela, RB",VEN,2010,99
+5819,"Venezuela, RB",VEN,2011,99
+5820,"Venezuela, RB",VEN,2012,98
+5821,"Venezuela, RB",VEN,2013,98
+5822,"Venezuela, RB",VEN,2014,97
+5823,"Venezuela, RB",VEN,2015,95
+5824,Vietnam,VNM,1990,139
+5825,Vietnam,VNM,1991,132
+5826,Vietnam,VNM,1992,126
+5827,Vietnam,VNM,1993,119
+5828,Vietnam,VNM,1994,113
+5829,Vietnam,VNM,1995,107
+5830,Vietnam,VNM,1996,101
+5831,Vietnam,VNM,1997,95
+5832,Vietnam,VNM,1998,90
+5833,Vietnam,VNM,1999,85
+5834,Vietnam,VNM,2000,81
+5835,Vietnam,VNM,2001,76
+5836,Vietnam,VNM,2002,72
+5837,Vietnam,VNM,2003,68
+5838,Vietnam,VNM,2004,64
+5839,Vietnam,VNM,2005,61
+5840,Vietnam,VNM,2006,59
+5841,Vietnam,VNM,2007,58
+5842,Vietnam,VNM,2008,58
+5843,Vietnam,VNM,2009,57
+5844,Vietnam,VNM,2010,58
+5845,Vietnam,VNM,2011,56
+5846,Vietnam,VNM,2012,56
+5847,Vietnam,VNM,2013,55
+5848,Vietnam,VNM,2014,54
+5849,Vietnam,VNM,2015,54
+5850,West Bank and Gaza,PSE,1990,118
+5851,West Bank and Gaza,PSE,1991,114
+5852,West Bank and Gaza,PSE,1992,111
+5853,West Bank and Gaza,PSE,1993,106
+5854,West Bank and Gaza,PSE,1994,101
+5855,West Bank and Gaza,PSE,1995,96
+5856,West Bank and Gaza,PSE,1996,90
+5857,West Bank and Gaza,PSE,1997,83
+5858,West Bank and Gaza,PSE,1998,78
+5859,West Bank and Gaza,PSE,1999,75
+5860,West Bank and Gaza,PSE,2000,72
+5861,West Bank and Gaza,PSE,2001,70
+5862,West Bank and Gaza,PSE,2002,68
+5863,West Bank and Gaza,PSE,2003,66
+5864,West Bank and Gaza,PSE,2004,64
+5865,West Bank and Gaza,PSE,2005,62
+5866,West Bank and Gaza,PSE,2006,61
+5867,West Bank and Gaza,PSE,2007,60
+5868,West Bank and Gaza,PSE,2008,58
+5869,West Bank and Gaza,PSE,2009,56
+5870,West Bank and Gaza,PSE,2010,54
+5871,West Bank and Gaza,PSE,2011,52
+5872,West Bank and Gaza,PSE,2012,50
+5873,West Bank and Gaza,PSE,2013,48
+5874,West Bank and Gaza,PSE,2014,47
+5875,West Bank and Gaza,PSE,2015,45
+5876,"Yemen, Rep.",YEM,1990,547
+5877,"Yemen, Rep.",YEM,1991,535
+5878,"Yemen, Rep.",YEM,1992,523
+5879,"Yemen, Rep.",YEM,1993,517
+5880,"Yemen, Rep.",YEM,1994,507
+5881,"Yemen, Rep.",YEM,1995,498
+5882,"Yemen, Rep.",YEM,1996,488
+5883,"Yemen, Rep.",YEM,1997,476
+5884,"Yemen, Rep.",YEM,1998,462
+5885,"Yemen, Rep.",YEM,1999,451
+5886,"Yemen, Rep.",YEM,2000,440
+5887,"Yemen, Rep.",YEM,2001,435
+5888,"Yemen, Rep.",YEM,2002,431
+5889,"Yemen, Rep.",YEM,2003,429
+5890,"Yemen, Rep.",YEM,2004,429
+5891,"Yemen, Rep.",YEM,2005,428
+5892,"Yemen, Rep.",YEM,2006,428
+5893,"Yemen, Rep.",YEM,2007,424
+5894,"Yemen, Rep.",YEM,2008,417
+5895,"Yemen, Rep.",YEM,2009,417
+5896,"Yemen, Rep.",YEM,2010,416
+5897,"Yemen, Rep.",YEM,2011,413
+5898,"Yemen, Rep.",YEM,2012,410
+5899,"Yemen, Rep.",YEM,2013,406
+5900,"Yemen, Rep.",YEM,2014,398
+5901,"Yemen, Rep.",YEM,2015,385
+5902,Zambia,ZMB,1990,577
+5903,Zambia,ZMB,1991,584
+5904,Zambia,ZMB,1992,589
+5905,Zambia,ZMB,1993,592
+5906,Zambia,ZMB,1994,597
+5907,Zambia,ZMB,1995,596
+5908,Zambia,ZMB,1996,598
+5909,Zambia,ZMB,1997,598
+5910,Zambia,ZMB,1998,596
+5911,Zambia,ZMB,1999,569
+5912,Zambia,ZMB,2000,541
+5913,Zambia,ZMB,2001,518
+5914,Zambia,ZMB,2002,493
+5915,Zambia,ZMB,2003,472
+5916,Zambia,ZMB,2004,414
+5917,Zambia,ZMB,2005,372
+5918,Zambia,ZMB,2006,338
+5919,Zambia,ZMB,2007,311
+5920,Zambia,ZMB,2008,289
+5921,Zambia,ZMB,2009,274
+5922,Zambia,ZMB,2010,262
+5923,Zambia,ZMB,2011,251
+5924,Zambia,ZMB,2012,243
+5925,Zambia,ZMB,2013,237
+5926,Zambia,ZMB,2014,231
+5927,Zambia,ZMB,2015,224
+5928,Zimbabwe,ZWE,1990,440
+5929,Zimbabwe,ZWE,1991,428
+5930,Zimbabwe,ZWE,1992,414
+5931,Zimbabwe,ZWE,1993,405
+5932,Zimbabwe,ZWE,1994,427
+5933,Zimbabwe,ZWE,1995,449
+5934,Zimbabwe,ZWE,1996,479
+5935,Zimbabwe,ZWE,1997,505
+5936,Zimbabwe,ZWE,1998,530
+5937,Zimbabwe,ZWE,1999,563
+5938,Zimbabwe,ZWE,2000,590
+5939,Zimbabwe,ZWE,2001,621
+5940,Zimbabwe,ZWE,2002,642
+5941,Zimbabwe,ZWE,2003,657
+5942,Zimbabwe,ZWE,2004,648
+5943,Zimbabwe,ZWE,2005,629
+5944,Zimbabwe,ZWE,2006,600
+5945,Zimbabwe,ZWE,2007,564
+5946,Zimbabwe,ZWE,2008,533
+5947,Zimbabwe,ZWE,2009,485
+5948,Zimbabwe,ZWE,2010,446
+5949,Zimbabwe,ZWE,2011,409
+5950,Zimbabwe,ZWE,2012,379
+5951,Zimbabwe,ZWE,2013,369
+5952,Zimbabwe,ZWE,2014,401
+5953,Zimbabwe,ZWE,2015,443
