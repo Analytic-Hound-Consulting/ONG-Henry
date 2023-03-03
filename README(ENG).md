@@ -2,25 +2,25 @@
 
 # ☄️ THE PROJECT ☄️
 
-## ⟡ ¿What does it do?
+## ⟡ What does it do?
 
 This project uses a series of top-level databases, with a high degree of information integrity and availability. It evaluates the Net Migration Flows at a global scale since the year 2000, taking in consideration more than 40 explanatory variables to understand in depth the nature of the phenomenon at a worldwide level and its various implications.
 
-## ⟡ ¿Why is it useful?
+## ⟡ Why is it useful?
 
 The Data Analysis process applies various Data Analytics and Machine Learning resources, with which powerful ***conclusions and information*** are obtained, being those extremely useful for various applications.
 
 Policy makers, advisors, people interested in migrating and various types of organizations can benefit from this work. Also, you do not have to be a scientist to understand it! Our visualization tools provide clear and understandable insights regarding trends for each country or on a global scale.
 
-## ⟡ ¿How can I check out this project?
+## ⟡ How can I check out this project?
 
 By clicking ➡️[here](http://107.21.7.155:8501/)⬅️ you will be redirect to the official Analytic Hound website for this project. There you will be able to interact with our platform, learn about our work methodology, visit the step-by-step workflow  guide and get access to all the features that our platform offers.
 
-## ⟡ ¿Can I collaborate?
+## ⟡ Can I collaborate?
 
 Of course! At Analytic Hound Consulting we are always eager to meet curious and restless minds! You can contact us directly through the contact form on our website, we will be very happy to get in touch with you!
 
-# ☄️ ¿What information does this repository contain? ☄️
+# ☄️ What information does this repository contain? ☄️
 
 ◌ Within the "Weekly Sprint" folders you will find::
 * Full log fully detailing the daily work from the first to the last day.
@@ -63,6 +63,10 @@ For the development of this project we mainly use the following sources.
 * Accesory UN data:  https://data.un.org/ 
 
 
+☄️ Presentation of the Project ☄️
+The following link contains the comprehensive presentation of the project, detailing step by step the entire data transformation process from its raw-data state to the development of insights and conclusions.
+
+https://drive.google.com/file/d/1vKZpjPYBAfzXWdfMGxxzJmXWYYkqZqur/view?usp=sharing
 
 # ☄️ License<a name="license"></a> ☄️
 
