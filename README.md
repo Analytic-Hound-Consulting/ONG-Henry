@@ -62,7 +62,11 @@ Para la realización de este proyecto utilizamos principalmente las siguientes f
 
 * Accesorio de data de UN:  https://data.un.org/ 
 
+# ☄️ Presentación del Proyecto ☄️
 
+En el siguiente link se encuentra la presentación integral del proyecto, detallando step-by-step todo el proceso de transformación del dato desde su estado de raw-data, hasta el desarrollo de los insights y conclusiones.
+
+https://drive.google.com/file/d/1vKZpjPYBAfzXWdfMGxxzJmXWYYkqZqur/view?usp=sharing
 
 # ☄️ Licencia<a name="licencia"></a> ☄️
 
