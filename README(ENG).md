@@ -2,6 +2,7 @@
 
 # ☄️ THE PROJECT ☄️
 
+
 ## ⟡ What does it do?
 
 This project uses a series of top-level databases, with a high degree of information integrity and availability. It evaluates the Net Migration Flows at a global scale since the year 2000, taking in consideration more than 40 explanatory variables to understand in depth the nature of the phenomenon at a worldwide level and its various implications.
@@ -19,6 +20,7 @@ By clicking ➡️[here](http://107.21.7.155:8501/)⬅️ you will be redirect t
 ## ⟡ Can I collaborate?
 
 Of course! At Analytic Hound Consulting we are always eager to meet curious and restless minds! You can contact us directly through the contact form on our website, we will be very happy to get in touch with you!
+
 
 # ☄️ What information does this repository contain? ☄️
 
@@ -38,6 +40,7 @@ Of course! At Analytic Hound Consulting we are always eager to meet curious and 
 * Visual support for the final presentation.
 
 ◌ A file with the details linked to the license of use.
+
 
 # ☄️ The team ☄️
 
@@ -63,14 +66,17 @@ For the development of this project we mainly use the following sources.
 * Accesory UN data:  https://data.un.org/ 
 
 
-☄️ Presentation of the Project ☄️
+# ☄️ Presentation of the Project ☄️
+
 The following link contains the comprehensive presentation of the project, detailing step by step the entire data transformation process from its raw-data state to the development of insights and conclusions.
 
 https://drive.google.com/file/d/1vKZpjPYBAfzXWdfMGxxzJmXWYYkqZqur/view?usp=sharing
 
+
 # ☄️ License<a name="license"></a> ☄️
 
 Use of this work is licensed under [GNU General Public License v3.0 (GNU GPLv3)](https://choosealicense.com/licenses/gpl-3.0/).
+
 
 # ☄️ Disclaimer ☄️
 
