@@ -2,3 +2,4 @@ streamlit
 import plotly.express as px
 matplotlib.pyplot
 streamlit_folium
+plotly == 5.5.0
