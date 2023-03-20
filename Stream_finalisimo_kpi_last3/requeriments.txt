@@ -1,9 +1,1 @@
-streamlit
-folium
 plotly.express
-pandas
-numpy
-matplotlib.pyplot
-folium
-streamlit_folium
-PIL
