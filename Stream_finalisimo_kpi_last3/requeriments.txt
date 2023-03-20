@@ -1,5 +1,0 @@
-streamlit
-import plotly.express as px
-matplotlib.pyplot
-streamlit_folium
-plotly
