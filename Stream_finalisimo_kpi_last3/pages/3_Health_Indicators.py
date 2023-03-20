@@ -6,7 +6,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import folium
 from streamlit_folium import folium_static
-import plotly.graph_objs as go
 from PIL import Image
 
 st.set_page_config(
