@@ -1,1 +1,1 @@
-plotly.express
+streamlit
