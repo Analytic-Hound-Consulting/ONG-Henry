@@ -1,2 +1,3 @@
 PIL
+plotly.express
 plotly
