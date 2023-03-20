@@ -1,10 +1,7 @@
 streamlit
-streamlit_folium
 folium
 plotly.express
-plotly
 pandas
-plotly.express
 numpy
 matplotlib.pyplot
 folium
