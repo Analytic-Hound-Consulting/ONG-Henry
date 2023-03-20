@@ -3,3 +3,10 @@ streamlit_folium
 folium
 plotly.express
 plotly
+pandas
+plotly.express
+numpy
+matplotlib.pyplot
+folium
+streamlit_folium
+PIL
