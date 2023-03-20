@@ -1,0 +1,8 @@
+streamlit
+folium
+plotly.express
+pandas
+numpy
+matplotlib.pyplot
+streamlit_folium
+PIL
