@@ -1,4 +1,4 @@
 streamlit
-plotly.express
+import plotly.express as px
 matplotlib.pyplot
 streamlit_folium
