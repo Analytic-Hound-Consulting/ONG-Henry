@@ -1,4 +1,4 @@
 streamlit
-plotly.express
+plotly
 matplotlib.pyplot
 streamlit_folium
