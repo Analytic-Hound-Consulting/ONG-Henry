@@ -16,7 +16,7 @@ st.sidebar.caption("MAILING | analytichound@gmail.com")
 st.sidebar.header(":violet[ **Developed by Analytic Hound Group®**]")
 
 #LOGO
-image = Image.open('./images/bannerIng.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/bannerIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 
@@ -48,7 +48,7 @@ st.markdown("---")
 
 st.header(":violet[DATA SOURCES:]")
 
-image = Image.open('./images/fuentesIng.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/fuentesIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 
@@ -92,7 +92,7 @@ st.header( " :violet[MEMBERS OF THE HOUNDS PACK:]"  )
 
 
 
-image1 = Image.open('./images/team.png')
+image1 = Image.open('./Stream_finalisimo_kpi_last3/images/team.png')
 st.image(image1, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 
