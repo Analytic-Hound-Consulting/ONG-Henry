@@ -45,7 +45,7 @@ fig_15123.update_traces(line_color='#728C9F', line_width=3)
 
 # Gráfico de barras FILTRADO TEST
 
-df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03.csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv")
 
 # Agrupar por año y país
 df_gup = df.groupby(['Year', 'Country Name'])["Gross Domestic Product"].sum().reset_index()
