@@ -172,7 +172,7 @@ st.markdown("In this section you can see the historical records of all the KPIs 
 
 
 
-df = pd.read_csv('./Stream_finalisimo_kpi_last3/Merged_Dataset_v03_ultimo.csv')
+df = pd.read_csv('./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv')
 
 KPIs = df[['Country Name','Year','Group','KPI_1','KPI_2','KPI_3','KPI_4','VAR_KPI_4','KPI_5','VAR_KPI_5']]
 
@@ -234,7 +234,7 @@ from bs4 import BeautifulSoup
 
 
 # Cargar el DataFrame con los datos
-df = pd.read_csv('./Stream_finalisimo_kpi_last3/Merged_Dataset_v03_ultimo.csv')
+df = pd.read_csv('./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv')
 
 # Obtener la lista de opciones para los países de origen y destino
 paises = sorted(df['Country Name'].unique())
