@@ -82,7 +82,7 @@ st.write(":blue[_GDP GROWTH: Annual percentage growth rate of GDP.(annualy %)_]"
 
 #SI DEJO ESTE FUNCIONA BIEN VOY A SACAR LOS DE ARRIBA
 
-df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03.csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv")
 
 df_gup = df.groupby(['Year'])['GDP Growth'].sum().reset_index()
 
@@ -131,7 +131,7 @@ st.write(":blue[_TOTAL RESERVES:  Comprise holdings of monetary gold, special dr
 
 #Grafico 6
 
-df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03.csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv")
 
 df_gup = df.groupby(['Year'])['Total reserves (gold + US$)'].sum().reset_index()
 
