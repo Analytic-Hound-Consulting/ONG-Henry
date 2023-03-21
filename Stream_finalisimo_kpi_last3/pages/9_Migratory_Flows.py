@@ -79,7 +79,7 @@ else:
 
 
 
-df = pd.read_csv("./df_can.csv", header=0)
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/df_can.csv", header=0)
 
 dest_country = st.selectbox('Selecciona el país de destino:', df['target_country_name'].unique())
 
@@ -100,7 +100,7 @@ st.pyplot(fig)
 
 
 # Lectura de datos
-df = pd.read_csv("./df_can.csv", header=0)
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/df_can.csv", header=0)
 
 # Lista de años de interés
 years = list(map(str, range(2015, 2020)))
@@ -136,7 +136,7 @@ else:
 
 
 # Lectura de datos
-df = pd.read_csv("./df_can.csv", header=0)
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/df_can.csv", header=0)
 
 # Lista de años de interés
 years = list(map(str, range(2015, 2020)))
@@ -173,7 +173,7 @@ else:
 #OPCION1
 
 # Lectura de datos
-df = pd.read_csv("./df_can.csv", header=0)
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/df_can.csv", header=0)
 
 # Lista de años de interés
 years = list(map(str, range(2015, 2020)))
@@ -213,7 +213,7 @@ for country in top5.index:
 #OPCION2 
 
 # Lectura de datos
-df = pd.read_csv("./df_can.csv", header=0)
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/df_can.csv", header=0)
 
 # Lista de años de interés
 years = list(map(str, range(2015, 2020)))
