@@ -16,7 +16,7 @@ st.sidebar.caption("MAILING | analytichound@gmail.com")
 st.sidebar.header(":violet[ **Developed by Analytic Hound Group®**]")
 
 #LOGO
-image = Image.open('./images/bannering.jpg')
+image = Image.open('./images/bannerIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 
