@@ -229,45 +229,7 @@ fig = px.line(df_filtered, x='Year', y=selected_kpi, title=f"{selected_kpi} en {
 # Mostrar gráfico en Streamlit
 st.plotly_chart(fig)
 
-import requests
-from bs4 import BeautifulSoup
 
-
-# Cargar el DataFrame con los datos
-df = pd.read_csv('./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv')
-
-# Obtener la lista de opciones para los países de origen y destino
-paises = sorted(df['Country Name'].unique())
-
-# Crear los selectbox para que el usuario seleccione el país de origen y destino
-pais_origen = st.selectbox("Selecciona el país de origen:", paises)
-pais_destino = st.selectbox("Selecciona el país de destino:", paises)
-
-# Filtrar los datos para obtener la información correspondiente a los países seleccionados
-info_origen = df[df['Country Name'] == pais_origen].iloc[0]
-info_destino = df[df['Country Name'] == pais_destino].iloc[0]
-
-# Obtener la URL de la embajada correspondiente al país de origen y destino
-url = f"https://www.embassypages.com/{pais_destino.lower().replace(' ', '-')}-embassy-buenosaires-{pais_origen.lower().replace(' ', '-')}"
-
-# Realizar la solicitud HTTP a la página web y obtener el contenido
-response = requests.get(url)
-
-# Utilizar BeautifulSoup para analizar el contenido HTML de la página web
-soup = BeautifulSoup(response.content, 'html.parser')
-
-# Encontrar la información de la embajada y mostrarla en Streamlit
-embassy_info = soup.find('div', {'class': 'post_posttype1'}).get_text()
-
-# Mostrar los datos seleccionados por el usuario y la información de la embajada
-st.write(f"Información para la relación entre {pais_origen} y {pais_destino}:")
-st.write(f"- Población de {pais_origen}: {info_origen['Population']}")
-st.write(f"- Población de {pais_destino}: {info_destino['Population']}")
-st.write(f"- Producto interno bruto (PIB) per cápita de {pais_origen}: {info_origen['GDP per capita ($)']}")
-st.write(f"- Producto interno bruto (PIB) per cápita de {pais_destino}: {info_destino['GDP per capita ($)']}")
-st.write("")
-st.write("Información de la embajada:")
-st.write(embassy_info)
 
 
 
