@@ -17,7 +17,7 @@ st.set_page_config(
 
 #GRAFICO 4 ---------------------------
 
-image = Image.open('./images/macroIng.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/macroIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.write(":violet[IN THIS SECTION YOU CAN CONSULT THE MOST IMPORTANT VARIABLES ON THIS CATEGORY OF INDICATORS.]")
@@ -31,7 +31,7 @@ st.markdown("-----------")
 
 st.write(":blue[_GROSS DOMESTIC PRODUCT (GDP): Total gross value added by all resident producers in the economy of each country in U$D.(U$D)_]")
 
-df = pd.read_csv("Merged_Dataset_v03 (2).csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv")
 
 df_gup = df.groupby(['Year'])["Gross Domestic Product"].sum().reset_index()
 
@@ -45,7 +45,7 @@ fig_15123.update_traces(line_color='#728C9F', line_width=3)
 
 # Gráfico de barras FILTRADO TEST
 
-df = pd.read_csv("Merged_Dataset_v03.csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03.csv")
 
 # Agrupar por año y país
 df_gup = df.groupby(['Year', 'Country Name'])["Gross Domestic Product"].sum().reset_index()
@@ -82,7 +82,7 @@ st.write(":blue[_GDP GROWTH: Annual percentage growth rate of GDP.(annualy %)_]"
 
 #SI DEJO ESTE FUNCIONA BIEN VOY A SACAR LOS DE ARRIBA
 
-df = pd.read_csv("Merged_Dataset_v03.csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03.csv")
 
 df_gup = df.groupby(['Year'])['GDP Growth'].sum().reset_index()
 
@@ -131,7 +131,7 @@ st.write(":blue[_TOTAL RESERVES:  Comprise holdings of monetary gold, special dr
 
 #Grafico 6
 
-df = pd.read_csv("Merged_Dataset_v03.csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03.csv")
 
 df_gup = df.groupby(['Year'])['Total reserves (gold + US$)'].sum().reset_index()
 
