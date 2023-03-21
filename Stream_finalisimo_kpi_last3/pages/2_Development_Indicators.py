@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 
-image = Image.open('./images/desarrolloIng.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/desarrolloIng.jpg')
 st.image(image, caption=None, width=750 , use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.write(":violet[IN THIS SECTION YOU CAN CONSULT THE MOST IMPORTANT VARIABLES ON THIS CATEGORY OF INDICATORS.]")
@@ -25,7 +25,7 @@ st.write(":violet[IN THIS SECTION YOU CAN CONSULT THE MOST IMPORTANT VARIABLES O
 st.markdown("-----------")
 
 
-df = pd.read_csv("Merged_Dataset_v03 (2).csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv")
 
 
 #Grafico 13
