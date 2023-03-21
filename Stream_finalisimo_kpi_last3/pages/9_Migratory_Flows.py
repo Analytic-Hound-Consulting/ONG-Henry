@@ -9,7 +9,6 @@ from streamlit_folium import folium_static
 import plotly.graph_objs as go
 from PIL import Image
 import requests
-from bs4 import BeautifulSoup
 import streamlit as st
 
 # Load the data
