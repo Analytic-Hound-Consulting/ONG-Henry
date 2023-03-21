@@ -5,4 +5,4 @@ pandas
 numpy
 matplotlib.pyplot
 streamlit_folium
-PIL
+Image
