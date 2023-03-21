@@ -1,8 +1,8 @@
-pandas
 streamlit
+streamlit_folium
 plotly
-numpy
 matplotlib
+semver
 folium
 plotly.graph_objs
 PIL
