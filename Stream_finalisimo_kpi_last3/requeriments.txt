@@ -1,8 +1,8 @@
-streamlit
-folium
-plotly.express
 pandas
+streamlit
+plotly
 numpy
-matplotlib.pyplot
-streamlit_folium
-Image
+matplotlib
+folium
+plotly.graph_objs
+PIL
