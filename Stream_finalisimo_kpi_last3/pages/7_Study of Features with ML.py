@@ -9,7 +9,7 @@ st.set_page_config(
     layout='wide'
 )
 
-image = Image.open('./images/predicciones.png')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/predicciones.png')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
@@ -48,7 +48,7 @@ st.code(code, language='python')
 
 
 
-image = Image.open('./images/population_totalIng.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/population_totalIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.write('------------------------')
@@ -74,7 +74,7 @@ coefficients'''
 st.code(code, language='python')
 
 
-image = Image.open('./images/x_population_totalIng.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/x_population_totalIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.write('------------------------')
@@ -144,7 +144,7 @@ dropped_features
 st.code(code, language='python')
 
 
-image = Image.open('./images/access_electIng.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/access_electIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
@@ -242,7 +242,7 @@ SK_1
 st.code(code, language='python')
 
 
-image = Image.open('./images/export_ofIng.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/export_ofIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
@@ -268,7 +268,7 @@ coefficients_1
 st.code(code, language='python')
 
 
-image = Image.open('./images/x1 export.png')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/x1 export.png')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
@@ -295,7 +295,7 @@ plt.show()
 '''
 st.code(code, language='python')
 
-image = Image.open('./images/grafico_1Ing.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/grafico_1Ing.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 
@@ -331,7 +331,7 @@ SK_3
 st.code(code, language='python')
 
 
-image = Image.open('./images/gni_per_capita.png')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/gni_per_capita.png')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
@@ -357,7 +357,7 @@ coefficients_3
 st.code(code, language='python')
 
 
-image = Image.open('./images/x1_gni_per.png')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/x1_gni_per.png')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
@@ -385,7 +385,7 @@ plt.show()
 st.code(code, language='python')
 
 
-image = Image.open('./images/grafico_2Ing.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/grafico_2Ing.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
@@ -420,7 +420,7 @@ SK_5
 st.code(code, language='python')
 
 
-image = Image.open('./images/import_ofIng.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/import_ofIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
@@ -446,7 +446,7 @@ coefficients_5
 st.code(code, language='python')
 
 
-image = Image.open('./images/x1 import.png')
+image = Image.open('./Stream_finalisimo_kpi_last3//x1 import.png')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
@@ -474,7 +474,7 @@ plt.show()
 st.code(code, language='python')
 
 
-image = Image.open('./images/grafico_3Ing3.jpg')
+image = Image.open('./Stream_finalisimo_kpi_last3/images/grafico_3Ing3.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
