@@ -2,8 +2,6 @@ streamlit
 streamlit_folium
 plotly
 matplotlib
-semver
 folium
 plotly.graph_objs
 PIL
-protobuf==3.20.1
