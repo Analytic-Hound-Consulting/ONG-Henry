@@ -3,4 +3,4 @@ streamlit_folium
 plotly
 matplotlib 
 folium
-BeautifulSoup
+Bs4
