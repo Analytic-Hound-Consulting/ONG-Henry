@@ -3,5 +3,3 @@ streamlit_folium
 plotly
 matplotlib
 folium
-plotly.graph_objs
-PIL
