@@ -446,7 +446,7 @@ coefficients_5
 st.code(code, language='python')
 
 
-image = Image.open('./Stream_finalisimo_kpi_last3//x1 import.png')
+image = Image.open('./Stream_finalisimo_kpi_last3/x1 import.png')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.markdown("-----------")
