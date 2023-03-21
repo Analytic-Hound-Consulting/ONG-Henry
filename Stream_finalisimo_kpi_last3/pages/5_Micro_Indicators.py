@@ -14,7 +14,8 @@ st.set_page_config(
     layout='wide'
 )
 
-image = Image.open('./images/microIng.jpg')
+
+image = Image.open('./Stream_finalisimo_kpi_last3/images/microIng.jpg')
 st.image(image, caption=None, width=750, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 st.write(":violet[ IN THIS SECTION YOU CAN CONSULT THE MOST IMPORTANT VARIABLES ON THIS CATEGORY OF INDICATORS]")
@@ -25,7 +26,7 @@ st.write(":blue[_FOREIGN DIRECT INVESTEMENT, NET INFLOWS: Net inflows of investm
 
 #Grafico 10 INICIO indicadores MICRO
 
-df = pd.read_csv("Merged_Dataset_v03 (2).csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv")
 
 df_gup = df.groupby(['Year'])['Foreign direct investment, net inflows (BoP, current US$)'].sum().reset_index()
 
