@@ -12,7 +12,7 @@ import requests
 import streamlit as st
 
 # Load the data
-filtered_df_can = pd.read_csv("./df_can.csv", header=0)
+filtered_df_can = pd.read_csv("./Stream_finalisimo_kpi_last3/df_can.csv", header=0)
 
 # Create the Streamlit app
 st.title('Flows between countries')
