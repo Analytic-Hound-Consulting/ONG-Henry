@@ -14,7 +14,7 @@ Policy Makers, asesores, personas interesadas en migrar y diversos tipos de orga
 
 ## ⟡ ¿Cómo puedo ver su trabajo?
 
-Cliqueando ➡️[aqui](http://107.21.7.155:8501/)⬅️ podrás ingresar a la página web oficial de Analytic Hound para este proyecto. Allí puede interactuar con nuestra plataforma, conocer nuestra metodología de trabajo, visitar la guía step-by-step del workflow del proyecto y acceder todas las funcionalidades que ofrece nuestra plataforma.
+Cliqueando ➡️[aqui](https://analytic-hound-consulti-stream-finalisimo-kpi-last3home-jjyxd7.streamlit.app/)⬅️ podrás ingresar a la página web oficial de Analytic Hound para este proyecto. Allí puede interactuar con nuestra plataforma, conocer nuestra metodología de trabajo, visitar la guía step-by-step del workflow del proyecto y acceder todas las funcionalidades que ofrece nuestra plataforma.
 
 ## ⟡ ¿Puedo colaborar con ustedes?
 
