@@ -165,7 +165,7 @@ with col30:
     
 st.markdown("-----------")    
 
-df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03.csv")
+df = pd.read_csv("./Stream_finalisimo_kpi_last3/Merged_Dataset_v03 (2).csv")
 
 #Grafico 16
 
